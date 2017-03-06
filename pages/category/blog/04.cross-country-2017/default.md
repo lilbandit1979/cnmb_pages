@@ -1,6 +1,6 @@
 ---
 title: 'Cross Country 2017'
-published: true
+published: false
 date: '05-03-2017 09:30'
 publish_date: '06-03-2017 12:10'
 taxonomy:
