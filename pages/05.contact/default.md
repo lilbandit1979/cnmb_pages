@@ -21,6 +21,7 @@ recaptchacontact:
 	- (087) 287 2174
 * Secretary: Shane Power
   	- (086) 162 1047
+  	- cumannkildare@gmail.com
 * Assistant Secretary Girls Football: Aileen Cullinane
 	- (087) 7783771
 * Assistant Secretary Camogie: Robbie Jameson
