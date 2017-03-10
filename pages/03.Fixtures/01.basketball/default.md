@@ -193,7 +193,7 @@ Two courts available. Final at 2.00pm approx.
 
 INTERMEDIATE SCHOOLS B: GIRLS BBALL BLITZ ( 76 – 124 )
 
-Date: Thursday 6th April
+Date: Thursday 27th April
 
 Venue: Scoil Ui Riarda, Kilcock
 
