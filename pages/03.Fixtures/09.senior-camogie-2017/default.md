@@ -42,7 +42,7 @@ Co-ordinator Division 2: Sarah Losty, Caragh: 087 7954156
 </tr>
 <tr>
 <td class="tg-031e">C Scoil Mochua</td>
-<td class="tg-031e">C Sallins</td>
+<td class="tg-031e">C Bye</td>
 </tr>
 <tr>
 <td class="tg-031e">D G.S. Ui Fhiach</td>
@@ -54,7 +54,7 @@ Co-ordinator Division 2: Sarah Losty, Caragh: 087 7954156
 <th class="tg-031e">Division 2</th>
 </tr>
 <tr>
-<td class="tg-031e">A Bye </td>
+<td class="tg-031e">A Sallins </td>
 </tr>
 <tr>
 <td class="tg-031e">B Caragh</td>
