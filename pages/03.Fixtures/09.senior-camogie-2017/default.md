@@ -70,38 +70,6 @@ Co-ordinator Division 2: Sarah Losty, Caragh: 087 7954156
 </tr>
 <td class="tg-031e">F Scoil Mhichil Naofa</td>
 </tr>
-
-
-<table class="tg">
-<tr>
-<th class="tg-031e">Division 1</th>
-<th class="tg-031e">Division 2</th>
-</tr>
-<tr>
-<td class="tg-031e">A Kilcock</td>
-<td class="tg-031e">A Sallins</td>
-</tr>
-<tr>
-<td class="tg-031e">B Naas</td>
-<td class="tg-031e">B Caragh</td>
-</tr>
-<tr>
-<td class="tg-031e">C Maynooth</td>
-<td class="tg-031e">C Ardclough</td>
-</tr>
-<tr>
-<td class="tg-031e">D Kill</td>
-<td class="tg-031e">D Rathmore</td>
-</tr>
-<tr>
-<td class="tg-031e">E Scoil Mochua</td>
-<td class="tg-031e">E G. S. Chill Dara</td>
-</tr>
-<tr>
-<td class="tg-031e">F G. S. Ui Fhiach</td>
-<td class="tg-031e">F Scoil Mhichil Naofa</td>
-</tr>
-</table>
 <br>
 Senior Camogie Division 3: 20 mins per half, 13 aside.
 <br>
