@@ -25,6 +25,7 @@ Please note:
 Senior Camogie Division 1 and 2: 20 mins per half, 15 aside.
 <br>
 Co-ordinator Division 1: Breda Fay, Kilcock: 087 2417226
+<br>
 Co-ordinator Division 2: Sarah Losty, Caragh: 087 7954156
 
 <table class="tg">
@@ -70,6 +71,8 @@ Co-ordinator Division 2: Sarah Losty, Caragh: 087 7954156
 </tr>
 <td class="tg-031e">F Scoil Mhichil Naofa</td>
 </tr>
+</table>
+
 <br>
 
 Senior Camogie Division 3: 20 mins per half, 13 aside.
