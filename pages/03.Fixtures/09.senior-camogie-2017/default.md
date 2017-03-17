@@ -26,6 +26,52 @@ Senior Camogie Division 1 and 2: 20 mins per half, 15 aside.
 <br>
 Co-ordinator Division 1: Breda Fay, Kilcock: 087 2417226
 Co-ordinator Division 2: Sarah Losty, Caragh: 087 7954156
+
+<table class="tg">
+<tr>
+<th class="tg-031e">Division 1A North</th>
+<th class="tg-031e">Division 1B South</th>
+</tr>
+<tr>
+<td class="tg-031e">A Kilcock</td>
+<td class="tg-031e">A Naas</td>
+</tr>
+<tr>
+<td class="tg-031e">B Maynooth</td>
+<td class="tg-031e">B Kill</td>
+</tr>
+<tr>
+<td class="tg-031e">C Scoil Mochua</td>
+<td class="tg-031e">C Sallins</td>
+</tr>
+<tr>
+<td class="tg-031e">D G.S. Ui Fhiach</td>
+<td class="tg-031e">D Clane</td>
+</table>
+
+<table class="tg">
+<tr>
+<th class="tg-031e">Division 2</th>
+</tr>
+<tr>
+<td class="tg-031e">A Bye </td>
+</tr>
+<tr>
+<td class="tg-031e">B Caragh</td>
+</tr>
+<tr>
+<td class="tg-031e">C Ardclough</td>
+</tr>
+<tr>
+<td class="tg-031e">D Rathmore</td>
+</tr>
+<tr>
+<td class="tg-031e">E G.S. Chill Dara</td>
+</tr>
+<td class="tg-031e">F Scoil Mhichil Naofa</td>
+</tr>
+
+
 <table class="tg">
 <tr>
 <th class="tg-031e">Division 1</th>
