@@ -48,7 +48,7 @@ Co-ordinator Division 2: Sarah Losty, Caragh: 087 7954156
 <td class="tg-031e">D G.S. Ui Fhiach</td>
 <td class="tg-031e">D Clane</td>
 </table>
-
+<br>
 <table class="tg">
 <tr>
 <th class="tg-031e">Division 2</th>
