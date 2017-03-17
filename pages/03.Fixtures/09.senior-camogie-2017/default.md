@@ -71,10 +71,10 @@ Co-ordinator Division 2: Sarah Losty, Caragh: 087 7954156
 <td class="tg-031e">F Scoil Mhichil Naofa</td>
 </tr>
 <br>
+
 Senior Camogie Division 3: 20 mins per half, 13 aside.
 <br>
 Co-ordinator Division 3: Annmarie Phelan, Ballymany
-<br>
 <table class="tg">
 <tr>
 <th class="tg-031e">Division 3</th>
