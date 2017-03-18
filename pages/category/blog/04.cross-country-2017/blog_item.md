@@ -16,7 +16,7 @@ Date: Thursday 6th April
 
 Registration:
 
-*Open to all primary schools!
+*Open to all primary schools!*
 *Registration closing date: Friday 31st March 6pm. 
 *No late registrations accepted.
 *Register online for girls teams [here](https://cumannnambunscolchilldara.wufoo.com/forms/s8qv2r70fcul0s/).
