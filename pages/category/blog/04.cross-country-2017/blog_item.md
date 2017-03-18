@@ -40,9 +40,9 @@ recaptchacontact:
 
 * 10:30am: B. Large School Girls 150+ pupils 3rd-6th class.
 
-* 10:50am: C Intermediate A Boys 81-129 pupils 3rd -6th class.
+* 10:50am: C Intermediate A Boys 81-149 pupils 3rd -6th class.
 
-* 11:10am: D Intermediate  A Girls 81-129 pupils 3rd-6th class.
+* 11:10am: D Intermediate  A Girls 81-149 pupils 3rd-6th class.
 
 * 12:30am: E Intermediate B Boys 50-80 pupils 3rd-6th class.
 
