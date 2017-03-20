@@ -151,7 +151,7 @@ Co-ordinator: Fionnuala Kelly, Naomh Uilig Newbridge: 087 9449200
 </tr>
 </table>
 <br> 
-Fixtures: Division 1,2,3:
+Fixtures: Division 2,3:
 <br>
 <table class="tg">
 <tr>
@@ -184,7 +184,7 @@ Fixtures: Division 1,2,3:
 </tr>
 </table>
 <br>
-Fixtures Division 1, 4,5:
+Fixtures Division 1,4,5:
 <style type="text/css">
 .tg {border-collapse:collapse;border-spacing:0;border-color:#bbb;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#bbb;color:#594F4F;background-color:#ffffff;}
