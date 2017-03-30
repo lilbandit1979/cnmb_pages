@@ -14,6 +14,7 @@ Remember:
 <li>Div 6-7: 11 players aside and 15 mins per half</li>
 <li>Semi-Finals: 8th-12th May</li>
 <li>Finals: 18th May</li>
+</ul>
  
 
 Under 10s Div 1
