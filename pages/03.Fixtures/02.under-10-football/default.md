@@ -8,12 +8,12 @@ recaptchacontact:
 ---
 
 Remember:
-
-Use qualified referees from our 2017 booklet
-Div 1-5: 13 players aside and 20 mins per half
-Div 6-7: 11 players aside and 15 mins per half
-Semi-Finals: 8th-12th May
-Finals: 18th May
+<ul>
+<li>Use qualified referees from our 2017 booklet</li>
+<li>Div 1-5: 13 players aside and 20 mins per half</li>
+<li>Div 6-7: 11 players aside and 15 mins per half</li>
+<li>Semi-Finals: 8th-12th May</li>
+<li>Finals: 18th May</li>
  
 
 Under 10s Div 1
