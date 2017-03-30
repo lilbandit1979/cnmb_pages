@@ -6,7 +6,7 @@ recaptchacontact:
     enabled: false
 ---
 
-Boys Senior Football Division 1: 25 mins per half 
+Boys Senior Football Division 1: 25 mins per half, 15 aside.
 <br>
 Co-ordinator: Paul Dunning, Ballymany: 0857040603
 
@@ -40,7 +40,7 @@ Co-ordinator: Paul Dunning, Ballymany: 0857040603
 </tr>
 </table>
 <br>
-Boys Senior Football Division 2: 25 mins per half 
+Boys Senior Football Division 2: 25 mins per half,15 aside 
 <br>
 Co-ordinator: Pat Gallagher, Kill: 087 9952729.
 <table class="tg">
@@ -67,7 +67,7 @@ Co-ordinator: Pat Gallagher, Kill: 087 9952729.
 </table>
 <br>
 
-Senior Boys Football Division 3: 25 mins per half
+Senior Boys Football Division 3: 25 mins per half, 15 aside
 <br>
 Co-ordinator: Seán Corkery, Caragh: 0872872174
 <table class="tg">
@@ -102,7 +102,7 @@ Co-ordinator: Seán Corkery, Caragh: 0872872174
 </table>
 <br>
 
-Senior Boys Football Division 4: 20 mins per half
+Senior Boys Football Division 4: 20 mins per half, 15 aside.
 <br>
 Co-ordinator: Eugene Riordan, Rathcoffey, 0872361789
 <table class="tg">
@@ -138,7 +138,7 @@ Co-ordinator: Eugene Riordan, Rathcoffey, 0872361789
 </tr>
 </table>
 <br>
-Senior Boys Football Division 5: 20 mins per half
+Senior Boys Football Division 5: 20 mins per half, 15 aside.
 <br>
 Co-ordinator: Jim Hanifin, Allen, 0863292118
 <br>
@@ -174,7 +174,7 @@ Co-ordinator: Jim Hanifin, Allen, 0863292118
 </table>
 <br>
 
-Senior Boys Football Division 6: 15 mins per half
+Senior Boys Football Division 6: 15 mins per half, 15 aside.
 <br>
 Co-ordinator: Maeve McConaghy
 <table class="tg">
@@ -201,7 +201,7 @@ Co-ordinator: Maeve McConaghy
 </table>
 <br>
 
-Senior Boys Football Division 7: 15 mins per half
+Senior Boys Football Division 7: 15 mins per half, 15 aside
 <br>
 Co-ordinator: Fionnuala Kelly, Naomh Uilig: 087 9449200
 <table class="tg">
