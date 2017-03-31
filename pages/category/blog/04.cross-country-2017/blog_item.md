@@ -19,8 +19,7 @@ recaptchacontact:
 * Open to all primary schools!
 * Strictly 2 teams per race.
 * Registration closing date: Friday 31st March 6pm.
-* Please note that entries after closing date are not guaranteed entry. 
-* No late registrations accepted.
+* Late entries not accepted. 
 * Register online for girls teams [here](https://cumannnambunscolchilldara.wufoo.com/forms/s8qv2r70fcul0s/).
 * Register online for boys teams [here](https://cumannnambunscolchilldara.wufoo.com/forms/pnzvuqo0xui01e/).
 * No postal registrations.
