@@ -168,7 +168,7 @@ Co-ordinator: Jim Hanifin, Allen, 0863292118
 <td class="tg-031e">E Johnstownbridge</td>
 </tr>
 <tr>
-<td class="tg-031e">F Bye</td>
+<td class="tg-031e">F Suncroft</td>
 <td class="tg-031e">F Kilshanroe</td>
 </tr>
 </table>
