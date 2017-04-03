@@ -32,7 +32,7 @@ recaptchacontact:
 * Crowd Management:
 
 * We ask that competitors in the first four events have departed before the next group arrive due to the huge numbers involved and limited parking facilities at Hawkfield.
-
+* Queries to John O Sulivan 087 2408009
 **Race Timetable:
 
 ** Event: **
