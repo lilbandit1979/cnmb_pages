@@ -176,7 +176,7 @@ Co-ordinator: Jim Hanifin, Allen, 0863292118
 
 Senior Boys Football Division 6: 15 mins per half, 9 aside.
 <br>
-Co-ordinator: Maeve McConaghy
+Co-ordinator: Paddy Judge, 0872924595
 <table class="tg">
 <tr>
 <th class="tg-s6z2">Division 6A</th>
