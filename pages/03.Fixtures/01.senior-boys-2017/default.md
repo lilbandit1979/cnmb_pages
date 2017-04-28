@@ -174,7 +174,7 @@ Co-ordinator: Jim Hanifin, Allen, 0863292118
 </table>
 <br>
 
-Senior Boys Football Division 6: 15 mins per half, 11 aside.
+Senior Boys Football Division 6: 15 mins per half, 9 aside.
 <br>
 Co-ordinator: Maeve McConaghy
 <table class="tg">
@@ -201,7 +201,7 @@ Co-ordinator: Maeve McConaghy
 </table>
 <br>
 
-Senior Boys Football Division 7: 15 mins per half, 11 aside
+Senior Boys Football Division 7: 15 mins per half, 9 aside
 <br>
 Co-ordinator: Fionnuala Kelly, Naomh Uilig: 087 9449200
 <table class="tg">
