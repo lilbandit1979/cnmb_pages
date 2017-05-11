@@ -13,7 +13,7 @@ recaptchacontact:
 
 ## Pitch 1
 * 2:30 - Div 2 
-* 3:20 - Div 4 
+* 3:20 - Rathmore vs. Scoil Bhride
 * 4:10 - Div 6
 * 4:50 - Div 1
 
