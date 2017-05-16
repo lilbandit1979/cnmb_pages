@@ -23,7 +23,7 @@ recaptchacontact:
 
 ## Pitch 2
 * 2:30 - Div 3: Crookstown vs. G.S. Uí Fhiach
-* 3:20 - Div 5: TBC
+* 3:20 - Div 5: Naomh Uilig vs Kildangan
 * 4:10 - Div 7: Moone vs. Newbridge Educate T.
 
 There will also be an exhibition game @ 1:30. It's listed as Division 8.
