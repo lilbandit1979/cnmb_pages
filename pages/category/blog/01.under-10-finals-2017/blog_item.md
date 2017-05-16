@@ -18,8 +18,8 @@ recaptchacontact:
 ## Pitch 1
 * 2:30 - Div 2: Scoil Uí Riada vs. Patricians 
 * 3:20 - Div 4: Rathmore vs. Scoil Bhride
-* 4:10 - Div 6: TBC
-* 4:50 - Div 1: Naas vs Clane/Ballymany
+* 4:10 - Div 6: Coill Dubh vs Robertstown
+* 4:50 - Div 1: Naas vs Clane
 
 ## Pitch 2
 * 2:30 - Div 3: Crookstown vs. G.S. Uí Fhiach
