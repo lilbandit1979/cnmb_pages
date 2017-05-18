@@ -184,7 +184,7 @@ Fixtures:
 <br>
 Semi-Finals: 15th-19th May
 <br>
-Finals: 25th/26th May
+Finals: 24th/25th May
 <br>
 Semi-finals: Team finishing top in division A plays runner up in division B at neutral venue.
 <br>
