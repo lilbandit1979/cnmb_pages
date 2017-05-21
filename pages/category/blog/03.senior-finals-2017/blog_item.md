@@ -16,7 +16,7 @@ recaptchacontact:
 ### Wednesday ###
 
 Pitch 1
-* __2:30:__ Div 2 girls - Gaelscoil Uí Fhiach v kilcock/ Gaelscoil Chill Dara
+* __2:30:__ Div 2 girls - Gaelscoil Uí Fhiach v Gaelscoil Chill Dara
 * __3:30:__ Div 4 boys - Derrinturn v Rathmore
 * __4:30:__ Div 1 B boys - Ballymany v Clane
 
