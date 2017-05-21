@@ -1,5 +1,6 @@
 ---
 title: 'Mini 7s'
+published: false
 visible: true
 recaptchacontact:
     enabled: false
