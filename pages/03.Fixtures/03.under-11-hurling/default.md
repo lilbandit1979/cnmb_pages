@@ -146,7 +146,7 @@ Co-ordinator: Sean Hickey, Lackagh 086 8461367
 </tr>
 <tr>
 <td class="tg-031e">D Naomh Uilig Newbridge</td>
-<td class="tg-031e">D Bye</td>
+<td class="tg-031e">D Patricians Newbridge</td>
 </tr>
 </table>
 <br>
