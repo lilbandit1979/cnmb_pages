@@ -1,7 +1,7 @@
 ---
 title: 'Senior Camogie 2017'
-visible: false
 published: true
+visible: false
 recaptchacontact:
     enabled: false
 ---
@@ -20,7 +20,7 @@ Please note:
 <li>Division 3,4,5: 20 mins per half, 13 aside.</li>
 <li>2 points for a win, 1 for a draw.</li>
 <li>Semi-Finals: 29th May-June 2nd</li>
-<li>Finals: 8th June</li>
+<li>Finals: 15th June</li>
 <br>
 Senior Camogie Division 1 and 2: 20 mins per half, 15 aside.
 <br>
