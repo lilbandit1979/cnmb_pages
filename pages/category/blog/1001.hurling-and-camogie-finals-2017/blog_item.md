@@ -1,5 +1,6 @@
 ---
 title: 'Hurling and Camogie Finals 2017'
+published: true
 ---
 
 # Allianz Cumann na mBunscol Kildare Senior Hurling and Camogie Finals 2017
