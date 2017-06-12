@@ -42,7 +42,6 @@ Pitch 3
 3.30: DIV 4 Hurling Cappagh           vs     Straffan
 
 4.30: DIV 4 Camogie GS Nás               vs     Clogherinkoe           
-* To Be Confirmed
 
 ### Please note: 
 * Remember: All participating teams must bring 3 teamsheets with names of all players including dates of birth and corressponding jersey numbers for Cumann admin puropses and for accurate media coverage.
