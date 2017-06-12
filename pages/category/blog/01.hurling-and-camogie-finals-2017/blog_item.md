@@ -23,7 +23,7 @@ Pitch 1
 
 3.30: DIV 5 Camogie Johnstownbridge    vs     Scoil Naomh Uilig
 
-4.30: DIV 3 Hurling Dunlavin           vs     Patricians / Ballymany
+4.30: DIV 3 Hurling Dunlavin           vs     Patricians
 
 
 Pitch 2
@@ -39,7 +39,7 @@ Pitch 3
 
 2.30: DIV 2 Camogie Caragh               vs     Scoil Mhichíl Naofa
 
-3.30: DIV 4 Hurling Cappagh           vs     Straffan / Lackagh
+3.30: DIV 4 Hurling Cappagh           vs     Straffan
 
 4.30: DIV 4 Camogie GS Nás               vs     Clogherinkoe           
 * To Be Confirmed
