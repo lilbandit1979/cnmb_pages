@@ -30,7 +30,7 @@ Pitch 2
 
 2.30: DIV 1 Camogie GS Uí Fhiach    vs     Clane
 
-3.30: DIV 2 Hurling Rathmore    vs    GS Uí Fhiach
+3.30: DIV 2 Hurling Rathmore    vs    GS Nás 
 
 4.30: DIV 5 Camogie Johnstownbridge    vs     Scoil Naomh Uilig  
 
