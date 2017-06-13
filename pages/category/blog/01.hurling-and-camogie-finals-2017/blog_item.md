@@ -19,7 +19,7 @@ Thursday 15th June
 
 Pitch 1           
 
-2.30: DIV 1 Hurling Celbridge          vs     Naas/Clane
+2.30: DIV 1 Hurling Celbridge          vs     Naas
 
 3.30: DIV 3 Camogie Scoil Ui Riada  vs     Rathcoffey
 
