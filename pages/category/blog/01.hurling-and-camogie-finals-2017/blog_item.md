@@ -21,7 +21,7 @@ Pitch 1
 
 2.30: DIV 1 Hurling Celbridge          vs     Naas/Clane
 
-3.30: DIV 5 Camogie Johnstownbridge    vs     Scoil Naomh Uilig
+3.30: DIV 3 Camogie Scoil Ui Riada  vs     Rathcoffey
 
 4.30: DIV 3 Hurling Dunlavin           vs     Patricians
 
@@ -30,9 +30,9 @@ Pitch 2
 
 2.30: DIV 1 Camogie GS Uí Fhiach    vs     Clane
 
-3.30: DIV 2 Hurling Rathmore / Scoil Uí Riada    vs    GS Uí Fhiach
+3.30: DIV 2 Hurling Rathmore    vs    GS Uí Fhiach
 
-4.30: DIV 3 Camogie Scoil Ui Riada  vs     Rathcoffey    
+4.30: DIV 5 Camogie Johnstownbridge    vs     Scoil Naomh Uilig  
 
  
 Pitch 3
