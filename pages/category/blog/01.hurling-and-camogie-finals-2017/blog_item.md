@@ -44,5 +44,5 @@ Pitch 3
 4.30: DIV 4 Camogie GS Nás               vs     Clogherinkoe           
 
 ### Please note: 
-* Remember: All participating teams must bring 3 teamsheets with names of all players including dates of birth and corressponding jersey numbers for Cumann admin puropses and for accurate media coverage.
+* Remember: All participating teams must bring 3 teamsheets with names of all players including dates of birth and corresponding jersey numbers for Cumann admin puropses and for accurate media coverage.
 * Best of luck to all children and mentors on their big day.
