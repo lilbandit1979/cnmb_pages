@@ -1,5 +1,8 @@
 ---
 title: 'Summer Season Thanks'
+taxonomy:
+    category:
+        - Blog
 recaptchacontact:
     enabled: false
 ---
