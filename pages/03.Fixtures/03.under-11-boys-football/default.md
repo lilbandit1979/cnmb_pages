@@ -100,7 +100,7 @@ Co-ordinator: Seán Corkery, Caragh: 087 2872174
 <table class="tg">
 <tr>
 <th class="tg-031e">Division 3A</th>
-<th class="tg-031e">Division 4A</th>
+<th class="tg-031e">Division 3B</th>
 </tr>
 <tr>
 <td class="tg-031e">A Castledermot</td>
