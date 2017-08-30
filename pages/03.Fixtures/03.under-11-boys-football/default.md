@@ -207,7 +207,7 @@ Co-ordinator: Jim Hanifin, Allen, 0863292118
 <th class="tg-031e">Division 6B</th>
 </tr>
 <tr>
-<td class="tg-031e">A Kilberry</td>
+<td class="tg-031e">A Ballymore</td>
 <td class="tg-031e">A Straffan</td>
 </tr>
 <tr>
@@ -250,7 +250,7 @@ Co-ordinator: Stephen O Brien, St. Conleth and Marys, 0876479157
 <td class="tg-031e">B Mhichil Naofa Athy</td>
 </tr>
 <tr>
-<td class="tg-031e">C Bye</td>
+<td class="tg-031e">C Kilberry</td>
 <td class="tg-031e">C Grange</td>
 </tr>
 <tr>
@@ -277,7 +277,7 @@ Co-ordinator: Paddy Judge, Cadamstown: 046 9551308
 <th class="tg-031e">Division 8B</th>
 </tr>
 <tr>
-<td class="tg-031e">A Brannockstown</td>
+<td class="tg-031e">A Kildare Ed. Together</td>
 <td class="tg-031e">A Broadford</td>
 </tr>
 <tr>
@@ -290,7 +290,7 @@ Co-ordinator: Paddy Judge, Cadamstown: 046 9551308
 </tr>
 <tr>
 <td class="tg-031e">D Newbridge Ed. Together</td>
-<td class="tg-031e">D Bye</td>
+<td class="tg-031e">D Ticknevin</td>
 </tr>
 </table>
 <br>
