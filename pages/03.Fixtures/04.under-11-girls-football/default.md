@@ -146,7 +146,7 @@ Division 5: Co-ordinator: Fionnuala Kelly, Naomh Uilig Newbridge: 087 9449200
 </tr>
 <tr>
 <td class="tg-031e">D Ballyshannon</td>
-<td class="tg-031e">D Kilashee</td>
+<td class="tg-031e">D Newbridge Ed. Together</td>
 </tr>
 </table>
 <br>
