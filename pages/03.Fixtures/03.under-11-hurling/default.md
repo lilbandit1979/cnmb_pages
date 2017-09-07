@@ -134,7 +134,7 @@ Co-ordinator: Sean Hickey, Lackagh 086 8461367
 </tr>
 <tr>
 <td class="tg-031e">A Lackagh</td>
-<td class="tg-031e">A Ballymore</td>
+<td class="tg-031e">A St. Patricks Newbridge</td>
 </tr>
 <tr>
 <td class="tg-031e">B Robertstown</td>
