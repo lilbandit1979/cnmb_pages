@@ -151,7 +151,7 @@ Co-ordinator: Sean Hickey, Lackagh 086 8461367
 </tr>
 </table>
 <br>
-Fixtures: Div. 1-3
+Fixtures: Div. 1-4
 <li>Semi-Finals: 9th-13th October.</li>
 <li>Finals: 19th October.</li>
 <table class="tg">
