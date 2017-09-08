@@ -125,7 +125,8 @@ Semi-Finals:
 </table>
 
 <br>
-
+Division 4: 20 mins per half, 13 players aside
+<br>
 Co-ordinator: Sean Hickey, Lackagh 086 8461367 
 <table class="tg">
 <tr>
