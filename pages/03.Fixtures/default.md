@@ -39,14 +39,6 @@ recaptchacontact:
 
 <div class="g-block box-red size-33-3">
 <div class="g-content">
-<h3 class="g-title">Senior Girls Football</h3>
-<p><strong>Fixtures 2017</strong>Check your contacts booklet for a qualified referee.</p>
-<a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/senior-girls-football">Read More</a>
-</div>
-</div>
-
-<div class="g-block box-red size-33-3">
-<div class="g-content">
 <h3 class="g-title">Under 11 Girls Football</h3>
 <p><strong>Fixtures 2017</strong>Check your contacts booklet for a qualified referee.</p>
 <a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/under-11-girls-football">Read More</a>
@@ -68,6 +60,13 @@ recaptchacontact:
 </div>
 </div>
 
+<div class="g-block box-purple size-33-3">
+<div class="g-content">
+<h3 class="g-title">Senior Camogie 2017</h3>
+<p><strong>Fixtures 2017</strong>Only use referees from our updated 2017 referees list.</p>
+<a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/senior-camogie-2017">Read More</a>
+</div>
+</div>
 
 <div class="g-block box-orange size-33-3">
 <div class="g-content">
