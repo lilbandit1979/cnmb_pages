@@ -58,13 +58,7 @@ recaptchacontact:
 </div>
 </div>
 
-<div class=“g-block box-purple size-33-3”>
-<div class=“g-content”>
-<h3 class=“g-title”>Under 11 Camogie 2017</h3>
-<p><strong>Fixtures 2017</strong>Only use referees from our updated 2017 referees list.</p>
-<a class=“button” href=“http://www.cumannnambunscolchilldara.com/fixtures/under-11-camogie”>Read More</a>
-</div>
-</div>
+
 
 <div class="g-block box-orange size-33-3">
 <div class="g-content">
