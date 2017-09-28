@@ -64,7 +64,7 @@ recaptchacontact:
 <div class="g-content">
 <h3 class="g-title">U11 Camogie 2017</h3>
 <p><strong>Fixtures 2017</strong>Only use referees from our updated 2017 referees list.</p>
-<a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/senior-camogie-2017">Read More</a>
+<a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/under-11-camogie">Read More</a>
 </div>
 </div>
 
