@@ -19,7 +19,7 @@ recaptchacontact:
 <li>Liam Carthy 0860633136 Newbridge BF/GF/H/C</li>
 <li>Jerry Murphy 0879550146 Newbridge BF/GF</li>
 <li>Willie Reidy 045860838 Robertstown BF/GF/H/C</li>
-<li>Trevor Gleeson 0851685823 Ellistown BF/GF/H/C</li>
+<li>Trevor Gleeson 0851685823 Kildare BF/GF/H/C</li>
 <li>Shaun Dunne 0876592810 Newbridge BF/GF</li>
 <li>Tony Lennon 0878842509 Naas BF/GF</li>
 <li>Keith Tighe 0877994742 North Kildare BF/GF</li>
