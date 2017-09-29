@@ -5,6 +5,7 @@ recaptchacontact:
     enabled: false
 ---
 
+Dates: 23rd-27th October
 Venue: Kilcock
 Co-ordinator: Breda Fay, 087-2417226
 Scoil Mochua, Celbridge
