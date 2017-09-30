@@ -1,6 +1,7 @@
 ---
 title: 'Under 11 Camogie'
 published: true
+visible: false
 recaptchacontact:
     enabled: false
 ---
