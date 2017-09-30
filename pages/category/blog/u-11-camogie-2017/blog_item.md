@@ -1,5 +1,8 @@
 ---
 title: 'U 11 Camogie 2017'
+taxonomy:
+    category:
+        - Blog
 recaptchacontact:
     enabled: false
 ---
