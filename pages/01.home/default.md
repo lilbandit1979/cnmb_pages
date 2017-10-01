@@ -3,6 +3,7 @@ title: Home
 recaptchacontact:
     enabled: false
 ---
+
 <html>
   <head>
     <meta name="google-site-verification"
