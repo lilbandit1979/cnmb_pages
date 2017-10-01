@@ -8,6 +8,6 @@ recaptchacontact:
 ---
 
 A chairde,
- 2017 Under 11 Camogie blitz details available [here] at: (http://www.cumannnambunscolchilldara.com/fixtures/under-11-camogie)
+ 2017 Under 11 Camogie blitz details available [http://www.cumannnambunscolchilldara.com/fixtures/under-11-camogie] (here)
  
  Cumann na mBunscol Kildare
