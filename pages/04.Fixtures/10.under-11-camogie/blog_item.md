@@ -8,6 +8,7 @@ recaptchacontact:
 
 Dates: See individual venues below.
 Venue: Kilcock
+Date/Time: Wednesday 18th October 12pm
 Co-ordinator: Breda Fay, 087-2417226
 Scoil Mochua, Celbridge
 Maynooth
@@ -34,7 +35,7 @@ Scoil Ide Naofa, Kilmead
 Kilcullen
 
 Venue: Newbridge
-Date/Time: Wednesday 18th October Time TBC
+Date/Time: Wednesday 18th October 12pm
 Co-ordinator: Fionnuala Kelly, 087-9449200
 Ballymany
 Scoil na Naomh Uilig
