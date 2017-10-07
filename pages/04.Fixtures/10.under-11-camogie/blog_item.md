@@ -46,7 +46,7 @@ Gaelscoil Chill Dara, Curragh
 
 
 Venue: Kill
-Date/Time: TBC
+Date/Time: Friday 20th October 
 Co-ordinator: Karen, 086-8935910
 Mercy Convent, Naas
 Kill
