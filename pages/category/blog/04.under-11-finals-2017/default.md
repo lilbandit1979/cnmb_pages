@@ -34,8 +34,8 @@ recaptchacontact:
 **4:30: Division 6 Boys Churchtown vs. Kilshanroe** 
 
 ##Thursday 18th:##
-<br>
 **Pitch 1:**
+<br>
 **2:00:Division 2 Girls Scoil Mhichil Naofa vs. Sallins**
 **3:00:Division 3 Boys Milltown vs. Crookstown**
 **4:00:Division 3 Girls Milltown vs. Scoil Bhride Naas**
