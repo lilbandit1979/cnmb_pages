@@ -22,16 +22,19 @@ recaptchacontact:
 **4:30:Division 7 Boys Suncroft vs. Scoil Mhichil Naofa**
 
 **Pitch 2:**
+<br>
 **2:30:Division 3 Hurling G.S. Uí Fhiach vs. Straffan**
 **3:30: Division 4 Boys Rathcoffey vs. Scoil Bhride Naas**
 **4:30: Division 2 Boys Monasterevin vs. Kilcullen**
 
 **Pitch 3 (nearest to railway line)**
+<br>
 **2:30: Division 4 Girls Rathcoffey vs. Johnstownbridge**
 **3:30: Division 1 Girls Monasterevin vs. Kilcullen**
 **4:30: Division 6 Boys Churchtown vs. Kilshanroe** 
 
 ##Thursday 18th:##
+<br>
 **Pitch 1:**
 **2:00:Division 2 Girls Scoil Mhichil Naofa vs. Sallins**
 **3:00:Division 3 Boys Milltown vs. Crookstown**
@@ -39,6 +42,7 @@ recaptchacontact:
 **5:00: Division 5 Girls Robertstown vs. Sc. Naomh Uilig**
 
 **Pitch 2:**
+<br>
 **2:00:Division 4 Hurling Cappagh vs. Patricians**
 **3:00: Division 2 Hurling Twomilehouse vs. Caragh**
 **4:00: Division 1 Hurling Maynooth vs. Celbridge**
