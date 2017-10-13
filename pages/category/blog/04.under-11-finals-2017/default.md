@@ -10,11 +10,11 @@ recaptchacontact:
 *Cumann na mBunscol Kildare Under 11 Finals 2017*
 #Cumann na mBunscol Kildare Under 11 Finals 2017#
 
-##Date: 17th/18th October 2017##
+##Date: 18th/19th October 2017##
 ##Venue: Moorefield GAA##
-###Wednesday 17th:###
+###Wednesday 18th:###
 
-##Wednesday 17th:
+##Wednesday 18th:
 **Pitch 1:**
 <br>
 **2:30:Division 5 Boys Athgarvan vs. Nurney**<br>
@@ -33,7 +33,7 @@ recaptchacontact:
 **3:30: Division 1 Girls Monasterevin vs. Kilcullen**<br>
 **4:30: Division 6 Boys Churchtown vs. Kilshanroe** <br>
 
-##Thursday 18th:##
+##Thursday 19th:##
 **Pitch 1:**
 <br>
 **2:00:Division 2 Girls Scoil Mhichil Naofa vs. Sallins**<br>
