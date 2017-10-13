@@ -16,7 +16,7 @@ recaptchacontact:
 
 ##Wednesday 17th:
 **Pitch 1:**
-**2:30:**Division 5 Boys **Athgarvan vs. Nurney**
+**2:30:Division 5 Boys Athgarvan vs. Nurney**
 **3:30:Division 1 Boys Ballymany vs. Maynooth**
 **4:30:Division 7 Boys Suncroft vs. Scoil Mhichil Naofa**
 
@@ -32,7 +32,7 @@ recaptchacontact:
 
 ##Thursday 18th:##
 **Pitch 1:**
-**2:00:**Division 2 Girls Scoil Mhichil Naofa vs. Sallins**
+**2:00:Division 2 Girls Scoil Mhichil Naofa vs. Sallins**
 **3:00:Division 3 Boys Milltown vs. Crookstown**
 **4:00:Division 3 Girls Milltown vs. Scoil Bhride Naas**
 **5:00: Division 5 Girls Robertstown vs. Sc. Naomh Uilig**
