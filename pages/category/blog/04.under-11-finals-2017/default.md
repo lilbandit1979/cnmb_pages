@@ -9,12 +9,12 @@ recaptchacontact:
 
 *Cumann na mBunscol Kildare Under 11 Finals 2017*
 #Cumann na mBunscol Kildare Under 11 Finals 2017#
-
-##Date: 18th/19th October 2017##
+# Fixture Change: See Below for details#
+##Date: 24th October/19th October 2017##
 ##Venue: Moorefield GAA##
 ###Wednesday 18th:###
 
-##Wednesday 18th:
+# Please note: Fixtures for Wednesday 18th moved to Tuesday 24th:#
 **Pitch 1:**
 <br>
 **2:30:Division 5 Boys Athgarvan vs. Nurney**<br>
