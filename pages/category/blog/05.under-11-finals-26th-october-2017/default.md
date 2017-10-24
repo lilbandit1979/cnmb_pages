@@ -1,5 +1,8 @@
 ---
 title: 'Under 11 Finals 26th October 2017'
+taxonomy:
+    category:
+        - Blog
 recaptchacontact:
     enabled: false
 ---
