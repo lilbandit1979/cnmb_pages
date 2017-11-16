@@ -21,7 +21,7 @@ recaptchacontact:
 * Please RSVP cumannkildare@gmail.com to confirm attendance.
 * Our AGM is a good opportunity to meet up and discuss any issues facing our Cumann. We look forward to seeing you all there on the night.
 * Motions and nominations for any of the following positions can be emailed to cumannkildare@gmail.com.
-* Current Officers list available at http://www.cumannnambunscolchilldara.com/information/contact
+* Current Officers list available [here](http://www.cumannnambunscolchilldara.com/information/contact)
 * Teachers willing to get involved at committee level always welcome. 
 
 ***
