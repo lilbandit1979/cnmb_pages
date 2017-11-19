@@ -1,6 +1,6 @@
 ---
 title: 'Registration 2018'
-published: false
+published: true
 taxonomy:
     category:
         - Blog
