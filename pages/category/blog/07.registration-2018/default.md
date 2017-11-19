@@ -14,7 +14,7 @@ recaptchacontact:
 ##2018 Registration: 
 * Opens 20th November 2017
 * Closes: 7th December 2017
-* Register online **[here](https://goo.gl/forms/pHnygJ6LWnV5PBZ73)**
+* Register online **[here](https://goo.gl/forms/pHnygJ6LWnV5PBZ73)** No postal or word of mouth entries accepted.
 * All schools **must provide a complete list of participating children with respective dates of birth in order to participate in 2018 games and events.** 
 * Player lists can be in spreadsheet format from computerised roll systems. 
 * Player registration lists with name of school and address to be emailed to Cumann registrar Stephen O Brien at stephen@stconlethandmarys.ie by 7th December 2017.
