@@ -10,4 +10,5 @@ Pls note:
 * Name and number will suffice.
 * This is to ensure fairness and that children are playing in the correct competition.
 * Names on your teamsheet must be present on list of players submitted during 2018 registration.
-* 
+
+If you have any questions please contact Cumann na mBunscol Kildare registrar Stephen O Brien at stephen@stconlethandmarys.ie
