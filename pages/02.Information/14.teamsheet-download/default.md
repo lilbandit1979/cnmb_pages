@@ -1,5 +1,6 @@
 ---
 title: 'Teamsheet Download'
+published: true
 recaptchacontact:
     enabled: false
 ---
@@ -12,3 +13,4 @@ Pls note:
 * Names on your teamsheet must be present on list of players submitted during 2018 registration.
 
 If you have any questions please contact Cumann na mBunscol Kildare registrar Stephen O Brien at stephen@stconlethandmarys.ie
+[Cumann Teamsheet Template 2018.pdf](Cumann%20Teamsheet%20Template%202018.pdf)
