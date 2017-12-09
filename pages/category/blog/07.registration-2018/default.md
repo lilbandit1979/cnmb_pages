@@ -27,7 +27,52 @@ recaptchacontact:
 
 <p>Cumann na mBunscol Kildare would like to sincerely thank all of our members for giving their time and hard work year in, year out. We look to seeing you all on the playing pitches in the new year.</p>
 
-
+# 2018 Games Registrations received to date:9/12/17 #
+## Sincere thanks for taking part ##
+* Scoil Mhuire Junior School, Newbridge
+* Rathcoffey NS, Rathcoffey
+* Scoil Bhríde Clane
+* St. Patrick's NS Newbridge
+* St. Laurence's NS, Crookstown
+* Caragh NS, Caragh
+* St. Conleths Infants School, Newbridge
+* Clocha Rince NS, Clogherinkoe
+* Broadford NS, Broadford
+* Scoil Bhríde, Naas
+* St. Corban's BNS, Naas
+* Scoil Íde Naofa, Kilmead
+* St. Patrock;s NS, Johnstownbridge
+* St. Brigid's Primary School, Kildare Town
+* Rathangan BNS, Rathangan
+* Scoil Mhuire Senior School, Newbridge
+* Kildangan NS, Kildangan
+* Ballyshannon NS, Ballyshannon
+* Cadamstown NS, Cadamstown
+* Holy Child School, Ballycane, Naas
+* Scoil Mhichíl Naofa, Athy
+* St. Patrick's NS, Celbridge
+* St. Anne's NS, Ardclough
+* SN Colmcill Noafa, Moone
+* Churchtown NS, Athy
+* Gaelscoil Uí Fhiaich, Maigh Nuad
+* Allen NS, Allen
+* Scoil Diarmada, Castledermot
+* Scoil Na Mainistreach, Celbridge
+* Scoil Mochua, Celbridge
+* Scoil Bhríde, Lackagh
+* Two Mile House NS, Two Mile House
+* Scoil Na Naomh Uilig, Newbridge
+* Gaelscoil Chill Dara, Droichead Nua
+* Newbridge Educate Together, Newbridge
+* Scoil Mhuire Junior, Newbridge
+* Scoil Bhríde, Kilcullen
+* Killina NS, Killina
+* St. Joseph's NS, Kilcock
+* Maynooth BNS, Maynooth
+* Killashee MDNS, Naas
+* Scoil Nioclais Naofa, Dunlavin
+* Ballysax, The Curragh
+* St. Laurence's, Sallins
 
 
 
