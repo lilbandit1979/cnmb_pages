@@ -29,6 +29,8 @@ recaptchacontact:
 
 # 2018 **Games** Registrations received to date:14/12/17 @ 6pm #
 ## Sincere thanks for taking part ##
+## All schools must provide student numbers to draw up divisions and fixtures ##
+## Please note incomplete registration forms will not be listed below. ##
 * Scoil Mhuire Junior School, Newbridge
 * Rathcoffey NS, Rathcoffey
 * Scoil Bhríde Clane
