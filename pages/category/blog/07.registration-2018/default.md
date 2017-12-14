@@ -27,7 +27,7 @@ recaptchacontact:
 
 <p>Cumann na mBunscol Kildare would like to sincerely thank all of our members for giving their time and hard work year in, year out. We look to seeing you all on the playing pitches in the new year.</p>
 
-# 2018 Games Registrations received to date:9/12/17 #
+# 2018 **Games** Registrations received to date:14/12/17 @ 6pm #
 ## Sincere thanks for taking part ##
 * Scoil Mhuire Junior School, Newbridge
 * Rathcoffey NS, Rathcoffey
@@ -73,7 +73,29 @@ recaptchacontact:
 * Scoil Nioclais Naofa, Dunlavin
 * Ballysax, The Curragh
 * St. Laurence's, Sallins
-
-
-
-
+* Monasterevin Convent NS, Monasterevin
+* Scoil Pháidraig, Clane
+* Straffan NS, Straffan
+* Mercy Convent, Naas
+* Scoil Mhuire, Ballymore Eustace
+* Scoil Uí Riada, Cill Choca
+* Bunscoil Bhríde, Rathangan
+* St. David's NS, Naas
+* Scoil Naomh Bríd, Celbridge
+* Suncroft NS, Suncroft
+* St. Peter's BNS, Monasterevin
+* Robertstown NS, Robertstown
+* Scoil Bhríde, Athgarvan
+* Gaelscoil Nás Na Ríogh, Nás
+* St. Conleth and Mary's Primary School, Newbridge
+* St. Joseph's BNS, Halverstown, Kilcullen
+* Scoil Naomh Lorcáin, Levitstown
+* Scoil Mhuire, Allenwood
+* Kilberry NS, Kilberry
+* Tiermohan NS, Donadea
+* Scoil Chóca Naofa, Kilcock
+* Scoil Naomh Mhuire, Staplestown
+* St. Conleths NS, Derrinturn
+* Presentation Girls, Maynooth
+* Patrician Primary School, Newbridge
+* Coill Dubh, Naas
