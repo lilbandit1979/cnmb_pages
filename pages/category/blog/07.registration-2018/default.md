@@ -101,3 +101,84 @@ recaptchacontact:
 * Presentation Girls, Maynooth
 * Patrician Primary School, Newbridge
 * Coill Dubh, Naas
+
+Registration status
+| Header | Header | Header |
+| ------|------|------ |
+| School Name: | 2018 Online Entry Form Received: | 2018 Players with DOB submitted: |
+| Allenwood | Y | N |
+| Ardclough  | Y | Y |
+| Athgarvan, Scoil Bhríde | Y | N |
+| Ballyshannon | Y | Y |
+| Allen NS | Y | Y |
+| Ballycane | Y | N |
+| Ballymore NS | Y | Y |
+| Ballyshannon | Y | Y |
+| Ballysax | Y | N |
+| Broadford | Y | Y |
+| Cadamstown | Y | Y |
+| Caragh | Y | Y |
+| Castledermot | Y | N |
+| Celbridge Boys | Y | Y |
+| Churchtown | Y | Y |
+| Coill Dubh (with Scoil Cianog Naofa, Scoil Mhuire Staplestown) | Y | N |
+| Clane Boys | Y | Y |
+| Clane Girls | Y | Y |
+| Clocha Rince | Y | Y |
+| Coca Naofa | Y | Y |
+| Con. & Marys Infants Newbridge | Y | N |
+| Crookstown | Y | Y |
+| Curragh Girls | Y | N |
+| Dunlavin | Y | Y |
+| Gaelscoil Chill Dara | Y | N |
+| Gaelscoil Nás | Y | N |
+| Gaelscoil Uí Fhiaich | Y | N |
+| Halverstown | Y | Y |
+| Johnstownbridge | Y | N |
+| Kilashee | Y | Y |
+| Kilberry | Y | N |
+| Kill | Y | N |
+| Kilcock, St. Josephs | Y | N |
+| Kilcullen | Y | N |
+| Kildangan NS | Y | Y |
+| Kildare | Y | Y |
+| Killina NS | Y | S |
+| Lackagh | Y | Y |
+| Levittstown | Y | N |
+| Maynooth Boys | Y | Y |
+| Maynooth Girls | Y | N |
+| Mercy Conv. Naas | Y | Y |
+| Moone | Y | Y |
+| Monasterevin, St. Peters | Y | N |
+| Monasterevin Convent | Y | N |
+| Naas CNS | Y | N |
+| Newbridge Educate Together | Y | N |
+| Patrician Primary | Y | N |
+| Prosperous | Y | N |
+| Rathangan | Y | Y |
+| Rathangan Girls | Y | N |
+| Rathcoffey | Y | Y |
+| Rathmore | N | Y |
+| Robertstown | Y | N |
+| Sallins | Y | Y |
+| Scoil Bhride Naas | Y | Y |
+| Scoil Ide Naofa, Kilmead | Y | N |
+| Sc. Mhic. Na. Athy | Y | Y |
+| Sc. Mhuire JNR Newbridge | Y | Y |
+| Scoil Mhuire Senior, Newbridge | Y | Y |
+| Scoil Mochua | Y | Y |
+| Scoil Na Naomh Uilig, Newbridge | Y | N |
+| Scoil Naomh Brid, Celbridge | Y | N |
+| Scoil Uí Riada | Y | Y |
+| St. Conleth and Mary’s Derrinturn | Y | N |
+| St. Conleth and Mary’s Newbridge | Y | Y |
+| St. Corban’s, Naas | Y | N |
+| St. David’s Naas | Y | Y |
+| St. Patrick’s Celbridge | Y | N |
+| Straffan NS | Y | N |
+| Staplestown | Y | Y |
+| St. Patricks NS Newb. | Y | N |
+| Suncroft | Y | N |
+| Tiermohan | Y | N |
+| Timahoe (with Staplestown and Coill Dubh for all competitions) | Y | N |
+| Two Mile House | Y | N |
