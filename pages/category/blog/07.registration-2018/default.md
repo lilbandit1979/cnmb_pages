@@ -102,12 +102,14 @@ recaptchacontact:
 * Patrician Primary School, Newbridge
 * Coill Dubh, Naas
 
-Registration status
-| Header | Header | Header |
+Registration Status:
+
+L = received late
+
+| School Name | '18 Online Entry Received | '18 Players List with DOB |
 | ------|------|------ |
-| School Name: | 2018 Online Entry Form Received: | 2018 Players with DOB submitted: |
 | Allenwood | Y | N |
-| Ardclough  | Y | Y |
+| Ardclough  | Y | Y (L) |
 | Athgarvan, Scoil Bhríde | Y | N |
 | Ballyshannon | Y | Y |
 | Allen NS | Y | Y |
@@ -121,7 +123,7 @@ Registration status
 | Castledermot | Y | N |
 | Celbridge Boys | Y | Y |
 | Churchtown | Y | Y |
-| Coill Dubh (with Scoil Cianog Naofa, Scoil Mhuire Staplestown) | Y | N |
+| Coill Dubh (with Scoil Cianog Naofa Timahoe, Scoil Mhuire Staplestown) | Y | N |
 | Clane Boys | Y | Y |
 | Clane Girls | Y | Y |
 | Clocha Rince | Y | Y |
@@ -140,18 +142,18 @@ Registration status
 | Kill | Y | N |
 | Kilcock, St. Josephs | Y | N |
 | Kilcullen | Y | N |
-| Kildangan NS | Y | Y |
+| Kildangan NS | Y | Y (L) |
 | Kildare | Y | Y |
-| Killina NS | Y | S |
+| Killina NS | Y | N |
 | Lackagh | Y | Y |
-| Levittstown | Y | N |
+| Levittstown and Kilkea | Y | N |
 | Maynooth Boys | Y | Y |
 | Maynooth Girls | Y | N |
 | Mercy Conv. Naas | Y | Y |
 | Moone | Y | Y |
 | Monasterevin, St. Peters | Y | N |
 | Monasterevin Convent | Y | N |
-| Naas CNS | Y | N |
+| Naas CNS | Y (L) | N |
 | Newbridge Educate Together | Y | N |
 | Patrician Primary | Y | N |
 | Prosperous | Y | N |
@@ -165,20 +167,21 @@ Registration status
 | Scoil Ide Naofa, Kilmead | Y | N |
 | Sc. Mhic. Na. Athy | Y | Y |
 | Sc. Mhuire JNR Newbridge | Y | Y |
-| Scoil Mhuire Senior, Newbridge | Y | Y |
+| Scoil Mhuire Senior, Newbridge | Y | Y (L) |
 | Scoil Mochua | Y | Y |
 | Scoil Na Naomh Uilig, Newbridge | Y | N |
-| Scoil Naomh Brid, Celbridge | Y | N |
+| Scoil Naomh Brid, Celbridge (Girls) | Y | N |
 | Scoil Uí Riada | Y | Y |
 | St. Conleth and Mary’s Derrinturn | Y | N |
+| St. Conleths and Mary’s Infants Newbridge  | Y | N |
 | St. Conleth and Mary’s Newbridge | Y | Y |
 | St. Corban’s, Naas | Y | N |
 | St. David’s Naas | Y | Y |
 | St. Patrick’s Celbridge | Y | N |
-| Straffan NS | Y | N |
-| Staplestown | Y | Y |
+| Straffan NS | Y | Y |
+| Staplestown (with Timahoe and Coill Dubh for all competitions) | Y | Y |
 | St. Patricks NS Newb. | Y | N |
 | Suncroft | Y | N |
 | Tiermohan | Y | N |
-| Timahoe (with Staplestown and Coill Dubh for all competitions) | Y | N |
+| Timahoe Scoil Cianóg Naofa (with Staplestown and Coill Dubh for all competitions) | Y (Incomplete Roll Nos.) | N |
 | Two Mile House | Y | N |
