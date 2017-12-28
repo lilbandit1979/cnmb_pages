@@ -21,7 +21,7 @@ recaptchacontact:
 * Player registration lists with name of school and address to be emailed to Cumann registrar Stephen O Brien at stephen@stconlethandmarys.ie by ~~7th~~ 14th December 2017.
 * Please note that schools who do not supply player lists will **not** be assigned to a division in 2018.
 
-# 2018 Registrations received. #
+# 2018 Registrations received listed below. #
 ## Sincere thanks for taking part ##
 ## All schools must provide student numbers to draw up divisions and fixtures ##
 ## Draw for set of jerseys for your school to take place during annual grading meeting early January TBC ##
