@@ -113,3 +113,43 @@ L = received late
 * Allow the committee more time to assign divisions and fixtures.
 * Allow the committee time to remind schools to submit player registration.
 * <p>Cumann na mBunscol Kildare would like to sincerely thank all of our members for giving their time and hard work year in, year out. We look to seeing you all on the playing pitches in the new year.</p>
+
+TEST SECTION:
+
+Finals: 17th/18th October 2017
+
+Under 11s Div. 1: 20 mins per half
+
+13 aside
+
+Co-ordinator: Victor Logan, Ballymany 087 9949978
+
++-----------------------------------+-----------------------------------+
+| **Division 1A**                   | **Division 1B**                   |
++-----------------------------------+-----------------------------------+
+| A                                 | A                                 |
++-----------------------------------+-----------------------------------+
+| B                                 | B                                 |
++-----------------------------------+-----------------------------------+
+| C                                 | C                                 |
++-----------------------------------+-----------------------------------+
+| D                                 | D                                 |
++-----------------------------------+-----------------------------------+
+
+Under 11s Div. 2: 20 mins per half
+
+13 aside
+
+Co-ordinator: Pat Gallagher, Kill: 087 9952729
+
++-----------------------------------+-----------------------------------+
+| **Division 2A**                   | **Division 2B**                   |
++-----------------------------------+-----------------------------------+
+| A                                 | A                                 |
++-----------------------------------+-----------------------------------+
+| B                                 | B                                 |
++-----------------------------------+-----------------------------------+
+| C                                 | C                                 |
++-----------------------------------+-----------------------------------+
+| D                                 | D                                 |
++-----------------------------------+-----------------------------------+
