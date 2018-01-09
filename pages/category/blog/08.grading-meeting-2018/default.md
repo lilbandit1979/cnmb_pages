@@ -1,5 +1,8 @@
 ---
 title: 'Grading Meeting 2018'
+taxonomy:
+    category:
+        - Blog
 recaptchacontact:
     enabled: false
 ---
