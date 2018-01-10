@@ -24,7 +24,7 @@ recaptchacontact:
 # 2018 Registrations received listed below. #
 ## Sincere thanks for taking part ##
 ## All schools must provide student numbers to draw up divisions and fixtures ##
-## Draw for set of jerseys for your school to take place during annual grading meeting early January TBC ##
+## Draw for set of jerseys for your school to take place during annual grading meeting 15th Jan. Allen NS @ 6:30pm ##
 ## Eligibility: Completed 2018 games online form and player lists with DOB submitted to registrar before midnight 14th December '17 ##
 
 L = received late
