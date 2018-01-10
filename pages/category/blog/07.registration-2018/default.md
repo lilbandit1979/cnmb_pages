@@ -74,6 +74,7 @@ L = received late
 | Maynooth Girls | Y | N |
 | Mercy Conv. Naas | Y | Y |
 | Moone | Y | Y |
+| Milltown | Y (L) | Y |
 | Monasterevin, St. Peters | Y | N |
 | Monasterevin Convent | Y | N |
 | Naas CNS | Y (L) | N |
