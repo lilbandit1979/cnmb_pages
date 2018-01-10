@@ -54,6 +54,7 @@ L = received late
 | Con. & Marys Infants Newbridge | Y | N |
 | Crookstown | Y | Y |
 | Curragh Girls | Y | N |
+| Curragh Boys | Y (L) | N |
 | Dunlavin | Y | Y |
 | Gaelscoil Chill Dara | Y | N |
 | Gaelscoil Nás | Y | N |
