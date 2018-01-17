@@ -1,5 +1,8 @@
 ---
 title: 'Jersey Draw 2018'
+taxonomy:
+    category:
+        - Blog
 recaptchacontact:
     enabled: false
 ---
