@@ -56,6 +56,7 @@ L = received late
 | Curragh Girls | Y | N |
 | Curragh Boys | Y (L) | N |
 | Dunlavin | Y | Y |
+| Gaelscoil Atha I | Y(L) | Y(L) |
 | Gaelscoil Chill Dara | Y | N |
 | Gaelscoil Nás | Y | N |
 | Gaelscoil Uí Fhiaich | Y | N |
@@ -79,7 +80,7 @@ L = received late
 | Monasterevin, St. Peters | Y | N |
 | Monasterevin Convent | Y | N |
 | Naas CNS | Y (L) | N |
-| Newbridge Educate Together | Y | N |
+| Newbridge Educate Together | Y | Y(L) |
 | Patrician Primary | Y | N |
 | Prosperous | Y | N |
 | Rathangan | Y | Y |
