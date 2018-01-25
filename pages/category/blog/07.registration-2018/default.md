@@ -51,6 +51,7 @@ L = received late
 | Clane Girls | Y | Y |
 | Clocha Rince | Y | Y |
 | Coca Naofa | Y | Y |
+| Confey San Carlo | Y(L) | Y(L) |
 | Con. & Marys Infants Newbridge | Y | N |
 | Crookstown | Y | Y |
 | Curragh Girls | Y | N |
