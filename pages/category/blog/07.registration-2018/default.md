@@ -70,7 +70,7 @@ L = received late
 | Kilcullen | Y | N |
 | Kildangan NS | Y | Y (L) |
 | Kildare | Y | Y |
-| Killina NS | Y | N |
+| Killina NS | Y | Y(L) |
 | Lackagh | Y | Y |
 | Levittstown and Kilkea | Y | N |
 | Maynooth Boys | Y | Y |
