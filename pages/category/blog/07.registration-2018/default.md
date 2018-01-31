@@ -83,7 +83,7 @@ L = received late
 | Naas CNS | Y (L) | N |
 | Newbridge Educate Together | Y | Y(L) |
 | Patrician Primary | Y | N |
-| Prosperous | Y | N |
+| Prosperous | Y | Y(L) |
 | Rathangan | Y | Y |
 | Rathangan Girls | Y | N |
 | Rathcoffey | Y | Y |
