@@ -52,7 +52,7 @@ L = received late
 | Clocha Rince | Y | Y |
 | Coca Naofa | Y | Y |
 | Confey San Carlo | Y(L) | Y(L) |
-| Con. & Marys Infants Newbridge | Y | N |
+| Con. & Marys Infants Newbridge | Y | N/A |
 | Crookstown | Y | Y |
 | Curragh Girls | Y | N |
 | Curragh Boys | Y (L) | N |
@@ -93,7 +93,7 @@ L = received late
 | Scoil Bhride Naas | Y | Y |
 | Scoil Ide Naofa, Kilmead | Y | N |
 | Sc. Mhic. Na. Athy | Y | Y |
-| Sc. Mhuire JNR Newbridge | Y | Y |
+| Sc. Mhuire JNR Newbridge | Y | Y N/A |
 | Scoil Mhuire Senior, Newbridge | Y | Y (L) |
 | Scoil Mochua | Y | Y |
 | Scoil Na Naomh Uilig, Newbridge | Y | N |
@@ -116,4 +116,4 @@ L = received late
 2018 registration has been brought forward to December to:
 * Allow the committee more time to assign divisions and fixtures.
 * Allow the committee time to remind schools to submit player registration.
-* <p>Cumann na mBunscol Kildare would like to sincerely thank all of our members for giving their time and hard work year in, year out. We look to seeing you all on the playing pitches in the new year.</p>
+* Cumann na mBunscol Kildare would like to sincerely thank all of our members for giving their time and hard work year in, year out. We look to seeing you all on the playing pitches in the new year.
