@@ -62,7 +62,7 @@ L = received late
 | Gaelscoil Nás | Y | N |
 | Gaelscoil Uí Fhiaich | Y | N |
 | Halverstown | Y | Y |
-| Johnstownbridge | Y | N |
+| Johnstownbridge | Y | Y(L) |
 | Kilashee | Y | Y |
 | Kilberry | Y | N |
 | Kill | Y | N |
