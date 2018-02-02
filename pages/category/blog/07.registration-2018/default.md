@@ -88,7 +88,7 @@ L = received late
 | Rathangan Girls | Y | N |
 | Rathcoffey | Y | Y |
 | Rathmore | N | Y |
-| Robertstown | Y | N |
+| Robertstown | Y | Y(L) |
 | Sallins | Y | Y |
 | Scoil Bhride Naas | Y | Y |
 | Scoil Ide Naofa, Kilmead | Y | N |
