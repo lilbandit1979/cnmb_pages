@@ -8,4 +8,4 @@ recaptchacontact:
 # Basketball Fixtures 2018 #
 ## Click below to download 2018 blitz and league details ##
 
-[bball league blitz 18 19.pdf](bball%20league%20blitz%2018%2019.pdf)[bball league blitz 18 19.pdf]
+[bball league blitz 18 19.pdf](bball%20league%20blitz%2018%2019.pdf)
