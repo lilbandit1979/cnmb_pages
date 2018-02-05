@@ -25,241 +25,321 @@ recaptchacontact:
 <p>No draws, All draw games at full time settled by a golden score</p>
 <p>Regionals 5<sup>th</sup>-9<sup>th</sup> March</p>
 <p>Finals 14<sup>th</sup> March in Kilcullen</p>
+
 <table width="0">
 <tbody>
 <tr>
-<td width="137">
+<td width="396">
 <p><strong>Clane </strong></p>
 </td>
-<td width="160">
+</tr>
+<tr>
+<td width="396">
+<p><strong><em>Cathal Carr</em></strong></p>
+</td>
+</tr>
+<tr>
+<td width="396">
+<p>Clane</p>
+</td>
+</tr>
+<tr>
+<td width="396">
+<p>Celbridge</p>
+</td>
+</tr>
+<tr>
+<td width="396">
+<p>St Pats Celbridge</p>
+</td>
+</tr>
+<tr>
+<td width="396">
+<p>Straffan</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table width="0">
+<tbody>
+<tr>
+<td width="396">
 <p><strong>Athy</strong></p>
 </td>
 </tr>
 <tr>
-<td width="137">
-<p><strong><em>Cathal Carr</em></strong></p>
-</td>
-<td width="160">
+<td width="396">
 <p><strong><em>Willie O'Gorman</em></strong></p>
 </td>
 </tr>
 <tr>
-<td width="137">
-<p>Clane</p>
-</td>
-<td width="160">
+<td width="396">
 <p>Scoil Phadraig</p>
 </td>
 </tr>
 <tr>
-<td width="137">
-<p>Celbridge</p>
-</td>
-<td width="160">
+<td width="396">
 <p>Scoi lMhicil Naofa</p>
 </td>
 </tr>
 <tr>
-<td width="137">
-<p>St Pats Celbridge</p>
-</td>
-<td width="160">
+<td width="396">
 <p>Kilmead</p>
 </td>
 </tr>
 <tr>
-<td width="137">
-<p>Straffan</p>
-</td>
-<td width="160">
+<td width="396">
 <p>Moone</p>
 </td>
 </tr>
 <tr>
-<td width="160">
+<td width="396">
 <p>Castledermot</p>
 </td>
 </tr>
 <tr>
-<td width="160">
+<td width="396">
 <p>Monasterevin</p>
 </td>
 </tr>
+</tbody>
+</table>
+
+<table width="0">
+<tbody>
 <tr>
-</tr>
-<tr>
-<td width="137">
+<td width="396">
 <p><strong>Ballymany</strong></p>
 </td>
-<td width="160">
+</tr>
+<tr>
+<td width="396">
+<p><strong><em>Victor Logan</em></strong></p>
+</td>
+</tr>
+<tr>
+<td width="396">
+<p>Ballymany</p>
+</td>
+</tr>
+<tr>
+<td width="396">
+<p>Patricians</p>
+</td>
+</tr>
+<tr>
+<td width="396">
+<p>St Conleth &amp; Marys</p>
+</td>
+</tr>
+<tr>
+<td width="396">
+<p>St Pats Newbridge</p>
+</td>
+</tr>
+<tr>
+<td width="396">
+<p>Milltown</p>
+</td>
+</tr>
+<tr>
+<td width="396">
+<p>Suncroft</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table width="0">
+<tbody>
+<tr>
+<td width="396">
 <p><strong>Rathcoffey</strong></p>
 </td>
 </tr>
 <tr>
-<td width="137">
-<p><strong><em>Victor Logan</em></strong></p>
-</td>
-<td width="160">
+<td width="396">
 <p><strong><em>Eugene Riordan</em></strong></p>
 </td>
 </tr>
 <tr>
-<td width="137">
-<p>Ballymany</p>
-</td>
-<td width="160">
+<td width="396">
 <p>Rathcoffey</p>
 </td>
 </tr>
 <tr>
-<td width="137">
-<p>Patricians</p>
-</td>
-<td width="160">
+<td width="396">
 <p>Clogherinkoe</p>
 </td>
 </tr>
 <tr>
-<td width="137">
-<p>St Conleth &amp; Marys</p>
-</td>
-<td width="160">
+<td width="396">
 <p>Bradford</p>
 </td>
 </tr>
 <tr>
-<td width="137">
-<p>St Pats Newbridge</p>
-</td>
-<td width="160">
+<td width="396">
 <p>Cadamstown</p>
 </td>
 </tr>
 <tr>
-<td width="137">
-<p>Milltown</p>
-</td>
-<td width="160">
+<td width="396">
 <p>Kilshanroe</p>
 </td>
 </tr>
+</tbody>
+</table>
+
+<table width="0">
+<tbody>
 <tr>
-<td width="137">
-<p>Suncroft</p>
-</td>
-</tr>
-<tr>
-</tr>
-<tr>
-<td width="137">
+<td width="396">
 <p><strong>Allen</strong></p>
 </td>
-<td width="160">
+</tr>
+<tr>
+<td width="396">
+<p><strong><em>Jim Hanifin</em></strong></p>
+</td>
+</tr>
+<tr>
+<td width="396">
+<p>Allen</p>
+</td>
+</tr>
+<tr>
+<td width="396">
+<p>Robertstown</p>
+</td>
+</tr>
+<tr>
+<td width="396">
+<p>T.M.H.</p>
+</td>
+</tr>
+<tr>
+<td width="396">
+<p>Kill</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table width="0">
+<tbody>
+<tr>
+<td width="396">
 <p><strong>Kilcullen</strong></p>
 </td>
 </tr>
 <tr>
-<td width="137">
-<p><strong><em>Jim Hanifin</em></strong></p>
-</td>
-<td width="160">
+<td width="396">
 <p><strong><em>Shane Power</em></strong></p>
 </td>
 </tr>
 <tr>
-<td width="137">
-<p>Allen</p>
-</td>
-<td width="160">
+<td width="396">
 <p>Kilcullen</p>
 </td>
 </tr>
 <tr>
-<td width="137">
-<p>Robertstown</p>
-</td>
-<td width="160">
+<td width="396">
 <p>Kildare</p>
 </td>
 </tr>
 <tr>
-<td width="137">
-<p>T.M.H.</p>
-</td>
-<td width="160">
+<td width="396">
 <p>Rathangan</p>
 </td>
 </tr>
 <tr>
-<td width="137">
-<p>Kill</p>
-</td>
-<td width="160">
+<td width="396">
 <p>Halverstown</p>
 </td>
 </tr>
 <tr>
-<td width="160">
+<td width="396">
 <p>Crookstown</p>
 </td>
 </tr>
+</tbody>
+</table>
+
+<table width="0">
+<tbody>
 <tr>
-</tr>
-<tr>
-<td width="137">
+<td width="396">
 <p><strong>Maynooth</strong></p>
 </td>
-<td width="160">
+</tr>
+<tr>
+<td width="396">
+<p><strong><em>Owen Creevey</em></strong></p>
+</td>
+</tr>
+<tr>
+<td width="396">
+<p>Maynooth</p>
+</td>
+</tr>
+<tr>
+<td width="396">
+<p>Kilcock</p>
+</td>
+</tr>
+<tr>
+<td width="396">
+<p>Confey</p>
+</td>
+</tr>
+<tr>
+<td width="396">
+<p>G.S. Fhiach</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table width="0">
+<tbody>
+<tr>
+<td width="396">
 <p><strong>Rathmore</strong></p>
 </td>
 </tr>
 <tr>
-<td width="137">
-<p><strong><em>Owen Creevey</em></strong></p>
-</td>
-<td width="160">
+<td width="396">
 <p><strong><em>Robbie Jameson</em></strong></p>
 </td>
 </tr>
 <tr>
-<td width="137">
-<p>Maynooth</p>
-</td>
-<td width="160">
+<td width="396">
 <p>Kilashee</p>
 </td>
 </tr>
 <tr>
-<td width="137">
-<p>Kilcock</p>
-</td>
-<td width="160">
+<td width="396">
 <p>Naas</p>
 </td>
 </tr>
 <tr>
-<td width="137">
-<p>Confey</p>
-</td>
-<td width="160">
+<td width="396">
 <p>Scoil Bhrid Naas</p>
 </td>
 </tr>
 <tr>
-<td width="137">
-<p>G.S. Fhiach</p>
-</td>
-<td width="160">
+<td width="396">
 <p>Naas Community School</p>
 </td>
 </tr>
 <tr>
-<td width="160">
+<td width="396">
 <p>Ballymore</p>
 </td>
 </tr>
 <tr>
-<td width="160">
+<td width="396">
 <p>Rathmore</p>
 </td>
 </tr>
