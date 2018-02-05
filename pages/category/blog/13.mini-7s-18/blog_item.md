@@ -1,6 +1,6 @@
 ---
 title: 'Mini 7s 18'
-published: false
+published: true
 taxonomy:
     category:
         - Blog
