@@ -88,7 +88,7 @@ recaptchacontact:
 <div class="g-content">
 <h3 class="g-title">Basketball 2017</h3>
 <p><strong>Fixtures 2017</strong> Basketball information 2017</p>
-<a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/basketball">Read More</a>
+<a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/basketball18">Read More</a>
 </div>
 </div>
 
