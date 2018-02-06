@@ -1,5 +1,8 @@
 ---
 title: 'Quiz 18'
+taxonomy:
+    category:
+        - Blog
 recaptchacontact:
     enabled: false
 ---
