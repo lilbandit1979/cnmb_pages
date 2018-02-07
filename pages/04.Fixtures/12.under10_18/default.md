@@ -1,5 +1,6 @@
 ---
 title: Under10_18
+visible: false
 recaptchacontact:
     enabled: false
 ---
