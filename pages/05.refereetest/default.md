@@ -11,7 +11,6 @@ recaptchacontact:
 <h3>Please use referees from this updated list only</h3>
 <ul>
 <li>Alan Lagrue 0857329016 Naas BF/GF/H/C</li>
-<li>Chris O’Grady 0872581319 Suncroft BF/GF</li>
 <li>Dave Coady 0858302277 Monasterevin BF/GF/H/C</li>
 <li>Fintan Barrett 0861965517 Newbridge BF/GF</li>
 <li>Craig Hughes 0877938305 Sallins BF/GF/C/H</li>
