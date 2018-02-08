@@ -424,7 +424,7 @@ recaptchacontact:
 <p>C vs. D</p>
 </td>
 <td>
-<p>B vs. C</p>
+<p>B vs. D</p>
 </td>
 <td>
 <p>B vs. C</p>
