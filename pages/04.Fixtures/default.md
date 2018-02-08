@@ -56,7 +56,7 @@ recaptchacontact:
 <div class="g-block box-purple size-33-3">
 <div class="g-content">
 <h3 class="g-title">Senior Camogie 2018</h3>
-<p><strong>Fixtures 2017</strong> Only use referees from our updated 2017 referees list.</p>
+<p><strong>Fixtures 2018</strong> Only use referees from our updated 2017 referees list.</p>
 <a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/senior_camogie_2018">Read More</a>
 </div>
 </div>
