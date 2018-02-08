@@ -222,7 +222,7 @@ recaptchacontact:
 </tr>
 <tr>
 <td>
-<p>A Curragh (New)</p>
+<p>A Curragh</p>
 </td>
 </tr>
 <tr>
