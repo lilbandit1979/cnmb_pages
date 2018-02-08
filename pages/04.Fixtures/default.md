@@ -34,7 +34,7 @@ recaptchacontact:
 <div class="g-content">
 <h3 class="g-title">Senior Girls Football</h3>
 <p><strong>Fixtures 2018</strong> Check your contacts booklet for a qualified referee.</p>
-<a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/Senior_girls_football_18">Read More</a>
+<a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/senior_girls_football_18">Read More</a>
 </div>
 </div>
 
