@@ -173,7 +173,7 @@ recaptchacontact:
 
 
 <p>Senior Boys Football Division 4: 25 mins per half, 15 aside. </p>
-<p>Co-ordinator: Eugene Riordan, Rathcoffey, 0872361789</p>
+<p>Co-ordinator: Robbie Jameson, Rathmore: 0872273447</p>
 <p>Quarter Finals : 1A v 2B, 1Bv 2A, 1C v 2D, 1Dv 2C 14th-18th May</p>
 <p>Semi Finals : 1A or 2B v 1C or 2D, 1B or 2A v 1D or 2C 21st-25th May</p>
 <table>
