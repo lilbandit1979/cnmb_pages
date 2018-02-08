@@ -33,8 +33,8 @@ recaptchacontact:
 <div class="g-block box-red size-33-3">
 <div class="g-content">
 <h3 class="g-title">Senior Girls Football</h3>
-<p><strong>Fixtures 2017</strong> Check your contacts booklet for a qualified referee.</p>
-<a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/senior-girls-football">Read More</a>
+<p><strong>Fixtures 2018</strong> Check your contacts booklet for a qualified referee.</p>
+<a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/Senior_girls_football_18">Read More</a>
 </div>
 </div>
 
