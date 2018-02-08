@@ -7,7 +7,8 @@ recaptchacontact:
 ---
 
 <div class="center g-title-large">
-<h2 class="g-title">2017 Games Fixtures</h2>
+<h2 class="g-title">2018 Games Fixtures (2018 fixtures labelled 2018).</h2>
+<h3 class="g-title">Fixtures currently in development. Check back for updates.</h2>
 </div>
 <div class="g-grid">
 <div class="g-block box1 size-33-3">
