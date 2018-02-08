@@ -14,7 +14,10 @@ recaptchacontact:
 <p>Division 4 &amp; 5: 20 mins per half, 11 players aside</p>
 <p>Semi-Finals: 21st - 25th May.</p>
 <p>Finals: 30th May.</p>
-<p><br /><br /><br /><br /><br /></p>
+
+<br>
+<br>
+
 <p>Girls Senior Football Division 1: 25 mins per half, 15 aside. </p>
 <p>Co-ordinator: Stephanie Bergin, Ballymany: 085-1452861</p>
 <p>Semi-Finals:</p>
@@ -155,6 +158,10 @@ recaptchacontact:
 </tr>
 </tbody>
 </table>
+
+<br>
+<br>
+
 <p>Girls Senior Football Division 2: 20 mins per half, 13 aside. </p>
 <p>Co-ordinator: Edel Kearney, Crookstown: 087-6203011</p>
 <p>Semi-Finals:</p>
@@ -295,7 +302,10 @@ recaptchacontact:
 </tr>
 </tbody>
 </table>
-<p><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /></p>
+
+<br>
+<br>
+
 <p>Girls Senior Football Division 3: 20 mins per half, 13 aside. </p>
 <p>Co-ordinator: Jim Hanifin, Allen: 045-860043</p>
 <p>Semi-Finals:</p>
