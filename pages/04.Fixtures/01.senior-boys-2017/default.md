@@ -104,7 +104,7 @@ Co-ordinator: Seán Corkery, Caragh: 0872872174
 
 Senior Boys Football Division 4: 20 mins per half, 15 aside.
 <br>
-Co-ordinator: Eugene Riordan, Rathcoffey, 0872361789
+Co-ordinator: Robbie Jameson, Rathmore: 0872273447
 <table class="tg">
 <tr>
 <th class="tg-s6z2">Division 4A</th>
