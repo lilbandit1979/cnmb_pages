@@ -115,10 +115,8 @@ recaptchacontact:
 <br>
 <br>
 
-
 <p>Senior Camogie Division 3: 20 mins per half, 13 aside. </p>
 <p>Co-ordinator Division 3: Eugene Riordan, Rathcoffey. </p>
-<p><br /><br /></p>
 <table>
 <tbody>
 <tr>
@@ -162,10 +160,8 @@ recaptchacontact:
 <br>
 <br>
 
-
 <p>Senior Camogie Division 4: 20 mins per half, 13 aside. </p>
 <p>Co-ordinator: Annemarie Phelan</p>
-<p><br /><br /></p>
 <table>
 <tbody>
 <tr>
@@ -178,7 +174,7 @@ recaptchacontact:
 </tr>
 <tr>
 <td>
-<p>A Dunlavin (New)</p>
+<p>A Dunlavin </p>
 </td>
 <td>
 <p>A Clocha Rince</p>
@@ -186,10 +182,10 @@ recaptchacontact:
 </tr>
 <tr>
 <td>
-<p>B Castledermot (New)</p>
+<p>B Castledermot </p>
 </td>
 <td>
-<p>B Ballymany *moved down</p>
+<p>B Ballymany </p>
 </td>
 </tr>
 <tr>
@@ -211,9 +207,9 @@ recaptchacontact:
 </tbody>
 </table>
 
-<br>
-<br>
 
+<br>
+<br>
 
 <p>Senior Camogie Division 5: 20 mins per half, 13 aside. </p>
 <p>Co-ordinator: Fionnuala Kelly, Naomh Uilig Newbridge: 087 9449200</p>
@@ -231,7 +227,7 @@ recaptchacontact:
 </tr>
 <tr>
 <td>
-<p>B St Patrick&rsquo;s Newbridge (New)</p>
+<p>B St Patrick&rsquo;s Newbridge </p>
 </td>
 </tr>
 <tr>
@@ -241,12 +237,12 @@ recaptchacontact:
 </tr>
 <tr>
 <td>
-<p>D Monasterevin ( Down)</p>
+<p>D Monasterevin </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>E Kildare ( Down ) </p>
+<p>E Kildare </p>
 </td>
 </tr>
 </tbody>
@@ -330,7 +326,6 @@ recaptchacontact:
 <br>
 
 <p>Fixtures Division 1,4,5:</p>
-<p><br /><br /></p>
 <table>
 <tbody>
 <tr>
@@ -368,4 +363,3 @@ recaptchacontact:
 </tr>
 </tbody>
 </table>
-
