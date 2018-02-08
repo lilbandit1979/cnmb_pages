@@ -103,7 +103,7 @@ recaptchacontact:
 </tr>
 <tr>
 <td>
-<p>D Johnstownbridge ( Gone up)</p>
+<p>D Johnstownbridge</p>
 </td>
 <td>
 <p>D Scoil Mhichil Naofa, Athy</p>
