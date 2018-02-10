@@ -1,6 +1,9 @@
 ---
 title: 'Cross Country 18'
 published: false
+taxonomy:
+    category:
+        - Blog
 recaptchacontact:
     enabled: false
 ---
