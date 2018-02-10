@@ -1,5 +1,6 @@
 ---
 title: 'Cross Country 18'
+published: false
 recaptchacontact:
     enabled: false
 ---
