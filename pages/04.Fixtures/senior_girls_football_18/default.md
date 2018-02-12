@@ -181,7 +181,7 @@ recaptchacontact:
 </tr>
 <tr>
 <td>
-<p>A Bye</p>
+<p>A St. Conleths Newbridge</p>
 </td>
 <td>
 <p>A Naas (Mercy Convent)</p>
