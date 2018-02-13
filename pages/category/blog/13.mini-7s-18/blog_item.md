@@ -370,31 +370,27 @@ recaptchacontact:
 </table>
 
 # Mini 7s Girls Football 18 #
-Mini 7s 18
-Ages 2018
-Total Boys / Girls on the Roll 3rd-6th Class
-Children to be born on or after
-200 + Pupils 1st Jan 2006
-170-199 Pupils 1st Dec 2005
-140-169 Pupils 1st Nov 2005
-110-139 Pupils 1st Oct 2005
-80-109 Pupils 1st Sept 2005
-50-79 Pupils 1st Aug 2005
-30-49 Pupils 1st July 2005
-0-29 Pupils 1st June 2005
-Rules
-Games 8 mins a side
-Unlimited Subs, all subs made from halfway line.
-No draws, All draw games at full time settled by a golden score
-Regionals 5th-9th March
-Finals 14th March in Kilcullen
+## Mini 7s 18
+* Ages 2018
+* Total Boys / Girls on the Roll 3rd-6th Class
+* Children to be born on or after
+* 200 + Pupils 1st Jan 2006
+* 170-199 Pupils 1st Dec 2005
+* 140-169 Pupils 1st Nov 2005
+* 110-139 Pupils 1st Oct 2005
+* 80-109 Pupils 1st Sept 2005
+* 50-79 Pupils 1st Aug 2005
+* 30-49 Pupils 1st July 2005
+* 0-29 Pupils 1st June 2005
+## Rules
+* Games 8 mins a side
+* Unlimited Subs, all subs made from halfway line.
+* No draws, All draw games at full time settled by a golden score
+* Regionals 5th-9th March
+* Finals 14th March in Kilcullen
 
 
-
-
-
-
-Girls’ Football
+### Girls’ Football
 Venue: Ballymany
 Paul Dunning
 Ballymany
@@ -403,7 +399,7 @@ St. Patrick’s Newbridge
 Monasterevin
 Milltown
 
-Venue: Kilcullen
+### Venue: Kilcullen
 Seamus Hanafin
 Kilcullen
 Ballitore
@@ -411,7 +407,7 @@ Kilmead
 Moone
 Castledermot
 
-Venue: Allen
+### Venue: Allen
 Jim Hanafin
 Allen 
 Robertstown
@@ -419,7 +415,7 @@ Rathangan
 Prosperous
 Derrinturn
 
-Venue: Rathcoffey
+### Venue: Rathcoffey
 Eugene Riordan
 Rathcoffey
 Clogherinkoe
@@ -428,14 +424,14 @@ Cadamstown
 Kilshanroe
 Straffan
 
-Venue: Two Mile House
+### Venue: Two Mile House
 Liam Cotter
 Two Mile House
 Killashee
 Mercy Convent Naas
 St. Brigid’s Kildare Town
 
-Venue: Confey
+### Venue: Confey
 Niall Sherlock
 San Carlo Confey
 Maynooth
