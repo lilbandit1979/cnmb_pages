@@ -469,7 +469,7 @@ recaptchacontact:
 </tr>
 <tr>
 <td>
-<p>A Kilshanroe</p>
+<p>A Coill Dubh/Timahoe</p>
 </td>
 <td>
 <p>A Suncroft</p>
@@ -493,7 +493,7 @@ recaptchacontact:
 </tr>
 <tr>
 <td>
-<p>D Johnstownbridge</p>
+<p>D St. Patrick&rsquo;s Newbridge</p>
 </td>
 <td>
 <p>D Ballysax</p>
@@ -618,10 +618,10 @@ recaptchacontact:
 </tr>
 <tr>
 <td>
-<p>C Coill Dubh/Timahoe</p>
+<p>C Kilshanroe</p>
 </td>
 <td>
-<p>C St. Patrick&rsquo;s Newbridge</p>
+<p>C Churchtown</p>
 </td>
 </tr>
 <tr>
@@ -634,7 +634,7 @@ recaptchacontact:
 </tr>
 <tr>
 <td>
-<p>E Bye</p>
+<p>E Johnstownbridge</p>
 </td>
 <td>
 <p>E Ballymore</p>
