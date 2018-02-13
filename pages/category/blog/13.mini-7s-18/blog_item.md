@@ -432,6 +432,7 @@ Venue: Ballymany
 * Killashee
 * Mercy Convent Naas
 * St. Brigid’s Kildare Town
+* Rathmore
 
 ### Venue: Confey
 ### Co-ordinator:Niall Sherlock
