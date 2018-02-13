@@ -71,6 +71,7 @@ L = received late
 | Kildangan NS | Y | Y (L) |
 | Kildare | Y | Y |
 | Killina NS | Y | Y(L) |
+| Kilshanroe | Y (L) | N |
 | Lackagh | Y | Y |
 | Levittstown and Kilkea | Y | N |
 | Maynooth Boys | Y | Y |
@@ -109,6 +110,7 @@ L = received late
 | Staplestown (with Timahoe and Coill Dubh for all competitions) | Y | Y |
 | St. Patricks NS Newb. | Y | N |
 | Suncroft | Y | N |
+| Ticknevin | Y (L) | N |
 | Tiermohan | Y | N |
 | Timahoe Scoil Cianóg Naofa (with Staplestown and Coill Dubh for all competitions) | Y (Incomplete Roll Nos.) | N |
 | Two Mile House | Y | N |
