@@ -382,6 +382,8 @@ recaptchacontact:
 * 50-79 Pupils 1st Aug 2005
 * 30-49 Pupils 1st July 2005
 * 0-29 Pupils 1st June 2005
+
+
 ## Rules
 * Games 8 mins a side
 * Unlimited Subs, all subs made from halfway line.
@@ -392,50 +394,48 @@ recaptchacontact:
 
 ### Girls’ Football
 Venue: Ballymany
-Paul Dunning
-Ballymany
-Suncroft
-St. Patrick’s Newbridge
-Monasterevin
-Milltown
+### Co-ordinator: Paul Dunning
+* Ballymany
+* Suncroft
+* St. Patrick’s Newbridge
+* Monasterevin
+* Milltown
 
 ### Venue: Kilcullen
-Seamus Hanafin
-Kilcullen
-Ballitore
-Kilmead
-Moone
-Castledermot
-
+### Co-ordinator:Seamus Hanafin
+* Kilcullen
+* Ballitore
+* Kilmead
+* Moone
+* Castledermot
 ### Venue: Allen
-Jim Hanafin
-Allen 
-Robertstown
-Rathangan
-Prosperous
-Derrinturn
+### Co-ordinator:Jim Hanafin
+* Allen 
+* Robertstown
+* Rathangan
+* Prosperous
+* Derrinturn
 
 ### Venue: Rathcoffey
-Eugene Riordan
-Rathcoffey
-Clogherinkoe
-Broadford
-Cadamstown
-Kilshanroe
-Straffan
+### Co-ordinator:Eugene Riordan
+* Rathcoffey
+* Clogherinkoe
+* Broadford
+* Cadamstown
+* Kilshanroe
+* Straffan
 
 ### Venue: Two Mile House
-Liam Cotter
-Two Mile House
-Killashee
-Mercy Convent Naas
-St. Brigid’s Kildare Town
-
+### Co-ordinator:Liam Cotter
+* Two Mile House
+* Killashee
+* Mercy Convent Naas
+* St. Brigid’s Kildare Town
 ### Venue: Confey
-Niall Sherlock
-San Carlo Confey
-Maynooth
-Timahoe
-St. Patrick’s, Celbridge
-Scoil Mochua
-Gaelscoil Ui Fhiaich
+### Co-ordinator:Niall Sherlock
+* San Carlo Confey
+* Maynooth
+* Timahoe
+* St. Patrick’s, Celbridge
+* Scoil Mochua
+* Gaelscoil Ui Fhiaich
