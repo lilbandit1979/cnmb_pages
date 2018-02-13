@@ -408,6 +408,7 @@ Venue: Ballymany
 * Kilmead
 * Moone
 * Castledermot
+
 ### Venue: Allen
 ### Co-ordinator:Jim Hanafin
 * Allen 
@@ -431,6 +432,7 @@ Venue: Ballymany
 * Killashee
 * Mercy Convent Naas
 * St. Brigid’s Kildare Town
+
 ### Venue: Confey
 ### Co-ordinator:Niall Sherlock
 * San Carlo Confey
