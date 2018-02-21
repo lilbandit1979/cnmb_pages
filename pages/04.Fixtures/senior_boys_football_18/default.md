@@ -383,7 +383,7 @@ recaptchacontact:
 <p>F Lackagh</p>
 </td>
 <td>
-<p>F BYE </p>
+<p>F Ticknevin (L) </p>
 </td>
 </tr>
 </tbody>
