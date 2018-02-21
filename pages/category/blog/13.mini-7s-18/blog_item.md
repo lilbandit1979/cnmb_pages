@@ -443,16 +443,23 @@ Venue: Ballymany
 * Scoil Mochua
 * Gaelscoil Ui Fhiaich
 
-<p>Mini 7s Camogie 2018:</p>
-<p><br /><br /></p>
+# Mini 7s Camogie 2018: #
 <table>
 <tbody>
 <tr>
 <td>
-<p>Venue: TBC</p>
+<p>Co-ordinator: TBC</p>
 </td>
 <td>
-<p>Venue: TBC</p>
+<p>Co-ordinator: TBC</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Venue:</p>
+</td>
+<td>
+<p>Venue:</p>
 </td>
 </tr>
 <tr>
@@ -502,6 +509,14 @@ Venue: Ballymany
 <tbody>
 <tr>
 <td>
+<p>Co-ordinator: TBC</p>
+</td>
+<td>
+<p>Co-ordinator: Edel Kearney, St. Laurences.</p>
+</td>
+</tr>
+<tr>
+<td>
 <p>Venue: Rathcoffey NS</p>
 </td>
 <td>
@@ -535,6 +550,9 @@ Venue: Ballymany
 <tr>
 <td>
 <p>Scoil Bhride, Kill</p>
+</td>
+<td>
+<p>St. Laurence&rsquo;s NS</p>
 </td>
 </tr>
 </tbody>
