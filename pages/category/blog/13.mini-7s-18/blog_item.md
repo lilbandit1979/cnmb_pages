@@ -449,10 +449,10 @@ Venue: Ballymany
 <tbody>
 <tr>
 <td>
-<p>Venue:</p>
+<p>Venue: TBC</p>
 </td>
 <td>
-<p>Venue:</p>
+<p>Venue: TBC</p>
 </td>
 </tr>
 <tr>
