@@ -194,7 +194,7 @@ Co-ordinator: Barry Morrissey, Naomh Uilig Newbridge 087 4140548
 </tr>
 <tr>
 <td class="tg-031e">C St. Pats Celbridge</td>
-<td class="tg-031e">C Ticknevin</td>
+<td class="tg-031e">C Ticknevin (L)</td>
 </tr>
 <tr>
 <td class="tg-031e">D Coill Dubh/Timahoe</td>
