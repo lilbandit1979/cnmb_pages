@@ -14,10 +14,7 @@ recaptchacontact:
 <p>Division 4 &amp; 5: 20 mins per half, 11 players aside</p>
 <p>Semi-Finals: 21st - 25th May.</p>
 <p>Finals: 30th May.</p>
-
-<br>
-<br>
-
+<p><br /><br /><br /><br /><br /></p>
 <p>Girls Senior Football Division 1: 25 mins per half, 15 aside. </p>
 <p>Co-ordinator: Stephanie Bergin, Ballymany: 085-1452861</p>
 <p>Semi-Finals:</p>
@@ -158,10 +155,6 @@ recaptchacontact:
 </tr>
 </tbody>
 </table>
-
-<br>
-<br>
-
 <p>Girls Senior Football Division 2: 20 mins per half, 13 aside. </p>
 <p>Co-ordinator: Edel Kearney, Crookstown: 087-6203011</p>
 <p>Semi-Finals:</p>
@@ -349,7 +342,7 @@ recaptchacontact:
 </tr>
 <tr>
 <td>
-<p>D Bye</p>
+<p>D Rathmore</p>
 </td>
 <td>
 <p>D Kilmead</p>
@@ -360,7 +353,7 @@ recaptchacontact:
 <p>E Derrinturn</p>
 </td>
 <td>
-<p>E Rathmore</p>
+<p>E Athgarvan</p>
 </td>
 </tr>
 <tr>
@@ -488,7 +481,7 @@ recaptchacontact:
 <p>C Allen</p>
 </td>
 <td>
-<p>C Kilashee</p>
+<p>C Killashee</p>
 </td>
 </tr>
 <tr>
@@ -640,6 +633,14 @@ recaptchacontact:
 <p>E Ballymore</p>
 </td>
 </tr>
+<tr>
+<td>
+<p>F Bye</p>
+</td>
+<td>
+<p>F Moone</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><br /><br /><br /></p>
@@ -676,7 +677,7 @@ recaptchacontact:
 <p>B vs. D</p>
 </td>
 <td>
-<p>A Bye</p>
+<p>A vs. F</p>
 </td>
 </tr>
 <tr>
@@ -690,7 +691,7 @@ recaptchacontact:
 <p>A vs. D</p>
 </td>
 <td>
-<p>C Bye</p>
+<p>C vs. F</p>
 </td>
 <td>
 <p>D vs. E</p>
@@ -698,13 +699,13 @@ recaptchacontact:
 </tr>
 <tr>
 <td>
-<p>E Bye</p>
+<p>F vs. E</p>
 </td>
 <td>
-<p>D Bye</p>
+<p>D vs. F</p>
 </td>
 <td>
-<p>B Bye</p>
+<p>F vs. B</p>
 </td>
 <td>
 <p>E vs. A</p>
