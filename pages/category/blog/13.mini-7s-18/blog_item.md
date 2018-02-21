@@ -442,3 +442,138 @@ Venue: Ballymany
 * St. Patrick’s, Celbridge
 * Scoil Mochua
 * Gaelscoil Ui Fhiaich
+
+
+<table width="621">
+<tbody>
+<tr>
+<td width="307">
+<p>Venue:</p>
+</td>
+<td width="251">
+<p>Venue:</p>
+</td>
+</tr>
+<tr>
+<td width="64">
+<p>1</p>
+</td>
+<td width="307">
+<p><strong>Scoil U&iacute; Riada, Kilcock</strong></p>
+</td>
+<td width="251">
+<p><strong>St. Patrick's N.S, Newbridge</strong></p>
+</td>
+</tr>
+<tr>
+<td width="64">
+<p>2</p>
+</td>
+<td width="307">
+<p><strong>Clocha Rince NS</strong></p>
+</td>
+<td width="251">
+<p><strong>St. Brigid's, Kildare Town</strong></p>
+</td>
+</tr>
+<tr>
+<td width="64">
+<p>3</p>
+</td>
+<td width="307">
+<p><strong>Gaelscoil Ui Fhiaich, Maynooth</strong></p>
+</td>
+<td width="251">
+<p><strong>Scoil Bhr&iacute;de, Kilcullen</strong></p>
+</td>
+</tr>
+<tr>
+<td width="64">
+<p>4</p>
+</td>
+<td width="307">
+<p><strong>Scoil Mochua, Celbridge</strong></p>
+</td>
+<td width="251">
+<p><strong>Monasterevan Convent N.S.</strong></p>
+</td>
+</tr>
+<tr>
+<td width="64">
+<p>5</p>
+</td>
+<td width="307">
+<p><strong>The Presentation Girls' School, Maynooth</strong></p>
+</td>
+<td width="251">
+<p><strong>Curragh GNS</strong></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td width="307">
+<p>Venue:</p>
+</td>
+<td width="251">
+<p>Co Ordinator: Edel Kearney Venue: Athy</p>
+</td>
+</tr>
+<tr>
+<td width="64">
+<p>1</p>
+</td>
+<td width="307">
+<p><strong>Rathcoffey NS</strong></p>
+</td>
+<td width="251">
+<p><strong>St.Laurence's N.S.</strong></p>
+</td>
+</tr>
+<tr>
+<td width="64">
+<p>2</p>
+</td>
+<td width="307">
+<p><strong>Straffan N.S.</strong></p>
+</td>
+<td width="251">
+<p><strong>Scoil &Iacute;de Naofa, Athy</strong></p>
+</td>
+</tr>
+<tr>
+<td width="64">
+<p>3</p>
+</td>
+<td width="307">
+<p><strong>Mercy Convent Naas</strong></p>
+</td>
+<td width="251">
+<p><strong>Scoil Mhich&iacute;l Naofa, Athy</strong></p>
+</td>
+</tr>
+<tr>
+<td width="64">
+<p>4</p>
+</td>
+<td width="307">
+<p><strong>Gaelscoil N&aacute;s na R&iacute;ogh</strong></p>
+</td>
+<td width="251">
+<p><strong>Scoil Diarmada, Castledermot</strong></p>
+</td>
+</tr>
+<tr>
+<td width="64">
+<p>5</p>
+</td>
+<td width="307">
+<p><strong>Scoil Bhr&iacute;de, Kill</strong></p>
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
