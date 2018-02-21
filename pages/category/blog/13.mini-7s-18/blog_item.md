@@ -443,137 +443,99 @@ Venue: Ballymany
 * Scoil Mochua
 * Gaelscoil Ui Fhiaich
 
-
-<table width="621">
+<p>Mini 7s Camogie 2018:</p>
+<p><br /><br /></p>
+<table>
 <tbody>
 <tr>
-<td width="307">
+<td>
 <p>Venue:</p>
 </td>
-<td width="251">
+<td>
 <p>Venue:</p>
 </td>
 </tr>
 <tr>
-<td width="64">
-<p>1</p>
+<td>
+<p>Scoil Ui Riada, Kilcock</p>
 </td>
-<td width="307">
-<p><strong>Scoil U&iacute; Riada, Kilcock</strong></p>
-</td>
-<td width="251">
-<p><strong>St. Patrick's N.S, Newbridge</strong></p>
+<td>
+<p>St. Patrick&rsquo;s NS, Newbridge</p>
 </td>
 </tr>
 <tr>
-<td width="64">
-<p>2</p>
+<td>
+<p>Clocha Rince NS</p>
 </td>
-<td width="307">
-<p><strong>Clocha Rince NS</strong></p>
-</td>
-<td width="251">
-<p><strong>St. Brigid's, Kildare Town</strong></p>
+<td>
+<p>St. Brigid&rsquo;s, Kildare Town</p>
 </td>
 </tr>
 <tr>
-<td width="64">
-<p>3</p>
+<td>
+<p>G.S. Ui Fhiach</p>
 </td>
-<td width="307">
-<p><strong>Gaelscoil Ui Fhiaich, Maynooth</strong></p>
-</td>
-<td width="251">
-<p><strong>Scoil Bhr&iacute;de, Kilcullen</strong></p>
+<td>
+<p>Scoil Bhride, Kilcullen</p>
 </td>
 </tr>
 <tr>
-<td width="64">
-<p>4</p>
+<td>
+<p>Scoil Mochua, Celbridge</p>
 </td>
-<td width="307">
-<p><strong>Scoil Mochua, Celbridge</strong></p>
-</td>
-<td width="251">
-<p><strong>Monasterevan Convent N.S.</strong></p>
+<td>
+<p>Monasterevin Convent NS</p>
 </td>
 </tr>
 <tr>
-<td width="64">
-<p>5</p>
+<td>
+<p>Presentation Girls, Maynooth</p>
 </td>
-<td width="307">
-<p><strong>The Presentation Girls' School, Maynooth</strong></p>
+<td>
+<p>Curragh GNS</p>
 </td>
-<td width="251">
-<p><strong>Curragh GNS</strong></p>
+</tr>
+</tbody>
+</table>
+<p><br /><br /><br /></p>
+<table>
+<tbody>
+<tr>
+<td>
+<p>Venue: Rathcoffey NS</p>
+</td>
+<td>
+<p>Venue: Athy</p>
 </td>
 </tr>
 <tr>
-</tr>
-<tr>
-</tr>
-<tr>
-<td width="307">
-<p>Venue:</p>
+<td>
+<p>Straffan NS</p>
 </td>
-<td width="251">
-<p>Co Ordinator: Edel Kearney Venue: Athy</p>
+<td>
+<p>Scoil Ide Naofa, Athy</p>
 </td>
 </tr>
 <tr>
-<td width="64">
-<p>1</p>
+<td>
+<p>Mercy Convent, Naas</p>
 </td>
-<td width="307">
-<p><strong>Rathcoffey NS</strong></p>
-</td>
-<td width="251">
-<p><strong>St.Laurence's N.S.</strong></p>
+<td>
+<p>Scoil Mhichil Naofa, Athy</p>
 </td>
 </tr>
 <tr>
-<td width="64">
-<p>2</p>
+<td>
+<p>G.S. Nas Na Riogh</p>
 </td>
-<td width="307">
-<p><strong>Straffan N.S.</strong></p>
-</td>
-<td width="251">
-<p><strong>Scoil &Iacute;de Naofa, Athy</strong></p>
+<td>
+<p>Scoil Diarmada, Castledermot</p>
 </td>
 </tr>
 <tr>
-<td width="64">
-<p>3</p>
+<td>
+<p>Scoil Bhride, Kill</p>
 </td>
-<td width="307">
-<p><strong>Mercy Convent Naas</strong></p>
-</td>
-<td width="251">
-<p><strong>Scoil Mhich&iacute;l Naofa, Athy</strong></p>
-</td>
-</tr>
-<tr>
-<td width="64">
-<p>4</p>
-</td>
-<td width="307">
-<p><strong>Gaelscoil N&aacute;s na R&iacute;ogh</strong></p>
-</td>
-<td width="251">
-<p><strong>Scoil Diarmada, Castledermot</strong></p>
-</td>
-</tr>
-<tr>
-<td width="64">
-<p>5</p>
-</td>
-<td width="307">
-<p><strong>Scoil Bhr&iacute;de, Kill</strong></p>
-</td>
-</tr>
-<tr>
 </tr>
 </tbody>
 </table>
