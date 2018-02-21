@@ -1,6 +1,6 @@
 ---
 title: 'Cross Country 18'
-published: false
+published: true
 taxonomy:
     category:
         - Blog
