@@ -10,7 +10,7 @@ recaptchacontact:
 
 ## Cross Country 2018:
 
-## Venue: Naas Racecourse
+## Venue: TBC
 
 ## Date: Thursday 22nd March
 
