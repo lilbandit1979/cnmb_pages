@@ -451,7 +451,7 @@ Venue: Ballymany
 <p>Co-ordinator: TBC</p>
 </td>
 <td>
-<p>Co-ordinator: TBC</p>
+<p>Co-ordinator: Siobhan Murray</p>
 </td>
 </tr>
 <tr>
@@ -459,7 +459,7 @@ Venue: Ballymany
 <p>Venue:</p>
 </td>
 <td>
-<p>Venue:</p>
+<p>Venue: St. Brigid's Kildare</p>
 </td>
 </tr>
 <tr>
@@ -509,7 +509,7 @@ Venue: Ballymany
 <tbody>
 <tr>
 <td>
-<p>Co-ordinator: TBC</p>
+<p>Co-ordinator: Karen</p>
 </td>
 <td>
 <p>Co-ordinator: Edel Kearney, St. Laurences.</p>
@@ -517,7 +517,7 @@ Venue: Ballymany
 </tr>
 <tr>
 <td>
-<p>Venue: Rathcoffey NS</p>
+<p>Venue: Kill</p>
 </td>
 <td>
 <p>Venue: Athy</p>
