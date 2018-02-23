@@ -311,7 +311,7 @@ recaptchacontact:
 <p>E Kilashee</p>
 </td>
 <td>
-<p>E Bye</p>
+<p>E Ticknevin (L)</p>
 </td>
 </tr>
 <tr>
