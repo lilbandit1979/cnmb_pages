@@ -71,9 +71,9 @@ recaptchacontact:
 
 <div class="g-block box-orange size-33-3">
 <div class="g-content">
-<h3 class="g-title">Senior Hurling 2017</h3>
-<p><strong>Fixtures 2017</strong> Only use referees from our updated 2017 referees list.</p>
-<a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/senior-hurling-2017">Read More</a>
+<h3 class="g-title">Senior Hurling 2018</h3>
+<p><strong>Fixtures 2018</strong> Only use referees from our updated 2017 referees list.</p>
+<a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/senior-hurling-2018">Read More</a>
 </div>
 </div>
 
