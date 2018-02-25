@@ -20,7 +20,7 @@ recaptchacontact:
 * Strictly 2 teams per race.
 * Registration closing date: Friday 31st March 6pm.
 * Late entries not accepted. 
-* Register online [here](https://goo.gl/forms/QCMid2yvprxEXdsn1).
+## Register online [here](https://goo.gl/forms/QCMid2yvprxEXdsn1).
 * No postal registrations.
 
 * Race Rules:
