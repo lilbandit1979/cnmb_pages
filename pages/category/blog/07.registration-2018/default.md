@@ -33,13 +33,13 @@ L = received late
 | ------|------|------ |
 | Allenwood | Y | N |
 | Ardclough  | Y | Y (L) |
-| Athgarvan, Scoil Bhríde | Y | N |
+| Athgarvan, Scoil Bhríde | Y | Y (L) |
 | Ballyshannon | Y | Y |
 | Allen NS | Y | Y |
 | Ballycane | Y | N |
 | Ballymore NS | Y | Y |
 | Ballyshannon | Y | Y |
-| Ballysax | Y | N |
+| Ballysax | Y | Y (L) |
 | Broadford | Y | Y |
 | Cadamstown | Y | Y |
 | Caragh | Y | Y |
@@ -92,6 +92,7 @@ L = received late
 | Robertstown | Y | Y(L) |
 | Sallins | Y | Y |
 | Scoil Bhride Naas | Y | Y |
+| Scoil Bhride Nurney | Y | N |
 | Scoil Ide Naofa, Kilmead | Y | N |
 | Sc. Mhic. Na. Athy | Y | Y |
 | Sc. Mhuire JNR Newbridge | Y | Y N/A |
@@ -99,7 +100,9 @@ L = received late
 | Scoil Mochua | Y | Y |
 | Scoil Na Naomh Uilig, Newbridge | Y | N |
 | Scoil Naomh Brid, Celbridge (Girls) | Y | N |
+| Scoil San Carlo Confey | Y (L) | Y (L) |
 | Scoil Uí Riada | Y | Y |
+| Scoil Pháidraig Naofa Athy | Y (L) | N |
 | St. Conleth and Mary’s Derrinturn | Y | N |
 | St. Conleths and Mary’s Infants Newbridge  | Y | N |
 | St. Conleth and Mary’s Newbridge | Y | Y |
@@ -110,7 +113,7 @@ L = received late
 | Staplestown (with Timahoe and Coill Dubh for all competitions) | Y | Y |
 | St. Patricks NS Newb. | Y | N |
 | Suncroft | Y | N |
-| Ticknevin | Y (L) | N |
+| Ticknevin | Y (L) | Y (L) |
 | Tiermohan | Y | N |
 | Timahoe Scoil Cianóg Naofa (with Staplestown and Coill Dubh for all competitions) | Y (Incomplete Roll Nos.) | N |
 | Two Mile House | Y | N |
