@@ -509,7 +509,7 @@ Venue: Ballymany
 <tbody>
 <tr>
 <td>
-<p>Co-ordinator: Karen</p>
+<p>Co-ordinator: Karen Christian</p>
 </td>
 <td>
 <p>Co-ordinator: Edel Kearney, St. Laurences.</p>
