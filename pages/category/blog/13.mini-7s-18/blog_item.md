@@ -557,3 +557,190 @@ Venue: Ballymany
 </tr>
 </tbody>
 </table>
+
+# Mini 7s Hurling 18
+<p>Please forward all regional winners to John Rock, St. Corban&rsquo;s Boys School, Naas.</p>
+<table>
+<tbody>
+<tr>
+<td>
+<p>Group A</p>
+</td>
+<td>
+<p>Group B</p>
+</td>
+<td>
+<p>Group C</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Venue: St. Corbans</p>
+</td>
+<td>
+<p>Venue: Celbridge</p>
+</td>
+<td>
+<p>Venue: Ballymany</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Co-ordinator: Jim Broderick</p>
+</td>
+<td>
+<p>Co-ordinator: Kevin Bracken</p>
+</td>
+<td>
+<p>Co-ordinator: Paud&iacute; Costello</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>St. Corban&rsquo;s Naas</p>
+</td>
+<td>
+<p>Celbridge</p>
+</td>
+<td>
+<p>Ballymany</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Kilcullen</p>
+</td>
+<td>
+<p>Maynooth</p>
+</td>
+<td>
+<p>Patricians</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Two Mile House</p>
+</td>
+<td>
+<p>Scoil U&iacute; Riada</p>
+</td>
+<td>
+<p>St. Patricks Newbridge</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>G.S. N&aacute;s</p>
+</td>
+<td>
+<p>Scoil U&iacute; Fhiach</p>
+</td>
+<td>
+<p>Rathmore</p>
+</td>
+</tr>
+<tr>
+<td>
+Kill
+</td>
+<td>
+Scoil Mochua
+</td>
+   <td>
+       NA
+    </td>
+</tr>
+</tbody>
+</table>
+<p><br /><br /><br /></p>
+<table>
+<tbody>
+<tr>
+<td>
+<p>Group D</p>
+</td>
+<td>
+<p>Group E</p>
+</td>
+<td>
+<p>Group F</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Venue: Kildare</p>
+</td>
+<td>
+<p>Venue: Kilmead</p>
+</td>
+<td>
+<p>Venue: Clane</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Co-ordinator: Willie Greene</p>
+</td>
+<td>
+<p>Co-ordinator: Ed Kirwin</p>
+</td>
+<td>
+<p>Co-ordinator: Cathal Carr</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Kildare</p>
+</td>
+<td>
+<p>Kilmead</p>
+</td>
+<td>
+<p>Clane</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Rathangan</p>
+</td>
+<td>
+<p>Moone</p>
+</td>
+<td>
+<p>Robertstown</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Suncroft</p>
+</td>
+<td>
+<p>Scoil Mhichil Naofa Athy</p>
+</td>
+<td>
+<p>Straffan</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Monasterevin</p>
+</td>
+<td>
+<p>Castledermot</p>
+</td>
+<td>
+<p>Clogherinkoe</p>
+</td>
+</tr>
+<tr>
+    <td>NA
+    </td>
+    <td>NA
+    </td>
+    <td>
+        <p>Confey San Carlo</p>
+    </td>
+</tr>
+   </tbody>
+</table>
+<p>As there will be 6 regional winners an open draw on the day will determine quarter and semi-finals.</p>
