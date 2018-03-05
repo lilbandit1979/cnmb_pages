@@ -8,6 +8,8 @@ recaptchacontact:
     enabled: false
 ---
 
+# All regional blitzes postponed to week 12th-16th March
+# Finals 21st March
 <p><strong>Ages 2018</strong></p>
 <p><strong>Total Boys / Girls on the Roll 3<sup>rd</sup>-6<sup>th</sup> Class</strong></p>
 <p><strong>Children to be born on or after</strong></p>
