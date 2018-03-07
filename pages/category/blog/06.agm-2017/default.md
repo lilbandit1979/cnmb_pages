@@ -14,7 +14,7 @@ recaptchacontact:
 
 ### Time: 6:30pm 
 
-### Venue: Osprey Hotel, Naas
+### Venue: Osprey Hotel, Naas test
 
 * Agm 2017 will take place in Osprey Hotel Naas on 30th November at 6:30pm. 
 * Each school may send 2 voting delegates.
@@ -40,4 +40,3 @@ recaptchacontact:
 * Cultural Officer:
 * County Board Delegate: 
 * Handball Officer:
-
