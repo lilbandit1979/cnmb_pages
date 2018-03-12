@@ -458,7 +458,7 @@ Venue: Ballymany
 </tr>
 <tr>
 <td>
-<p>Venue:</p>
+<p>Venue:Rathcoffey</p>
 </td>
 <td>
 <p>Venue: St. Brigid's Kildare</p>
