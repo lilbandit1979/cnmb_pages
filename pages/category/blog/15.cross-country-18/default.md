@@ -1,5 +1,6 @@
 ---
 title: 'Cross Country 18'
+media_order: Cross_Country_Greybg_1520x720.png
 published: true
 taxonomy:
     category:
