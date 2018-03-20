@@ -11,13 +11,13 @@ recaptchacontact:
     subject: 'CnmB Kildare'
 ---
 
-# 2017 Cumann na mBunscol Kildare Committee
+# 2018 Cumann na mBunscol Kildare Committee
 
 #Cumann na mBunscol Kildare Committee 2017
 ---
-* Chairperson: Victor Logan.
+* Chairperson: Sean Corkery.
 	- (087) 994 9978
-* Vice-Chairperson: Sean Corkery
+* Vice-Chairperson: Victor Logan
 	- (087) 287 2174
 * Secretary: Shane Power
   	- (086) 162 1047
