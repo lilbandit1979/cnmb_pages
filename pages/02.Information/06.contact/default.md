@@ -13,7 +13,7 @@ recaptchacontact:
 
 # 2018 Cumann na mBunscol Kildare Committee
 
-#Cumann na mBunscol Kildare Committee 2017
+#Cumann na mBunscol Kildare Committee 2018
 ---
 * Chairperson: Sean Corkery.
 	- (087) 994 9978
