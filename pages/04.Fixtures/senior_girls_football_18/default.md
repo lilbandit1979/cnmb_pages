@@ -619,7 +619,7 @@ recaptchacontact:
 </tr>
 <tr>
 <td>
-<p>D Broadford</p>
+<p>D Bye</p>
 </td>
 <td>
 <p>D Scoil Phadraig Athy</p>
