@@ -13,7 +13,7 @@ recaptchacontact:
 
 ## Venue: Hawkfield Centre of Excellence
 
-## Date: ~~Thursday 22nd March~~ POSTPONED DATE T.B.C.
+## Date: Friday 20th April
 
 ## Registration:
 
