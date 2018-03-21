@@ -296,7 +296,7 @@ recaptchacontact:
 <p>D Kildangan</p>
 </td>
 <td>
-<p>D Coill Dubh/Timahoe</p>
+<p>D Coill Dubh/Timahoe/Staplestown</p>
 </td>
 </tr>
 <tr>
@@ -355,7 +355,7 @@ recaptchacontact:
 <p>C Ballyshannon</p>
 </td>
 <td>
-<p>C Staplestown </p>
+<p>C Bye </p>
 </td>
 </tr>
 <tr>
