@@ -319,7 +319,7 @@ recaptchacontact:
 <p>F Ballycane Naas</p>
 </td>
 <td>
-<p>F Coill Dubh/Timahoe</p>
+<p>F Coill Dubh/Timahoe/Staplestown</p>
 </td>
 </tr>
 </tbody>
@@ -369,7 +369,7 @@ recaptchacontact:
 <p>D Mhichil Naofa Athy</p>
 </td>
 <td>
-<p>D Staplestown</p>
+<p>D Bye</p>
 </td>
 </tr>
 <tr>
