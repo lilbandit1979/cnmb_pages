@@ -374,7 +374,7 @@ recaptchacontact:
 </tr>
 <tr>
 <td>
-<p>E Kildare Educate Together</p>
+<p>E Bye</p>
 </td>
 <td>
 <p>E St. Conleth and Mary Infant School</p>
@@ -385,7 +385,7 @@ recaptchacontact:
 <p>F Lackagh</p>
 </td>
 <td>
-<p>F Bye</p>
+<p>F Kildare Educate Together</p>
 </td>
 </tr>
 </tbody>
