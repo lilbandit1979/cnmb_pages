@@ -603,7 +603,7 @@ recaptchacontact:
 </tr>
 <tr>
 <td>
-<p>B Cadamstown</p>
+<p>B Cadamstown/Broadford</p>
 </td>
 <td>
 <p>B Kildangan</p>
