@@ -462,7 +462,7 @@ recaptchacontact:
 </tr>
 <tr>
 <td>
-<p>A Coill Dubh/Timahoe</p>
+<p>A Coill Dubh/Timahoe/Staplestown</p>
 </td>
 <td>
 <p>A Suncroft</p>
@@ -595,7 +595,7 @@ recaptchacontact:
 </tr>
 <tr>
 <td>
-<p>A Staplestown</p>
+<p>A Bye</p>
 </td>
 <td>
 <p>A Halverstown</p>
