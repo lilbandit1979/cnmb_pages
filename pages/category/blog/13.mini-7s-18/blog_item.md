@@ -28,6 +28,9 @@ recaptchacontact:
 ### Time: 11:00am sharp
 ### What to bring: 3 x numbered team sheets, €10 per team to cover referee costs.
 
+## Hurling:
+### Details to be confirmed.
+
 
 <p><strong>Ages 2018</strong></p>
 <p><strong>Total Boys / Girls on the Roll 3<sup>rd</sup>-6<sup>th</sup> Class</strong></p>
