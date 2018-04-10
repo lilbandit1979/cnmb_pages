@@ -486,7 +486,7 @@ recaptchacontact:
 </tr>
 <tr>
 <td>
-<p>D St. Patrick&rsquo;s Newbridge</p>
+<p>D Bye</p>
 </td>
 <td>
 <p>D Ballysax</p>
