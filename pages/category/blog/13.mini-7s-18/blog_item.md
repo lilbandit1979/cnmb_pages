@@ -12,24 +12,24 @@ recaptchacontact:
 # Finals:
 
 ## Camogie:
-### Date: Monday 16th April
-### Venue: St. Laurence's
-### Time: 11:00am sharp
+* **Date:** Monday 16th April
+* **Venue**: St. Laurence's
+* **Time:** 11:00am sharp
 
 ## Boys Football:
-### Date: Friday 13th April
-### Venue: Ballymany, Newbridge.
-### Time: 12:45pm sharp
-### What to bring: 3 x numbered team sheets, €10 per team to cover referee costs.
+* **Date:** Friday 13th April
+* **Venue:** Ballymany, Newbridge.
+* **Time:** 12:45pm sharp
+* **What to bring:** 3 x numbered team sheets, €10 per team to cover referee costs.
 
 ## Girls Football: 
-### Date: Friday 13th April
-### Venue: Ballymany, Newbridge
-### Time: 11:00am sharp
-### What to bring: 3 x numbered team sheets, €10 per team to cover referee costs.
+*** Date:** Friday 13th April
+* **Venue:** Ballymany, Newbridge
+* **Time:** 11:00am sharp
+* **What to bring:** 3 x numbered team sheets, €10 per team to cover referee costs.
 
 ## Hurling:
-### Details to be confirmed.
+* Details to be confirmed.
 
 
 <p><strong>Ages 2018</strong></p>
