@@ -8,8 +8,7 @@ recaptchacontact:
     enabled: false
 ---
 
-# All regional blitzes postponed to week 12th-16th March
-# Finals:
+# Mini 7s Finals 2018:
 
 ## Camogie:
 * **Date:** Monday 16th April
