@@ -14,6 +14,8 @@ recaptchacontact:
 * **Date:** Monday 16th April
 * **Venue**: St. Laurence's
 * **Time:** 11:00am sharp
+* * **What to bring:** 3 x numbered team sheets, €10 per team to cover referee costs.
+
 
 ## Boys Football:
 * **Date:** Friday 13th April
