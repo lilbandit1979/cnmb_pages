@@ -193,7 +193,8 @@ recaptchacontact:
 </tr>
 </tbody>
 </table>
-<p><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /></p>
+<br>
+<br>
 <p>Division 5: 20 mins per half. 11 players aside. </p>
 <p>Co-ordinator: Sean Hickey</p>
 <table>
