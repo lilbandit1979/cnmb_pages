@@ -158,9 +158,7 @@ recaptchacontact:
 <td>
 <p>&nbsp;Division 4</p>
 </td>
-<td>
-<p>Division 4B</p>
-</td>
+
 </tr>
 <tr>
 <td>
