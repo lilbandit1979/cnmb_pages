@@ -156,7 +156,7 @@ recaptchacontact:
 <tbody>
 <tr>
 <td>
-<p>&nbsp;Division 4A</p>
+<p>&nbsp;Division 4</p>
 </td>
 <td>
 <p>Division 4B</p>
@@ -166,40 +166,27 @@ recaptchacontact:
 <td>
 <p>A G S Chill Dara</p>
 </td>
-<td>
-<p>A Clogherinkoe</p>
-</td>
 </tr>
 <tr>
 <td>
 <p>B Ballymany</p>
-</td>
-<td>
-<p>B Kilcock</p>
 </td>
 </tr>
 <tr>
 <td>
 <p>C Rathangan</p>
 </td>
-<td>
-<p>C Scoil Mochua</p>
-</td>
 </tr>
 <tr>
 <td>
 <p>D Kildare</p>
-</td>
-<td>
-<p>D BYE</p>
+<p>E Clogherinkoe</p>
+<p>F Kilcock </p>
 </td>
 </tr>
 </tbody>
 </table>
-
-<br>
-<br>
-
+<p><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /></p>
 <p>Division 5: 20 mins per half. 11 players aside. </p>
 <p>Co-ordinator: Sean Hickey</p>
 <table>
@@ -264,7 +251,7 @@ recaptchacontact:
 </table>
 <p><br /><br /></p>
 <p>Fixtures 2018</p>
-<p>Divisions 1-4 </p>
+<p>Divisions 1-3 </p>
 <table>
 <tbody>
 <tr>
@@ -303,7 +290,7 @@ recaptchacontact:
 </tbody>
 </table>
 <p><br /><br /></p>
-<p>Div. 5 </p>
+<p>Div.4 and 5 </p>
 <table>
 <tbody>
 <tr>
@@ -376,4 +363,3 @@ recaptchacontact:
 </tr>
 </tbody>
 </table>
-<p><br /><br /></p>
