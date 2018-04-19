@@ -151,6 +151,9 @@ recaptchacontact:
 </tbody>
 </table>
 <p>Division 4 20 mins per half. 13 players aside.</p>
+* Top team goes to final
+* 2nd and 3rd teams play semi-final
+
 <p>Coordinator William Carroll</p>
 <table>
 <tbody>
