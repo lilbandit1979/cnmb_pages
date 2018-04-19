@@ -7,7 +7,7 @@ recaptchacontact:
 <html>
 <head><meta charset="utf-8"/></head>
 <body>
-<h2>2017 Referees List</h2>
+<h2>2018 Referees List</h2>
 <h3>Please use referees from this updated list only</h3>
 <ul>
 <li>Alan Lagrue 0857329016 Naas BF/GF/H/C</li>
