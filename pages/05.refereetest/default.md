@@ -1,5 +1,5 @@
 ---
-title: 'Referees 2017'
+title: 'Referees 2018'
 recaptchacontact:
     enabled: false
 ---
