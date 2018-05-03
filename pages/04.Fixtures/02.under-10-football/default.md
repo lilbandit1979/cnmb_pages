@@ -13,7 +13,7 @@ Remember:
 <li>Div 1-5: 13 players aside and 20 mins per half</li>
 <li>Div 6-7: 11 players aside and 15 mins per half</li>
 <li>Semi-Finals: 8th-12th May</li>
-<li>Finals: 18th May</li>
+<li>Finals: 17th May</li>
 </ul>
  
 
@@ -278,7 +278,7 @@ Divisions 1-6: Semi-Finals: Runners up of each group play winner of opposite gro
 Semi-Finals: 8th - 12th May
 
 <br>
-Finals: 18th May 2016
+Finals: 17th May 2018
 
 <br>
 
