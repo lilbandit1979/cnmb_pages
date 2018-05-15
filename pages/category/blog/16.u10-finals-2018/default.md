@@ -14,10 +14,11 @@ recaptchacontact:
 ## Venue: Moorefield GAA Club
 
 # What to bring:#
-* 3 x team sheets with names, dates of birth, jersey numbers of children participating.
+* 3 x team sheets with names, **dates of birth and matching jersey numbers** of children participating.
+* It is up to every school to ensure that players are the correct age. 
 * Jersey numbers must match team sheets for Cumann admin and media purposes.
 
-Fixtures:
+### Fixtures:
 
 * 2:30pm: Division 1: Clane/Athy vs. Celbridge/Naas
 * 2:30pm: Division 2: Conleths/Kilcullen vs. Kill/Patricians/Monasterevin
@@ -27,5 +28,6 @@ Fixtures:
 * 4:10pm: Division 6: Timahoe/Athgarvan vs. Ballysax/Kilshanroe
 * 4:45pm: Division 7: Lackagh/Ballymany Jnr. vs. Curragh/Moone
 
+#### Best of luck to all schools!
 
 
