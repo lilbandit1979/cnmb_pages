@@ -13,6 +13,10 @@ recaptchacontact:
 
 ## Venue: Moorefield GAA Club
 
+# What to bring:#
+* 3 x team sheets with names, dates of birth, jersey numbers of children participating.
+* Jersey numbers must match team sheets for Cumann admin and media purposes.
+
 Fixtures:
 
 * 2:30pm: Division 1: Clane/Athy vs. Celbridge/Naas
