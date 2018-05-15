@@ -1,5 +1,8 @@
 ---
 title: 'U10 Finals 2018'
+taxonomy:
+    category:
+        - Blog
 recaptchacontact:
     enabled: false
 ---
