@@ -22,7 +22,7 @@ recaptchacontact:
 ### Fixtures:
 
 * 2:30pm: Division 1: Clane/~~Athy~~ vs. Celbridge/Naas
-* 2:30pm: Division 2: Conleths/~~Kilcullen~~ vs. Kill/Patricians/Monasterevin
+* 2:30pm: Division 2: ~~Conleths~~/Kilcullen vs. Kill/Patricians/Monasterevin
 * 3:20pm: Division 3: Dunlavin/Scoil Uí Fhiach vs. Sc. Bhríde Naas/Milltown
 * 3:20pm: Division 4: Rathmore vs. Twomilehouse/Kilcock
 * 4:10pm: Division 5: Grange vs. Athy/Kilberry
