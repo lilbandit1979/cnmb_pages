@@ -27,7 +27,7 @@ recaptchacontact:
 * 3:20pm: Division 4: Rathmore vs. Twomilehouse/~~Kilcock~~
 * 4:10pm: Division 5: Grange vs.~~Athy~~/Kilberry
 * 4:10pm: Division 6: ~~Timahoe~~ /Athgarvan vs. Ballysax/Kilshanroe
-* 4:45pm: Division 7: Lackagh/~~Ballymany Jnr.~~ vs. Curragh/~~Moone~~
+* 4:45pm: Division 7: Lackagh/~~Ballymany Jnr.~~ vs. Curragh Boys/~~Moone~~
 
 #### Best of luck to all schools!
 
