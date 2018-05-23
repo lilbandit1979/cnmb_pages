@@ -21,6 +21,7 @@ recaptchacontact:
 
 ### Pitch 1:
 | Time | Pitch 1 | Pitch 2 | Pitch 3 |
+| ------ | ---------- | --------- | --------- |
 | 2:00 | Division 2 Boys | Division 2 Girls | Division 6 Boys |
 
 #### Best of luck to all schools!
