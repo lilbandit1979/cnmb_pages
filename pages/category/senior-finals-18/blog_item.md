@@ -21,10 +21,9 @@ recaptchacontact:
 
 ### Pitch 1:
  Time | Pitch 1 | Pitch 2 | Pitch 3 
- --- | --- | --- | --- 
+ --- | --- | --- | --- |
  2:00 | Div 2 Boys Kilcullen vs. Caragh/Athy/Kildare | Div 2 Girls Mercy C. Naas/St. Conleths vs. Scoil Uí Riada/Milltown | Div 6 Boys N/Ed. Toget./St. Pats Celbridge vs. Ticknevin/St. Pats Newb. 
- ------ |
- 3:00 | Div. 1 Girls Kilcullen/Caragh vs. Sallins/Athy/Kildare | Div 5 Boys Coill Dubh/Ballysax vs. Robertstown/Kildangan | Div. 3 Girls  Cappagh/TMH vs. Churchtown/Rathmore/Rathcoffey 
+| 3:00 | Div. 1 Girls Kilcullen/Caragh vs. Sallins/Athy/Kildare | Div 5 Boys Coill Dubh/Ballysax vs. Robertstown/Kildangan | Div. 3 Girls  Cappagh/TMH vs. Churchtown/Rathmore/Rathcoffey  |
 
 
 #### Best of luck to all schools!
