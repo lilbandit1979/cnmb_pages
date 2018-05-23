@@ -1,5 +1,6 @@
 ---
 title: 'Senior Finals 18'
+published: false
 recaptchacontact:
     enabled: false
 ---
