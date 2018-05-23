@@ -1,6 +1,8 @@
 ---
 title: 'Senior Finals 18'
-published: false
+taxonomy:
+    category:
+        - Blog
 recaptchacontact:
     enabled: false
 ---
