@@ -15,7 +15,7 @@ recaptchacontact:
 
 # What to bring:#
 * 3 x team sheets with **names, matching jersey numbers** of children participating.
-* Names of children **must corresspond** to registered players submitted during 2018 registration.
+* Names of children **must correspond** to registered players submitted during 2018 registration.
 * It is up to every school to ensure that players are the correct age. 
 * Jersey numbers **must match** team sheets for Cumann admin and media purposes.
 
