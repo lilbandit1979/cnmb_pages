@@ -22,10 +22,10 @@ recaptchacontact:
 ### Fixtures:
  Time | Pitch 1 | Pitch 2 | Pitch 3 
  --- | --- | --- | --- 
- 2:00 | Div 2 Boys Kilcullen vs. Caragh/Monasterevin | Div 2 Girls Mercy C. Naas/~~St. Conleths~~ vs. Scoil Uí Riada/Milltown | Div 6 Boys N/Ed. Toget./~~St. Pats Celbridge~~ vs. ~~Ticknevin~~/St. Pats Newb. 
- 3:00 | Div. 1 Girls ~~Kilcullen~~/Caragh vs. Sallins/Athy/Kildare | Div. 3 Boys Prosperous vs. Sc. Bhríde/Milltown | Div. 4 Boys  Straffan/TMH vs. Churchtown/Rathmore/Rathcoffey
-4:00 | Div. 1 Boys Sallins vs. Clane/~~Kildare~~ | Div. 5 Boys ~~Coill Dubh~~/Ballysax vs. Robertstown/Mhichil Naofa Athy | Div. 3 Girls Cappagh/TMH vs. Dunlavin/Rathmore/Rathcoffey 
-5:00 | B final Naas vs. North Winners | Div. 4 Girls Ballysax/~~Allen~~ vs. Robertstown/N. Ed. Toget. | Div. 5 Girls JTB/~~Moone~~ vs. Churchtown/Kilshanroe
+ 2:00 | Div 2 Boys Kilcullen vs. Caragh~~/Monasterevin~~ | Div 2 Girls Mercy C. Naas/~~St. Conleths~~ vs. ~~Scoil Uí Riada/~~Milltown | Div 6 Boys N/Ed. Toget./~~St. Pats Celbridge~~ vs. ~~Ticknevin~~/St. Pats Newb. 
+ 3:00 | Div. 1 Girls ~~Kilcullen~~/Caragh vs. Sallins~~/Athy/Kildare~~ | Div. 3 Boys Prosperous vs. ~~Sc. Bhríde/~~Milltown | Div. 4 Boys  Allenwood vs. Tmilehouse
+4:00 | Div. 1 Boys Sallins vs. Clane/~~Kildare~~ | Div. 5 Boys ~~Coill Dubh~~/Ballysax vs. Robertstown~~/Mhichil Naofa Athy~~ | Div. 3 Girls Cappagh~~/TMH~~ vs. ~~Dunlavin/Rathmore/~~Rathcoffey 
+5:00 | B final Naas vs. North Winners | Div. 4 Girls Ballysax/~~Allen~~ vs. Robertstown/~~N. Ed. Toget.~~ | Div. 5 Girls JTB/~~Moone~~ vs. Churchtown/Kilshanroe
 
 
 
