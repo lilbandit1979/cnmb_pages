@@ -1,5 +1,6 @@
 ---
 title: 'Hurling and Camogie Finals 18'
+published: false
 recaptchacontact:
     enabled: false
 ---
