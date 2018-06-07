@@ -1,5 +1,5 @@
 ---
-title: 'Hurling and Camogie Finals 18'
+title: 'Hurling and Camogie Finals 17'
 published: false
 taxonomy:
     category:
