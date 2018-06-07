@@ -5,7 +5,7 @@ recaptchacontact:
     enabled: false
 ---
 
-# Allianz Cumann na mBunscol Kildare Senior Hurling and Camogie Finals 2017
+# Allianz Cumann na mBunscol Kildare Senior Hurling and Camogie Finals 2018
 ## Venue: Moorefield GAA
 ## Date: 13th June 2018
 
