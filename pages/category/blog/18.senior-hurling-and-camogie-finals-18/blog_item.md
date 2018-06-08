@@ -1,6 +1,6 @@
 ---
 title: 'Senior Hurling and Camogie Finals 18'
-published: false
+published: true
 taxonomy:
     category:
         - Blog
