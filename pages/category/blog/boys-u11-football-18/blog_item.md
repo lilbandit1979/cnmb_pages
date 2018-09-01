@@ -1,7 +1,7 @@
 ---
 title: 'Boys U11 Football ''18'
+published: true
 date: '03-09-2018 13:03'
-publish_date: '03-09-2018 13:03'
 unpublish_date: '07-09-2018 13:03'
 taxonomy:
     category:
