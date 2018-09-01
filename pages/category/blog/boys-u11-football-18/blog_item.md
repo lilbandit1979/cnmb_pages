@@ -11,8 +11,8 @@ recaptchacontact:
 ---
 
 # Registered Schools U11 Boys Football '18
-## Please contact stephen@stconlethandmarys.ie if NOT participating.
-### Divisions and fixtures to be compiled this week based on registered schools.
+###  * Please contact stephen@stconlethandmarys.ie if NOT participating.
+###  * Divisions and fixtures to be compiled this week based on registered schools.
 <br>
 <style type="text/css">
 	table.tableizer-table {
