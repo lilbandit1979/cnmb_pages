@@ -22,7 +22,7 @@ recaptchacontact:
 		border: 1px solid #CCC;
 	}
 	.tableizer-table th {
-		background-color: #11487153; 
+		background-color: #10165153; 
 		color: #FFF;
 		font-weight: bold;
 	}
