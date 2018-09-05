@@ -1,5 +1,5 @@
 ---
-title: 'U11 Gamesl ''18'
+title: 'U11 Games ''18'
 published: true
 date: '03-09-2018 13:03'
 unpublish_date: '07-09-2018 13:03'
@@ -344,7 +344,7 @@ recaptchacontact:
 
 <br>
 <br>
-<!DOCTYPE html>
+
 <html>
 	<head>
 		<meta charset="UTF-8">
@@ -352,7 +352,7 @@ recaptchacontact:
 		</head>
 		<body>
 			<b>
-				<u>Sheet Name</u> :- Sheet1
+				
 			</b>
 			<hr>
 				<table cellspacing=0 border=1>
