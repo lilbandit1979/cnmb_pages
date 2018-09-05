@@ -1,5 +1,5 @@
 ---
-title: 'U11 Football ''18'
+title: 'U11 Gamesl ''18'
 published: true
 date: '03-09-2018 13:03'
 unpublish_date: '07-09-2018 13:03'
@@ -10,7 +10,7 @@ recaptchacontact:
     enabled: false
 ---
 
-# Registered Schools U11 Boys Football '18
+# Registered Schools U11 Games '18
 ###  * Please contact stephen@stconlethandmarys.ie if **NOT** participating.
 ###  * Divisions and fixtures to be compiled this week based on registered schools.
 <br>
