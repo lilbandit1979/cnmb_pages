@@ -381,3 +381,45 @@ recaptchacontact:
 </tr>
 </tbody>
 </table>
+
+<p>Fixtures: </p>
+<table>
+<tbody>
+<tr>
+<td>
+<p>12th Sept.</p>
+</td>
+<td>
+<p>19th Sept.</p>
+</td>
+<td>
+<p>26th Sept.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>A vs. B</p>
+</td>
+<td>
+<p>A vs. C</p>
+</td>
+<td>
+<p>D vs. A</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>C vs. D</p>
+</td>
+<td>
+<p>B vs. D</p>
+</td>
+<td>
+<p>B vs. C</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Semi-Finals: 8th-12th October </p>
+<p>Finals: 16th/17th October 2018</p>
+<p><br /><br /></p>
