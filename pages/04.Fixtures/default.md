@@ -8,7 +8,7 @@ recaptchacontact:
 
 <div class="center g-title-large">
 <h2 class="g-title">2018 Games Fixtures (2018 fixtures labelled 2018).</h2>
-<h3 class="g-title">Fixtures currently in development. Check back for updates.</h2>
+<h3 class="g-title">Under 11 boys and girls football now up!</h2>
 </div>
 <div class="g-grid">
 <div class="g-block box1 size-33-3">
@@ -20,7 +20,7 @@ recaptchacontact:
 <div class="g-block box1 size-33-3">
 <div class="g-content">
 <h3 class="g-title">Under 11 Boys Football</h3>
-<p><strong>Fixtures 2017</strong> Fixtures will be compiled in Sep. 18</p>
+<p><strong>Fixtures 2017</strong> Fixtures updated. See below..</p>
 <a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/under-11-boys-football-18">Read More</a></div>
 </div>
 <div class="g-block box1 size-33-3">
