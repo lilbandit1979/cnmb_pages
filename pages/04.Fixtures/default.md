@@ -21,7 +21,7 @@ recaptchacontact:
 <div class="g-content">
 <h3 class="g-title">Under 11 Boys Football</h3>
 <p><strong>Fixtures 2017</strong> Fixtures will be compiled in Sep. 18</p>
-<a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/under-11-boys-football">Read More</a></div>
+<a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/under-11-boys-football-18">Read More</a></div>
 </div>
 <div class="g-block box1 size-33-3">
 <div class="g-content">
