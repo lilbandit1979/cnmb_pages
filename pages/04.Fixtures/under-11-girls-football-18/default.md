@@ -14,6 +14,7 @@ recaptchacontact:
 <p>Division 5: 15 mins per half, 11 players aside.</p>
 <p>Semi-Finals: 8th-12th October</p>
 <p>Finals: 17th/18th October 2018</p>
+<br>
 <p>Co-ordinator: Eileen Kilduff, Kilcullen</p>
 <table>
 <tbody>
@@ -59,6 +60,7 @@ recaptchacontact:
 </tr>
 </tbody>
 </table>
+<br>
 <p>Division 2: Co-ordinator: Sean Corkery, Caragh: 045 903091</p>
 <table>
 <tbody>
@@ -104,6 +106,7 @@ recaptchacontact:
 </tr>
 </tbody>
 </table>
+<br>
 
 <p>Division 3: Co-ordinator: Robbie Jameson, Rathmore ‭(087) 227 3447‬</p>
 <table>
@@ -165,6 +168,8 @@ recaptchacontact:
 </tr>
 </tbody>
 </table>
+<br>
+
 <p>Division 4: Co-ordinator: Eugene Riordan Riordan, Rathcoffey: 087 2361789.</p>
 <table>
 <tbody>
@@ -210,6 +215,7 @@ recaptchacontact:
 </tr>
 </tbody>
 </table>
+<br>
 <p>Division 5: Co-ordinator: Jim Hanifin, 086 329 2118‬</p>
 <table>
 <tbody>
@@ -270,6 +276,7 @@ recaptchacontact:
 </tr>
 </tbody>
 </table>
+<br>
 
 <p>Fixtures 2018: </p>
 <p>Semi-Finals: 8-12th October 2018</p>
