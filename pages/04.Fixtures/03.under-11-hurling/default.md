@@ -1,5 +1,6 @@
 ---
 title: 'Under 11 Hurling'
+published: false
 visible: false
 recaptchacontact:
     enabled: false
