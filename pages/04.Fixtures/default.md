@@ -20,7 +20,7 @@ recaptchacontact:
 <div class="g-block box1 size-33-3">
 <div class="g-content">
 <h3 class="g-title">Under 11 Boys Football</h3>
-<p><strong>Fixtures 2018</strong> Fixtures updated. See below..</p>
+<p><strong>Fixtures 2018</strong>2018 Fixtures updated. See below..</p>
 <a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/under-11-boys-football-18">Read More</a></div>
 </div>
 <div class="g-block box1 size-33-3">
@@ -41,7 +41,7 @@ recaptchacontact:
 <div class="g-block box-red size-33-3">
 <div class="g-content">
 <h3 class="g-title">Under 11 Girls Football</h3>
-<p><strong>Fixtures 2017</strong> Check your contacts booklet for a qualified referee.</p>
+<p><strong>Fixtures 2018</strong> 2018 Fixtures now online</p>
 <a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/under-11-girls-football-18">Read More</a>
 </div>
 </div>
