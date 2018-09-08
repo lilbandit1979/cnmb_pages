@@ -9,6 +9,7 @@ recaptchacontact:
 <p>Use qualified referees from our 2018 booklet.</p>
 <p>Semi-Finals: 15th-19th October.</p>
 <p>Finals: 23rd October.</p>
+<br>
 <p>Division 1: 20 mins per half, 15 players aside. </p>
 <p>Co-ordinator: John Rock, St. Corban's Naas: 0860833120.</p>
 <table>
@@ -40,6 +41,7 @@ recaptchacontact:
 </tr>
 </tbody>
 </table>
+<br>
 <p>Division 2: 20 mins per half, 15 players aside. </p>
 <p>Co-ordinator: Se&aacute;n Corkery, Caragh: 045-903091 </p>
 <table>
@@ -86,7 +88,7 @@ recaptchacontact:
 </tr>
 </tbody>
 </table>
-
+<br>
 <p>Division 3: 20 mins per half, 15 players aside.</p>
 <p>Co-ordinator: Ciar&aacute;n Costello, Scoil Mochua 086 8849825</p>
 <table>
@@ -133,6 +135,7 @@ recaptchacontact:
 </tr>
 </tbody>
 </table>
+<br>
 <p>Division 4: 20 mins per half, 13 players aside </p>
 <p>Co-ordinator: Eoin Stakelum 087 2408993 </p>
 <p>Semi-finals: </p>
@@ -197,6 +200,7 @@ recaptchacontact:
 </tr>
 </tbody>
 </table>
+<br>
 <p>Fixtures: Div. 1-4</p>
 <p>Semi-Finals: 15th-19th October.</p>
 <p>Finals: 23rd October.</p>
