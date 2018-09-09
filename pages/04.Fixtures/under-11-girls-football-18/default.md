@@ -127,7 +127,7 @@ recaptchacontact:
 <p>A Milltown</p>
 </td>
 <td>
-<p>A Scoil Mochua</p>
+<p>A BYE</p>
 </td>
 <td>
 <p>A Ballysax</p>
@@ -191,7 +191,7 @@ recaptchacontact:
 </tr>
 <tr>
 <td>
-<p>B Bye</p>
+<p>B Scoil Mochua</p>
 </td>
 <td>
 <p>B Johnstownbridge</p>
