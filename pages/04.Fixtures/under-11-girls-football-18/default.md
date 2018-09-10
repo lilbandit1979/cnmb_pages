@@ -227,7 +227,7 @@ recaptchacontact:
 <p>Division 5B</p>
 </td>
 <td>
-<p>Division 6B</p>
+<p>Division 5C</p>
 </td>
 </tr>
 <tr>
