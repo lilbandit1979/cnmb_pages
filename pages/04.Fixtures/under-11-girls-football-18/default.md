@@ -15,7 +15,7 @@ recaptchacontact:
 <p>Semi-Finals: 8th-12th October</p>
 <p>Finals: 17th/18th October 2018</p>
 <br>
-<p>Co-ordinator: Eileen Kilduff, Kilcullen</p>
+<p>Co-ordinator: Eileen O'Keefe, Kilcullen</p>
 <table>
 <tbody>
 <tr>
