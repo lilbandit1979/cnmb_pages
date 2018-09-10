@@ -424,10 +424,11 @@ recaptchacontact:
 <p>Finals: 16th/17th October 2018</p>
 <p><br /><br /></p>
 <br>
-<p>test content </>
+<p>test content </p>
+
 | Division 1A | Division 1B |
 | ------ | ------ |
-| A Scoil Na Mainistreach, Celbridge  |  | A Ballymany |
+| A Scoil Na Mainistreach, Celbridge | A Ballymany |
 | B Clane | B Caragh |
 | C Sallins | C Kildare |
 | D Maynooth | Naas |
