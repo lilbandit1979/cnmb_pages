@@ -183,7 +183,7 @@ recaptchacontact:
 </tr>
 <tr>
 <td>
-<p>A Bye</p>
+<p>A Ballycane</p>
 </td>
 <td>
 <p>A Cooleragh</p>
