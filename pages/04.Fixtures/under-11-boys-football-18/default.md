@@ -335,6 +335,7 @@ recaptchacontact:
 </tr>
 </tbody>
 </table>
+<br>
 <p>Under 11s Div. 8: 15 mins per half,9 aside </p>
 <p>Co-ordinator: Paddy Judge, Cadamstown: 046 9551308</p>
 <table>
@@ -357,7 +358,7 @@ recaptchacontact:
 </tr>
 <tr>
 <td>
-<p>B Kilashee</p>
+<p>B Killashee</p>
 </td>
 <td>
 <p>B Cadamstown</p>
@@ -377,6 +378,14 @@ recaptchacontact:
 </td>
 <td>
 <p>D Ticknevin</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>E Kildare Town ET</p>
+</td>
+<td>
+<p>E Bye</p>
 </td>
 </tr>
 </tbody>
@@ -420,22 +429,82 @@ recaptchacontact:
 </tr>
 </tbody>
 </table>
+<br>
+<p>Fixtures: Division 8A</p>
+<table>
+<tbody>
+<tr>
+<td>
+<p>12th Sept.</p>
+</td>
+<td>
+<p>19th Sept.</p>
+</td>
+<td>
+<p>24th Sept.</p>
+</td>
+<td>
+<p>28th September</p>
+</td>
+<td>
+<p>3rd October</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>A vs. B</p>
+</td>
+<td>
+<p>A vs. C</p>
+</td>
+<td>
+<p>E vs. A</p>
+</td>
+<td>
+<p>D vs A</p>
+</td>
+<td>
+<p>C vs B</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>C vs. D</p>
+</td>
+<td>
+<p>B vs. E</p>
+</td>
+<td>
+<p>B vs. D</p>
+</td>
+<td>
+<p>E vs C</p>
+</td>
+<td>
+<p>D vs E</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>E Bye</p>
+</td>
+<td>
+<p>D Bye</p>
+</td>
+<td>
+<p>C Bye</p>
+</td>
+<td>
+<p>B Bye</p>
+</td>
+<td>
+<p>A Bye</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Semi-Finals: 8th-12th October </p>
 <p>Finals: 16th/17th October 2018</p>
 <p><br /><br /></p>
-<br>
-<p>test content </p>
 
-| Division 1A | Division 1B |
-| ------ | ------ |
-| A Scoil Na Mainistreach, Celbridge | A Ballymany |
-| B Clane | B Caragh |
-| C Sallins | C Kildare |
-| D Maynooth | Naas |
 
-| Division 2A | Division 2B |
-| ------ | ------ |
-| A Kilcullen | A Scoil Ui Riada |
-| B Scoil Phadraig Naofa, Athy | B St. Conleth and Mary’s Newbridge |
-| C Rathangan | C G.S. Uí Fhiach |
-| D Monasterevin | D Kill |  
