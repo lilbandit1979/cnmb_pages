@@ -5,7 +5,7 @@ recaptchacontact:
 ---
 
 # Under 11 Camogie 2018 #
-## Dates: T.B.C. ##
+## Dates: Host schools to contact schools for suitable dates. ##
 ### Venues and Groups below: ###
 
 Venue: Kill (8 teams)
