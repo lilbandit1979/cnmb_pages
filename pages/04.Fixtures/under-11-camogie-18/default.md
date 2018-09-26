@@ -5,7 +5,7 @@ recaptchacontact:
 ---
 
 # Under 11 Camogie 2018 #
-## Dates: Host schools to contact schools for suitable dates. ##
+## Dates: Host venues to contact schools for suitable dates. ##
 ### Venues and Groups below: ###
 
 Venue: Kill (8 teams)
