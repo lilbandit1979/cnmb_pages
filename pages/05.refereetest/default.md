@@ -15,6 +15,7 @@ recaptchacontact:
 <li>Fintan Barrett 0861965517 Newbridge BF/GF</li>
 <li>Craig Hughes 0877938305 Sallins BF/GF/C/H</li>
 <li>Killian Looney 0868430848 Kill BF/GF/H/C</li>
+<li> Peter Williams 0879828979 Newbridge BF/GF/H/C</li>
 <li>Liam Carthy 0860633136 Newbridge BF/GF/H/C</li>
 <li>Jerry Murphy 0879550146 Newbridge BF/GF</li>
 <li>Willie Reidy 045860838 Robertstown BF/GF/H/C</li>
