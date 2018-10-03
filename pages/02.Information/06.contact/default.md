@@ -16,9 +16,9 @@ recaptchacontact:
 #Cumann na mBunscol Kildare Committee 2018
 ---
 * Chairperson: Sean Corkery.
-	- (087) 994 9978
-* Vice-Chairperson: Victor Logan
 	- (087) 287 2174
+* Vice-Chairperson: Victor Logan
+	- (087) 994 9978
 * Secretary: Shane Power
   	- (086) 162 1047
   	- cumannkildare@gmail.com
