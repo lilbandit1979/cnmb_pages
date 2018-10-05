@@ -10,6 +10,7 @@ recaptchacontact:
 
 Venue: Kill (8 teams)
 Co-ordinator: Karen 086-8935910
+Date: 16th Oct.
 * St. Anne’s NS Ardclough, Straffan
 * Straffan NS, Straffan
 * Mercy Convent, Naas
@@ -41,6 +42,8 @@ Co-ordinator: Edel 0857591759
 
 
 Venue: GS Uí Fhiach, Maynooth ( 5 Teams)
+Date: Friday 19th Oct. Moyglare Pitches https://goo.gl/maps/5VRbhPq4h4R2
+Time: 11:30
 Co-ordinator: Sinéad 086 8970069
 * St. Patrick’s, Johnstownbridge, Enfield
 * Gaelscoil Ui Fhiach, Maynooth
