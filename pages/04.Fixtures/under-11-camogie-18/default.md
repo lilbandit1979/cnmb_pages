@@ -37,7 +37,7 @@ Venue: St. Laurence’s (4 Teams)
 * St. Laurence’s NS, Crookstown, Athy
 
 
-Venue: Kilcock ( 5 Teams)
+Venue: GS Uí Fhiach ( 5 Teams)
 * St. Patrick’s, Johnstownbridge, Enfield
 * Gaelscoil Ui Fhiach, Maynooth
 * Tiermohan, Donadea, Naas
