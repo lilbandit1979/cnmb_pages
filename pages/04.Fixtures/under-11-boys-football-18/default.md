@@ -504,7 +504,7 @@ recaptchacontact:
 </tbody>
 </table>
 <p>Semi-Finals: 8th-12th October </p>
-<p>Finals: 16th/17th October 2018</p>
+<p>Finals: 17th/18th October 2018</p>
 <p><br /><br /></p>
 
 
