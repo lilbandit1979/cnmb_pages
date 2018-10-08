@@ -10,7 +10,7 @@ recaptchacontact:
 <p>Div. 5-6: 11 aside </p>
 <p>Div. 7-8: 9 aside </p>
 <p>Semi-Finals: 8th-12th October 2018</p>
-<p>Finals: 16th/17th October 2018 </p>
+<p>Finals: 17th/18th October 2018 </p>
 <p>Under 11s Div. 1: 20 mins per half , 13 aside</p>
 <p>Co-ordinator: Victor Logan, Ballymany 087 9949978</p>
 <table>
