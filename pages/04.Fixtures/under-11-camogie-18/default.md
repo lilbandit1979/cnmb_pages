@@ -23,6 +23,7 @@ Date: 16th Oct.
 
 Venue: Newbridge (7 Teams)
 Co-ordinator: Fionnuala 0879449200
+Date: 24th October
 * Scoil Mhuire Senior, Ballymany
 * St. Brigid’s Primary School, Kildare
 * Scoil na Naomh Uilig, Newbridge
