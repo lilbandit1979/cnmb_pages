@@ -31,7 +31,7 @@ Time | Pitch 1 | Pitch 2
 Time | Pitch 1 | Pitch 2 |
 --- | --- | --- |
 2:30pm | Div. 5 Girls: Kilmeade vs. Athgarvan | Div. 1 Boys: Ballymany/Clane vs. Naas/Maynooth |
-3:10pm | Div. 3 Boys: G.S.C.D./Rathmore vs. Crookstown | Div. 6 Boys: Ballymore/Cooleragh vs. Kilshanroe/Allen |
+3:10pm | Div. 3 Boys: ~~G.S.C.D./~~Rathmore vs. Crookstown | Div. 6 Boys: ~~Ballymore/~~Cooleragh vs. ~~Kilshanroe/~~Allen |
 4:00 | Div. 3 Girls: Rathmore/Milltown vs. Crookstown/~~Conleths~~ | Div. 8 Boys: St. Patricks Newb./~~Cadamstown~~ vs Kilashee |
 
 
