@@ -25,7 +25,7 @@ Pitch 2
 
 2.30: Div. 3 Rathmore vs. G.S. Nás/Cappagh
 
-3.30: Div. 2: Scoil Uí Riada/Twomilehouse vs. Rathangan/G.S. Uí Fhiach
+3.20: Div. 2: Scoil Uí Riada/Twomilehouse vs. Rathangan/G.S. Uí Fhiach
 
 ### Please note: 
 * Remember: All participating teams must bring 3 teamsheets with names of all players including dates of birth and corresponding jersey numbers for Cumann admin puropses and for accurate media coverage.
