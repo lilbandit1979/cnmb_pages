@@ -1,5 +1,5 @@
 ---
-title: 'Hurling Finals 2018'
+title: 'U11 Hurling Finals 2018'
 taxonomy:
     category:
         - Blog
