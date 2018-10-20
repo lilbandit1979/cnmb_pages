@@ -13,7 +13,7 @@ Co-ordinator: Karen 086-8935910
 Date: 16th Oct.
 * St. Anne’s NS Ardclough, Straffan
 * Straffan NS, Straffan
-* Mercy Convent, Naas
+* Mercy Convent, Naas # Winner! #
 * Gaelscoil Nás na Ríogh
 * Scoil Bhríde, Kill
 * Caragh, Naas
@@ -50,4 +50,4 @@ Co-ordinator: Sinéad 086 8970069
 * Gaelscoil Ui Fhiach, Maynooth
 * Tiermohan, Donadea, Naas
 * Scoil Choca Naofa, Kilcock
-* The Presentation Girls’ School, Maynooth
+* The Presentation Girls’ School, Maynooth # Winner! #
