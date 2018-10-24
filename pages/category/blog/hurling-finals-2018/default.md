@@ -15,9 +15,9 @@ recaptchacontact:
 
 Pitch 1           
 
-2.30: Div. 4: Crookstown/Moone vs. Kilcullen/Patricians Newbridge
+2.30: Div. 4: Crookstown/~~Moone~~ vs. ~~Kilcullen/~~Patricians Newbridge
 
-3.20: Div. 1: Maynooth vs. Naas/Clane/Celbridge
+3.20: Div. 1: Maynooth vs. Naas~~/Clane/Celbridge~~
 
  
 
