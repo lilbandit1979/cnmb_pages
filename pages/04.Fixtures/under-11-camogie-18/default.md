@@ -21,6 +21,7 @@ Date: 16th Oct.
 * Rathcoffey NS, Donadea, Naas
 * St. Laurence’s NS, Sallins ## Shield Winners! ##
 ![](image1.jpeg)
+![](image3.jpeg)
 
 Venue: Newbridge (7 Teams)
 Co-ordinator: Fionnuala 0879449200
