@@ -18,7 +18,7 @@ Date: 16th Oct.
 * Scoil Bhríde, Kill
 * Caragh, Naas
 * Rathcoffey NS, Donadea, Naas
-* St. Laurence’s NS, Sallins
+* St. Laurence’s NS, Sallins ## Shield Winners! ##
 
 
 Venue: Newbridge (7 Teams)
