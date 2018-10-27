@@ -1,5 +1,6 @@
 ---
 title: 'Under 11 Camogie 18'
+media_order: 'image1.jpeg,image2.jpeg,image3.jpeg,image4.jpeg'
 recaptchacontact:
     enabled: false
 ---
@@ -19,7 +20,7 @@ Date: 16th Oct.
 * Caragh, Naas
 * Rathcoffey NS, Donadea, Naas
 * St. Laurence’s NS, Sallins ## Shield Winners! ##
-
+![](image1.jpeg)
 
 Venue: Newbridge (7 Teams)
 Co-ordinator: Fionnuala 0879449200
