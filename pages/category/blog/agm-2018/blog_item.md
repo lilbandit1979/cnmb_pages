@@ -1,6 +1,9 @@
 ---
 title: 'AGM 2018'
 published: false
+taxonomy:
+    category:
+        - Blog
 recaptchacontact:
     enabled: false
 ---
