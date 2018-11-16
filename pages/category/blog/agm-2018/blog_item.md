@@ -13,7 +13,7 @@ recaptchacontact:
 ### Date: TBC
 
 ### Time: TBC
-### Venue: Osprey Hotel, Naas 
+### Venue: Westgrove Hotel, Clane 
 
 * Agm 2018 will take place in Osprey Hotel Naas on TBC at TBC
 * Each school may send 2 voting delegates.
