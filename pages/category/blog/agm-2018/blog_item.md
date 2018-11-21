@@ -1,6 +1,6 @@
 ---
 title: 'AGM 2018'
-published: false
+published: true
 taxonomy:
     category:
         - Blog
