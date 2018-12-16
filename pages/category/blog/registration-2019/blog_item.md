@@ -1,5 +1,6 @@
 ---
 title: 'Registration 2019'
+published: false
 recaptchacontact:
     enabled: false
 ---
