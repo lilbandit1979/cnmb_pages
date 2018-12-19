@@ -1,6 +1,9 @@
 ---
 title: 'Registration 2019'
 published: false
+taxonomy:
+    category:
+        - Blog
 recaptchacontact:
     enabled: false
 ---
