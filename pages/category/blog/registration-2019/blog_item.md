@@ -1,6 +1,6 @@
 ---
 title: 'Registration 2019'
-published: false
+published: true
 taxonomy:
     category:
         - Blog
