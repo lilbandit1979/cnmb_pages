@@ -15,7 +15,6 @@ recaptchacontact:
 * All schools **must provide a complete list of participating children with respective dates of birth in order to participate in 2019 games and events.**
 * Schools registered (Complete player lists and online form completed) by midnight 21st Jan. will be entered into a **draw for a set of jerseys for their school.** 
 * Player lists can be in spreadsheet/pdf/word format from computerised roll systems. 
-* Player registration lists with name of school and address to be emailed to Cumann registrar Stephen O Brien at stephen@stconlethandmarys.ie by 21st Jan 2019.
 * GDPR consent is included in 2019 Application registration form.
 * Please note that schools who do not supply player lists will **not** be assigned to a division in 2019.
 
