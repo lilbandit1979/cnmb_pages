@@ -9,8 +9,6 @@ recaptchacontact:
 ---
 
 # Cumann na mBunscol Kildare 2019 Season Registration 
-## Please note changes to 2018 season registration:
-
 ##2019 Registration: 
 * Opens Jan. 6th 2019
 * Closes: 21st Jan. 2019
