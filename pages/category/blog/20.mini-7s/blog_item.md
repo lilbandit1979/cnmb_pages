@@ -8,51 +8,55 @@ recaptchacontact:
     enabled: false
 ---
 
-# Mini 7s Finals 2018:
+# Mini 7s Finals 2019:
 
 ## Camogie:
-* **Date:** Monday 16th April
-* **Venue**: St. Laurence's
+* **Date:** 20th March
+* **Venue**: Kildare Town
 * **Time:** 11:00am sharp
-* * **What to bring:** 3 x numbered team sheets, €10 per team to cover referee costs.
+* **What to bring:** 3 x numbered team sheets, €20 per team to cover referee costs.
 
 
 ## Boys Football:
-* **Date:** Friday 13th April
+* **Date:** 21st March
 * **Venue:** Ballymany, Newbridge.
 * **Time:** 12:45pm sharp
-* **What to bring:** 3 x numbered team sheets, €10 per team to cover referee costs.
+* **What to bring:** 3 x numbered team sheets, €20 per team to cover referee costs.
 
 ## Girls Football: 
-*** Date:** Friday 13th April
-* **Venue:** Ballymany, Newbridge
+* **Date:** 22nd March
+* **Venue:** Kilcullen
 * **Time:** 11:00am sharp
-* **What to bring:** 3 x numbered team sheets, €10 per team to cover referee costs.
+* **What to bring:** 3 x numbered team sheets, €20 per team to cover referee costs.
 
 ## Hurling:
-* Details to be confirmed.
+* **Date:** 20th March
+* **Venue:** Kildare
+* **Time:** 12:30pm sharp
+* **What to bring:** 3 x numbered team sheets, €20 per team to cover referee costs.
 
 
-<p><strong>Ages 2018</strong></p>
+
+<p><strong>Ages 2019</strong></p>
 <p><strong>Total Boys / Girls on the Roll 3<sup>rd</sup>-6<sup>th</sup> Class</strong></p>
 <p><strong>Children to be born on or after</strong></p>
-<p>200 + Pupils 1<sup>st</sup> Jan 2006</p>
-<p>170-199 Pupils 1<sup>st</sup> Dec 2005</p>
-<p>140-169 Pupils 1<sup>st</sup> Nov 2005</p>
-<p>110-139 Pupils 1<sup>st</sup> Oct 2005</p>
-<p>80-109 Pupils 1<sup>st</sup> Sept 2005</p>
-<p>50-79 Pupils 1<sup>st</sup> Aug 2005</p>
-<p>30-49 Pupils 1<sup>st</sup> July 2005</p>
-<p>0-29 Pupils 1<sup>st</sup> June 2005</p>
+<p>200 + Pupils 1<sup>st</sup> Jan 2007</p>
+<p>170-199 Pupils 1<sup>st</sup> Dec 2006</p>
+<p>140-169 Pupils 1<sup>st</sup> Nov 2006</p>
+<p>110-139 Pupils 1<sup>st</sup> Oct 2006</p>
+<p>80-109 Pupils 1<sup>st</sup> Sept 2006</p>
+<p>50-79 Pupils 1<sup>st</sup> Aug 2006</p>
+<p>30-49 Pupils 1<sup>st</sup> July 2006</p>
+<p>0-29 Pupils 1<sup>st</sup> June 2006</p>
 <p><strong>Rules </strong></p>
 <p>Games 8 mins a side</p>
 <p>Unlimited Subs, all subs made from halfway line.</p>
 <p>No draws, All draw games at full time settled by a golden score</p>
-<p>Regionals 5<sup>th</sup>-9<sup>th</sup> March</p>
-<p>Finals 14<sup>th</sup> March in Kilcullen</p>
 
 
 # Boys Football
+**Regional Blitzes:** 11th-15th March
+**Final:** 21st March
 <table width="0">
 <tbody>
 <tr>
@@ -72,12 +76,12 @@ recaptchacontact:
 </tr>
 <tr>
 <td width="396">
-<p>Celbridge</p>
+<p>Kilcock</p>
 </td>
 </tr>
 <tr>
 <td width="396">
-<p>St Pats Celbridge</p>
+<p>Scoil Uí Riada</p>
 </td>
 </tr>
 <tr>
@@ -104,12 +108,12 @@ recaptchacontact:
 </tr>
 <tr>
 <td width="396">
-<p>Scoil Phadraig</p>
+<p>Scoil Phadraig Athy</p>
 </td>
 </tr>
 <tr>
 <td width="396">
-<p>Scoi lMhicil Naofa</p>
+<p>Scoi Mhicil Naofa</p>
 </td>
 </tr>
 <tr>
@@ -124,7 +128,7 @@ recaptchacontact:
 </tr>
 <tr>
 <td width="396">
-<p>Castledermot</p>
+<p>Crookstown</p>
 </td>
 </tr>
 <tr>
@@ -172,12 +176,12 @@ recaptchacontact:
 </tr>
 <tr>
 <td width="396">
-<p>Milltown</p>
+<p>Newbridge Ed. Together</p>
 </td>
 </tr>
 <tr>
 <td width="396">
-<p>Suncroft</p>
+<p>Naomh Uilig Newbridge</p>
 </td>
 </tr>
 </tbody>
@@ -206,22 +210,22 @@ recaptchacontact:
 </tr>
 <tr>
 <td width="396">
-<p>Clogherinkoe</p>
+<p>St. Pats Celbridge</p>
 </td>
 </tr>
 <tr>
 <td width="396">
-<p>Bradford</p>
+<p>Scoil Na Mainistreach</p>
 </td>
 </tr>
 <tr>
 <td width="396">
-<p>Cadamstown</p>
+<p>G.S. Uí Fhiach</p>
 </td>
 </tr>
 <tr>
 <td width="396">
-<p>Kilshanroe</p>
+<p>Maynooth</p>
 </td>
 </tr>
 </tbody>
@@ -239,7 +243,7 @@ recaptchacontact:
 </tr>
 <tr>
 <td width="396">
-<p><strong><em>Jim Hanifin</em></strong></p>
+<p><strong><em>Seán O'Dea</em></strong></p>
 </td>
 </tr>
 <tr>
@@ -254,14 +258,22 @@ recaptchacontact:
 </tr>
 <tr>
 <td width="396">
-<p>T.M.H.</p>
+<p>Derrinturn</p>
 </td>
 </tr>
-<tr>
 <td width="396">
-<p>Kill</p>
+<p>Curragh Boys</p>
 </td>
 </tr>
+<td width="396">
+<p>Kildare Town Ed. Together</p>
+</td>
+</tr>
+<td width="396">
+<p>Athgarvan</p>
+</td>
+</tr>
+
 </tbody>
 </table>
 
@@ -296,15 +308,20 @@ recaptchacontact:
 </td>
 </tr>
 <tr>
-<td width="396">
-<p>Halverstown</p>
-</td>
-</tr>
 <tr>
 <td width="396">
-<p>Crookstown</p>
+<p>Killashee</p>
 </td>
 </tr>
+<td width="396">
+<p>Ballymore</p>
+</td>
+</tr>
+<td width="396">
+<p>Castledermot</p>
+</td>
+</tr>
+
 </tbody>
 </table>
 
@@ -315,32 +332,40 @@ recaptchacontact:
 <tbody>
 <tr>
 <td width="396">
-<p><strong>Maynooth</strong></p>
+<p><strong>Cadamstown</strong></p>
 </td>
 </tr>
 <tr>
 <td width="396">
-<p><strong><em>Owen Creevey</em></strong></p>
+<p><strong><em>Paddy Judge</em></strong></p>
 </td>
 </tr>
 <tr>
 <td width="396">
-<p>Maynooth</p>
+<p>Killina</p>
 </td>
 </tr>
 <tr>
 <td width="396">
-<p>Kilcock</p>
+<p>Clogherinkoe</p>
 </td>
 </tr>
 <tr>
 <td width="396">
-<p>Confey</p>
+<p>Kilshanroe</p>
 </td>
 </tr>
 <tr>
 <td width="396">
-<p>G.S. Fhiach</p>
+<p>Cadamstown</p>
+</td>
+</tr>
+<td width="396">
+<p>Johnstownbridge</p>
+</td>
+</tr>
+<td width="396">
+<p>Broadford</p>
 </td>
 </tr>
 </tbody>
@@ -363,7 +388,7 @@ recaptchacontact:
 </tr>
 <tr>
 <td width="396">
-<p>Kilashee</p>
+<p>Twomilehouse</p>
 </td>
 </tr>
 <tr>
@@ -383,7 +408,7 @@ recaptchacontact:
 </tr>
 <tr>
 <td width="396">
-<p>Ballymore</p>
+<p>Kill</p>
 </td>
 </tr>
 <tr>
@@ -394,53 +419,72 @@ recaptchacontact:
 </tbody>
 </table>
 
-# Mini 7s Girls Football 18 #
-## Mini 7s 18
-* Ages 2018
+# Mini 7s Girls Football 19 #
+## Mini 7s 19
+* Ages 2019
 * Total Boys / Girls on the Roll 3rd-6th Class
 * Children to be born on or after
-* 200 + Pupils 1st Jan 2006
-* 170-199 Pupils 1st Dec 2005
-* 140-169 Pupils 1st Nov 2005
-* 110-139 Pupils 1st Oct 2005
-* 80-109 Pupils 1st Sept 2005
-* 50-79 Pupils 1st Aug 2005
-* 30-49 Pupils 1st July 2005
-* 0-29 Pupils 1st June 2005
+* 200 + Pupils 1st Jan 2007
+* 170-199 Pupils 1st Dec 2006
+* 140-169 Pupils 1st Nov 2006
+* 110-139 Pupils 1st Oct 2006
+* 80-109 Pupils 1st Sept 2006
+* 50-79 Pupils 1st Aug 2006
+* 30-49 Pupils 1st July 2006
+* 0-29 Pupils 1st June 2006
 
 
 ## Rules
 * Games 8 mins a side
 * Unlimited Subs, all subs made from halfway line.
 * No draws, All draw games at full time settled by a golden score
-* Regionals 5th-9th March
-* Finals 14th March in Kilcullen
+* Regionals 11th-15th March
+* Finals 22nd March in Kilcullen
+* One team to qualify from each regional blitz
 
 
 ### Girls’ Football
 Venue: Ballymany
-### Co-ordinator: Paul Dunning
+### Co-ordinator: B. Dempsey
 * Ballymany
-* Suncroft
+* Patricians
+* Conleth and Mary's
+* Athgarvan
 * St. Patrick’s Newbridge
 * Monasterevin
 * Milltown
 
 ### Venue: Kilcullen
-### Co-ordinator:Seamus Hanafin
+### Co-ordinator: Shane Power
 * Kilcullen
-* Ballitore
-* Kilmead
-* Moone
+* Kildare
+* Crookstown
+* Kildare Ed. Together
+* Newbridge Ed. Together
 * Castledermot
 
+### Venue: Twomilehouse
+### Co-ordinator: T.B.C.
+* Twomilehouse
+* Rathmore
+* Ballymore
+* Naas CNS
+
+### Venue: Kilmeade
+### Co-ordinator: Ed Kirwin
+* Kilmeade
+* Mhichil Naofa Athy
+* Paidraig Naofa Athy
+* Moone
+* Monasterevin
+* Rathangan
+
 ### Venue: Allen
-### Co-ordinator:Jim Hanafin
+### Co-ordinator:Sean O Dea
 * Allen 
 * Robertstown
-* Rathangan
-* Prosperous
-* Derrinturn
+* Broadford
+* Kilshanroe
 
 ### Venue: Rathcoffey
 ### Co-ordinator:Eugene Riordan
@@ -451,321 +495,133 @@ Venue: Ballymany
 * Kilshanroe
 * Straffan
 
-### Venue: Two Mile House
-### Co-ordinator:Liam Cotter
-* Two Mile House
-* Killashee
+### Venue: Kill
+### Co-ordinator: Pat Gallagher
+* Kill
 * Mercy Convent Naas
-* St. Brigid’s Kildare Town
-* Rathmore
+* Scoil Bhríde Naas
+* Straffan
 
-### Venue: Confey
-### Co-ordinator:Niall Sherlock
-* San Carlo Confey
-* Maynooth
-* Timahoe
-* St. Patrick’s, Celbridge
+### Venue: Rathcoffey
+### Co-ordinator: Eugene Riordan
+* Rathcoffey
+* Scoil Uí Riada
+* G.S. Uí Fhiach
+* Coca. Naofa
+
+### Venue: Johnstownbridge
+### Co-ordinator: Julie Derivan
+* Johnstownbridge
+* Clogherinkoe
+* Killina
+* Cadamstown
+
+# Mini 7s Camogie 2019: #
+* Ages 2019
+* Total Boys / Girls on the Roll 3rd-6th Class
+* Children to be born on or after
+* 200 + Pupils 1st Jan 2007
+* 170-199 Pupils 1st Dec 2006
+* 140-169 Pupils 1st Nov 2006
+* 110-139 Pupils 1st Oct 2006
+* 80-109 Pupils 1st Sept 2006
+* 50-79 Pupils 1st Aug 2006
+* 30-49 Pupils 1st July 2006
+* 0-29 Pupils 1st June 2006
+
+
+## Rules
+* Games 8 mins a side
+* Unlimited Subs, all subs made from halfway line.
+* No draws, All draw games at full time settled by a golden score
+* Regionals 4th-8th March
+* Finals 20th March in Kildare Town 11am sharp
+
+### Rathcoffey ###
+### Co-ordinator: Eugene Riordan ###
+* G.S. Uí Fhiach
+* Kilcock
+* Rathcoffey
+* Johnstownbridge
 * Scoil Mochua
-* Gaelscoil Ui Fhiaich
 
-# Mini 7s Camogie 2018: #
-<table>
-<tbody>
-<tr>
-<td>
-<p>Co-ordinator: TBC</p>
-</td>
-<td>
-<p>Co-ordinator: Siobhan Murray</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Venue:Rathcoffey</p>
-</td>
-<td>
-<p>Venue: St. Brigid's Kildare</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Scoil Ui Riada, Kilcock</p>
-</td>
-<td>
-<p>St. Patrick&rsquo;s NS, Newbridge</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Clocha Rince NS</p>
-</td>
-<td>
-<p>St. Brigid&rsquo;s, Kildare Town</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>G.S. Ui Fhiach</p>
-</td>
-<td>
-<p>Scoil Bhride, Kilcullen</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Scoil Mochua, Celbridge</p>
-</td>
-<td>
-<p>Monasterevin Convent NS</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Presentation Girls, Maynooth</p>
-</td>
-<td>
-<p>Curragh GNS</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><br /><br /><br /></p>
-<table>
-<tbody>
-<tr>
-<td>
-<p>Co-ordinator: Karen Christian</p>
-</td>
-<td>
-<p>Co-ordinator: Edel Kearney, St. Laurences.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Venue: Kill</p>
-</td>
-<td>
-<p>Venue: Athy</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Straffan NS</p>
-</td>
-<td>
-<p>Scoil Ide Naofa, Athy</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Mercy Convent, Naas</p>
-</td>
-<td>
-<p>Scoil Mhichil Naofa, Athy</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>G.S. Nas Na Riogh</p>
-</td>
-<td>
-<p>Scoil Diarmada, Castledermot</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Scoil Bhride, Kill</p>
-</td>
-<td>
-<p>St. Laurence&rsquo;s NS</p>
-</td>
-</tr>
-</tbody>
-</table>
+### Kildare (St. Brigids) ###
+### Co-ordinator: Eoin Stakelum ###
+* St. Patrick's Newbridge
+* Monasterevin
+* Newbridge Ed. Together
+* St. Brigid's Kildare
 
-# Mini 7s Hurling 18
-<p>Please forward all regional winners to John Rock, St. Corban&rsquo;s Boys School, Naas.</p>
-<table>
-<tbody>
-<tr>
-<td>
-<p>Group A</p>
-</td>
-<td>
-<p>Group B</p>
-</td>
-<td>
-<p>Group C</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Venue: St. Corbans</p>
-</td>
-<td>
-<p>Venue: Celbridge</p>
-</td>
-<td>
-<p>Venue: Ballymany</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Co-ordinator: Jim Broderick</p>
-</td>
-<td>
-<p>Co-ordinator: Kevin Bracken</p>
-</td>
-<td>
-<p>Co-ordinator: Paud&iacute; Costello</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>St. Corban&rsquo;s Naas</p>
-</td>
-<td>
-<p>Celbridge</p>
-</td>
-<td>
-<p>Ballymany</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Kilcullen</p>
-</td>
-<td>
-<p>Maynooth</p>
-</td>
-<td>
-<p>Patricians</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Two Mile House</p>
-</td>
-<td>
-<p>Scoil U&iacute; Riada</p>
-</td>
-<td>
-<p>St. Patricks Newbridge</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>G.S. N&aacute;s</p>
-</td>
-<td>
-<p>Scoil U&iacute; Fhiach</p>
-</td>
-<td>
-<p>Rathmore</p>
-</td>
-</tr>
-<tr>
-<td>
-Kill
-</td>
-<td>
-Scoil Mochua
-</td>
-   <td>
-       NA
-    </td>
-</tr>
-</tbody>
-</table>
-<p><br /><br /><br /></p>
-<table>
-<tbody>
-<tr>
-<td>
-<p>Group D</p>
-</td>
-<td>
-<p>Group E</p>
-</td>
-<td>
-<p>Group F</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Venue: Kildare</p>
-</td>
-<td>
-<p>Venue: Kilmead</p>
-</td>
-<td>
-<p>Venue: Clane</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Co-ordinator: Willie Greene</p>
-</td>
-<td>
-<p>Co-ordinator: Ed Kirwin</p>
-</td>
-<td>
-<p>Co-ordinator: Cathal Carr</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Kildare</p>
-</td>
-<td>
-<p>Kilmead</p>
-</td>
-<td>
-<p>Clane</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Rathangan</p>
-</td>
-<td>
-<p>Moone</p>
-</td>
-<td>
-<p>Robertstown</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Suncroft</p>
-</td>
-<td>
-<p>Scoil Mhichil Naofa Athy</p>
-</td>
-<td>
-<p>Straffan</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Monasterevin</p>
-</td>
-<td>
-<p>Castledermot</p>
-</td>
-<td>
-<p>Clogherinkoe</p>
-</td>
-</tr>
-<tr>
-    <td>NA
-    </td>
-    <td>NA
-    </td>
-    <td>
-        <p>Confey San Carlo</p>
-    </td>
-</tr>
-   </tbody>
-</table>
-<p>As there will be 6 regional winners an open draw on the day will determine quarter and semi-finals.</p>
+### Kill ###
+### Co-ordinator: TBC ###
+* Mercy Convent Naas
+* Straffan
+* Kill
+* Kilcullen
+
+### Athy ###
+### Co-ordinator: T.B.C.
+* Moone
+* Castledermot
+* Kilmeade
+* Crookstown
+* Mhichil Naofa
+
+# Mini 7s Hurling 19
+* Ages 2019
+* Total Boys / Girls on the Roll 3rd-6th Class
+* Children to be born on or after
+* 200 + Pupils 1st Jan 2007
+* 170-199 Pupils 1st Dec 2006
+* 140-169 Pupils 1st Nov 2006
+* 110-139 Pupils 1st Oct 2006
+* 80-109 Pupils 1st Sept 2006
+* 50-79 Pupils 1st Aug 2006
+* 30-49 Pupils 1st July 2006
+* 0-29 Pupils 1st June 2006
+
+
+## Rules
+* Games 8 mins a side
+* Team list to be supplied by all participants.
+* €20 per team to pay referees.
+* Unlimited Subs, all subs made from halfway line.
+* No draws, All draw games at full time settled by a golden score
+* Regionals 4th-8th March
+* Finals 20th March in Kildare Town 12:30pm
+* As there will be 4 regional winners an open draw on the final day will determine quarter and semi-finals.
+
+### Clane ###
+### Co-ordinator: Cathal Carr ###
+* Clane
+* Naas
+* Twomilehouse
+* Robertstown
+* Maynooth
+* Allen
+
+### Kildare ###
+### Co-ordinator: Eoin Stakelum ###
+* Kildare
+* Athy
+* Crookstown
+* Kilmead
+* Moone
+* Castledermot
+
+### Rathcoffey ###
+### Co-ordinator: Eugene Riordan ###
+* Rathcoffey
+* Rathangan
+* Scoil Uí Riada
+* Scoil Uí Fhiach
+* Celbridge
+* Straffan
+
+### Kilcullen ###
+### Co-ordinator: Shane Power ###
+* St. Patrick's Newbridge
+* Newbridge Ed. Together
+* Patricians
+* Ballymany
+* Kill
