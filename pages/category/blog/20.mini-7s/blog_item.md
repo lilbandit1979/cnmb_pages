@@ -444,7 +444,7 @@ recaptchacontact:
 
 
 ### Girls’ Football
-Venue: Ballymany
+### Venue: Ballymany ###
 ### Co-ordinator: B. Dempsey
 * Ballymany
 * Patricians
