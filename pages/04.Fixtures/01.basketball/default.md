@@ -1,6 +1,6 @@
 ---
 title: 'Basketball 2019 2020'
-published: false
+published: true
 recaptchacontact:
     enabled: false
 ---
