@@ -88,7 +88,7 @@ recaptchacontact:
 <div class="g-block box-grey size-33-3">
 <div class="g-content">
 <h3 class="g-title">Basketball 2019/20</h3>
-<p><strong>Fixtures 2017</strong> Basketball information 20119/20</p>
+<p><strong>Fixtures 2019/20</strong> Basketball information 20119/20</p>
 <a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/basketball">Read More</a>
 </div>
 </div>
