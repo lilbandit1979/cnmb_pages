@@ -8,7 +8,7 @@ recaptchacontact:
 
 <div class="center g-title-large">
 <h2 class="g-title">2018 Games Fixtures (2018 fixtures labelled 2018).</h2>
-<h3 class="g-title">Under 11 boys and girls football now up!</h2>
+<h3 class="g-title">Under 11 boys and girls football now up!</h3>
 </div>
 <div class="g-grid">
 <div class="g-block box1 size-33-3">
