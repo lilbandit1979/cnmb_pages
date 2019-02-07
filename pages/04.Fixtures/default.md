@@ -15,7 +15,7 @@ recaptchacontact:
 <div class="g-content">
 <h3 class="g-title">Senior Boys Football</h3>
 <p><strong>Fixtures 2019</strong> Check your contacts booklet for a qualified referee.</p>
-<a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/Senior_Boys_Football_19">Read More</a></div>
+<a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/senior_boys_football_19">Read More</a></div>
 </div>
 <div class="g-block box1 size-33-3">
 <div class="g-content">
