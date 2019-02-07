@@ -8,7 +8,7 @@ recaptchacontact:
 
 <div class="center g-title-large">
 <h2 class="g-title">2019 Games Fixtures (2018 fixtures labelled 2018).</h2>
-<h3 class="g-title">U11 Games will be posted in August</h3>
+<h3 class="g-title">U11 Games will be posted in August 2019</h3>
 </div>
 <div class="g-grid">
 <div class="g-block box1 size-33-3">
