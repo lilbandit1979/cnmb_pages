@@ -18,6 +18,9 @@ recaptchacontact:
 | Monasterevin | Naas        |
 | Athy         | Celbridge   |
 
+<br>
+<br>
+
 | Division 2A  | Division 2B |
 |--------------|-------------|
 |Co-ord: Shane Power | Co-ord: Seán Corkery | 
@@ -25,6 +28,9 @@ recaptchacontact:
 | Sallins      | Conleths    |
 | Scoil Uí Riada | Patricians|
 | Kill         | Rathangan   |
+
+<br>
+<br>
 
 | Division 3A  | Division 3B |
 |--------------|-------------|
@@ -34,6 +40,9 @@ recaptchacontact:
 | Crookstown | G.S. Uí Fhiach|
 | Castledermot | Scoil Bhríde Naas|
 
+<br>
+<br>
+
 | Division 4A  | Division 4B |
 |--------------|-------------|
 |Co-ord: Eugene Riordan | Co-ord: Ciarán Costello|
@@ -42,6 +51,9 @@ recaptchacontact:
 | Allenwood | Ballymore        |
 | Kilcock         | Twomilehouse|
 
+<br>
+<br>
+
 | Division 5A  | Division 5B |
 |--------------|-------------|
 | Co-ord: Seán O Dea | Co-ord: Ed Kirwin| 
@@ -49,6 +61,9 @@ recaptchacontact:
 | Clogherinkoe| Grange|
 | Derrinturn | Kilberry|
 | Scoil Na N. Uilig| Kildangan|
+
+<br>
+<br>
 
 | Division 6A  | Division 6B |
 |--------------|-------------|
@@ -59,6 +74,9 @@ recaptchacontact:
 | Newb. Ed. Together | St. Pats. Celbridge |
 | Kilashee | Ticknevin |
 | Ballycane | Cooleragh |
+
+<br>
+<br>
 
 | Division 7A  | Division 7B |
 |--------------|-------------|
