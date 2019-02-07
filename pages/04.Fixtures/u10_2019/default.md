@@ -10,6 +10,13 @@ recaptchacontact:
 * Semi-finals week of May 13-17th
 * Finals Thursday May 23rd
 
+
+###Remember:
+* Use qualified referees from our 2019 booklet/website
+* Div 1-5: 13 players aside and 20 mins per half
+* Div 6-7: 11 players aside and 15 mins per half
+
+
 | Division 1A  | Division 1B |
 |--------------|-------------|
 | Co-ord: Barry Dempsey | Co-ord: Cathal Carr|
