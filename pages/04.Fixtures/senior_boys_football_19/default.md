@@ -5,7 +5,10 @@ recaptchacontact:
 ---
 
 
-Senior Boys 2019
+##Senior Boys 2019
+###Division 1
+* 25 mins per half 
+* 15 aside
 
 | Division 1A  | Division 1B |
 |--------------|-------------|
@@ -16,6 +19,9 @@ Senior Boys 2019
 |D Clane | D Naas |
 <br>
 <br>
+###Division 2
+* 25 mins per half 
+* 15 aside
 
 | Division 2A  | Division 2B |
 |--------------|-------------|
@@ -27,6 +33,9 @@ Senior Boys 2019
 
 <br>
 <br>
+###Division 3
+* 25 mins per half.
+* 15 aside.
 
 | Division 3A  | Division 3B | Division 3C|
 |--------------|-------------|------------|
@@ -38,6 +47,9 @@ Senior Boys 2019
 
 <br>
 <br>
+###Division 4
+* 25 mins per half
+* 15 aside
 
 | Division 4A | Division 4B|
 | ----------------|---------------|
@@ -49,6 +61,9 @@ Senior Boys 2019
 
 <br>
 <br>
+###Division 5
+* 20 mins per half
+* 13 aside
 
 |Division 5A | Division 5B|
 |---------------|----------------|
@@ -60,6 +75,9 @@ Senior Boys 2019
 
 <br>
 <br>
+###Division 6
+* 20 mins per half
+* 11 aside
 
 |Division 6A | Division 6B|
 |---------------|----------------|
@@ -71,6 +89,9 @@ Senior Boys 2019
 
 <br>
 <br>
+###Division 7
+* 20 mins per half
+* 11 aside
 
 |Division 7A | Division 7B | Division 7C|
 |---------------|----------------|----------------|
@@ -82,6 +103,9 @@ Senior Boys 2019
 
 <br>
 <br>
+###Division 8
+* 20 mins per half
+* 11 aside
 
 |Division 8A | Division 8B |
 |---------------|-----------------|
