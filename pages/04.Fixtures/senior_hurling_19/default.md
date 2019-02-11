@@ -7,7 +7,7 @@ recaptchacontact:
 <h3>Remember:</h3>
 <ul>
 <li>A teacher must be present at all games</li>
-<li>Use qualified referees from our 2019 <a href="http://www.cumannnambunscolchilldara.com/refereetest">online list</a>or booklet</li>
+<li>Use qualified referees from our 2019 <a href="http://www.cumannnambunscolchilldara.com/refereetest">online list</a> or booklet</li>
 <li>Semi-Finals: 20th - 24th of May</li>
 <li>Semi-Finals: (unless stated otherwise) </li>
 <ul>
