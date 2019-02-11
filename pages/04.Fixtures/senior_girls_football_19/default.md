@@ -4,10 +4,12 @@ recaptchacontact:
     enabled: false
 ---
 
-￼##Senior Girls 2019
+##Senior Girls 2019
 ###Division 1
 * 25 mins per half 
 * 15 aside
+* Semi-finals: 20th-24th May
+* Final: May 28th/29th
 
 | Division 1A  | Division 1B |
 |--------------|-------------|
@@ -65,3 +67,12 @@ recaptchacontact:
 |D Bye|D Scoil Phadraig Athy|
 |E Johnstown Bridge|E Ballymore|
 |F Bye| Moone|
+
+<br>
+### Fixtures ###
+| Date: 27th March| Date: 3rd April | Date: 10th April| Date: 1st May | Date: 8th May|
+|------------|------------|-------------|--------------|-------------|
+| A vs B | C vs. A | E vs. C | D vs. B | F vs. A |
+| C vs. D | B vs. E | A vs. D | C vs. F | E vs. D |
+| E vs. F | D vs. F | F vs. B | A vs. E | B vs. C |
+
