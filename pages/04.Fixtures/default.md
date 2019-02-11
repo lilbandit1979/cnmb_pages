@@ -57,7 +57,7 @@ recaptchacontact:
 <div class="g-content">
 <h3 class="g-title">Senior Camogie 2019</h3>
 <p><strong>Fixtures 2019</strong> Only use referees from our updated 2019 referees list.</p>
-<a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/senior_camogie_2019">Read More</a>
+<a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/senior_camogie_19">Read More</a>
 </div>
 </div>
 
