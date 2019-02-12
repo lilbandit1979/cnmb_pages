@@ -4,7 +4,6 @@ recaptchacontact:
     enabled: false
 ---
 
-
 ##Senior Boys 2019
 ###Division 1
 * 25 mins per half 
@@ -28,7 +27,7 @@ recaptchacontact:
 |Co-ord: Pat Gallagher 087-9952729 |
 |A Scoil P. Athy | A Caragh |
 |B Kilcullen |B Kill |
-|C Rathangan | Scoil Uí Riada |
+|C Bye | Scoil Uí Riada |
 |D Monasterevin | Prosperous |
 
 <br>
