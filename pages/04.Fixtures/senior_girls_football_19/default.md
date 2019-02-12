@@ -28,7 +28,7 @@ recaptchacontact:
 |A Kill |A Conleths and Marys|
 |B Bye |B Rathangan |
 |C Scoil Uí Riada |C Scoil Bhride Naas |
-|D Confey |D Crookstown|
+|D Bye |D Crookstown|
 |E Rathmore |D Milltown|
 |F Kilcock |F G.S. Chill Dara |
 
