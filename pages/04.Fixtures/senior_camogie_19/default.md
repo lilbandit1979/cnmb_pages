@@ -10,7 +10,7 @@ recaptchacontact:
 * Divisions 3 and 5 top team go through to final, 2nd and 3rd teams play semi-final.
 * Best of luck to all schools!
 
-Div 1 Co-ordinator: Breda Fay 087 2417226
+Div 1 Co-ordinator: Sarah Losty 087 7954156
 
 | Division 1A | Division 1B |
 |--------------|-------------|
@@ -22,7 +22,7 @@ Div 1 Co-ordinator: Breda Fay 087 2417226
 <br>
 <br>
 
-Division 2 Co-ordinator: Sarah Losty 087 7954156
+Division 2 Co-ordinator: Robbie Jameson 087 2273447
 | Division 2A | Division 2B |
 |--------------|-------------|
 |A Scoil Uí Riada |A Sallins|
