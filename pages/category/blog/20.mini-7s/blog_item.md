@@ -486,14 +486,13 @@ recaptchacontact:
 * Broadford
 * Kilshanroe
 
-### Venue: Rathcoffey
-### Co-ordinator:Eugene Riordan
-* Rathcoffey
+### Venue: Cadamstown
+### Co-ordinator:Paddy Judge
 * Clogherinkoe
 * Broadford
 * Cadamstown
 * Kilshanroe
-* Straffan
+
 
 ### Venue: Kill
 ### Co-ordinator: Pat Gallagher
@@ -508,6 +507,7 @@ recaptchacontact:
 * Scoil Uí Riada
 * G.S. Uí Fhiach
 * Coca. Naofa
+* Straffan
 
 ### Venue: Johnstownbridge
 ### Co-ordinator: Julie Derivan
@@ -537,8 +537,8 @@ recaptchacontact:
 * Regionals 4th-8th March
 * Finals 20th March in Kildare Town 11am sharp
 
-### Rathcoffey ###
-### Co-ordinator: Eugene Riordan ###
+### Scoil Mochua
+### Co-ordinator: Ciarán Costello
 * G.S. Uí Fhiach
 * Kilcock
 * Rathcoffey
@@ -609,9 +609,8 @@ recaptchacontact:
 * Moone
 * Castledermot
 
-### Rathcoffey ###
-### Co-ordinator: Eugene Riordan ###
-* Rathcoffey
+### Celbridge
+### Co-ordinator: Aidan Minnock
 * Rathangan
 * Scoil Uí Riada
 * Scoil Uí Fhiach
