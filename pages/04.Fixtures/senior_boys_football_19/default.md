@@ -104,7 +104,7 @@ recaptchacontact:
 <br>
 ###Division 8
 * 20 mins per half
-* 11 aside
+* 9 aside
 
 |Division 8A | Division 8B |
 |---------------|-----------------|
