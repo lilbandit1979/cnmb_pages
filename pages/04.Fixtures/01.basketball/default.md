@@ -100,7 +100,7 @@ Two courts available. Final at 2.00pm approx.
 
 
 INTERMEDIATE SCHOOLS B:  GIRLS BBALL BLITZ   (76 – 124)
-Date: Wednesday 20th  March
+Date: Wednesday 13th  March
 Venue: Scoil Ui Riarda, Kilcock
 All teams to be present at venue at 10.00am. Bring €20 towards expenses. Any team unable to travel on the day please contact Paddy Cullen  (0858658250) before the above date
 Participating teams:
@@ -111,7 +111,7 @@ Two courts available. Final at 2.00pm approx.
 
 
 INTERMEDIATE SCHOOLS B: BOYS BBALL BLITZ ( 76 – 124 )
-Date: Wednesday 13th March
+Date: Wednesday 20th March
 Venue: Scoil Ui Riarda, Kilcock
 All teams to be present at venue at 10.00am. Bring €20 towards expenses. Any team unable to travel on the day please contact Paddy Cullen  (0858658250)  before the above date
 
