@@ -40,7 +40,7 @@ recaptchacontact:
 |A Ardclough |A Twomilehouse|
 |B Straffan |B Nurney|
 |C Rathcoffey |C Dunlavin|
-|D Bye |D Kilmead|
+|D Prosperous |D Kilmead|
 |E Derrinturn |E Athgarvan|
 |F Cappagh | Castledermot|
 
