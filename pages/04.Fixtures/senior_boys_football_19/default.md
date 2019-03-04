@@ -5,125 +5,259 @@ recaptchacontact:
     enabled: false
 ---
 
-##Senior Boys 2019
-###Division 1
-* 25 mins per half 
-* 15 aside
+# Cumann na mBunscoil Cill Dara
+#### Spring 2019
 
-| Division 1A  | Division 1B |
-|--------------|-------------|
-|Co-ord: Paul Dunning: 085-7040603 |
-|A Maynooth |B Ballymany |
-|Scoil Na M. Celbridge | Kildare |
-|C Bye | Sallins |
-|D Clane | D Naas |
-<br>
-<br>
-###Division 2
-* 25 mins per half 
-* 15 aside
+## Senior Boys Football / Division 1
+### 1A
 
-| Division 2A  | Division 2B |
-|--------------|-------------|
-|Co-ord: Pat Gallagher 087-9952729 |
-|A Scoil P. Athy | A Caragh |
-|B Kilcullen |B Kill |
-|C Bye | Scoil Uí Riada |
-|D Monasterevin | Prosperous |
+**Teams (4)**
+* Caragh NS
+* Scoil Phádraig Clane
+* Scoil Na Mainistreach
+* St. May's BNS Maynooth
 
-<br>
-<br>
-###Division 3
-* 25 mins per half.
-* 15 aside.
+**DRAFT Fixtures**
+| Round | Date | Fixture |
+| ----- | ---- | ------- |
+|  | Tue, 9th Apr '19 | Scoil Phádraig Clane v Caragh NS |
+|  | Tue, 9th Apr '19 | St. May's BNS Maynooth v Scoil Na Mainistreach |
+|  | Tue, 30th Apr '19 | St. May's BNS Maynooth v Caragh NS |
+|  | Tue, 30th Apr '19 | Scoil Phádraig Clane v Scoil Na Mainistreach |
+|  | Tue, 7th May '19 | Caragh NS v Scoil Na Mainistreach |
+|  | Tue, 7th May '19 | St. May's BNS Maynooth v Scoil Phádraig Clane |
 
-| Division 3A  | Division 3B | Division 3C|
-|--------------|-------------|------------|
-|Co-ordinator: Sean Corkery 0872872174|
-|A G.S. Uí Fhiach |A G.S. Cill Dara |A Dunlavin |
-|B Allenwood|B Milltown|B Crookstown|
-|C Scoil Bhride Naas |C Conleths and Mary’s| C Castledermot|
-| D Kilcock |D Patricians |D Rathangan|
 
-<br>
-<br>
-###Division 4
-* 25 mins per half
-* 15 aside
 
-| Division 4A | Division 4B|
-| ----------------|---------------|
-|Co-ordinator: Robbie Jameson 0872273447 |
-|A Cappagh |A Ballsax |
-|B Derrinturn |B Nurney |
-|C Clogherinkoe |C Kilmead |
-|D Bye | D Athgarvan |
+  
 
-<br>
-<br>
-###Division 5
-* 20 mins per half
-* 13 aside
+## Senior Boys Football / Division 1
+### 1B
 
-|Division 5A | Division 5B|
-|---------------|----------------|
-|Co-ordinator: Ciaran Costello 0868849825|
-|A Naomh Uilig | A Straffan |
-|B Newb. Ed. Together |B Rathcoffey |
-|C Rathmore | Scoil Mochua |
-|D Twomilehouse |D Ardclough| 
+**Teams (4)**
+* St. Brigid's Kildare
+* Ballymany Senior
+* St. Corban's BNS
+* Sallins
 
-<br>
-<br>
-###Division 6
-* 20 mins per half
-* 11 aside
+**DRAFT Fixtures**
+| Round | Date | Fixture |
+| ----- | ---- | ------- |
+| | | None Set
 
-|Division 6A | Division 6B|
-|---------------|----------------|
-|Co-ordinator: TBC |
-|A Churchtown |A Allen|
-|B Kildangan |B Robertstown |
-|C Ballymore |C Cooleragh |
-|D Scoil Mhichil Naofa |D Johnstownbridge |
 
-<br>
-<br>
-###Division 7
-* 20 mins per half
-* 11 aside
+  
 
-|Division 7A | Division 7B | Division 7C|
-|---------------|----------------|----------------|
-|Co-ordinator: T.B.C|
-|A G.S. Athy |A Moone |A St. Patrick’s Celbridge |
-|B Suncroft |B Ballyshannon|B Bye |
-|C Grange |C Killashee |C Broadford|
-|D Kilberry |D Bye |D Kilshanroe|
 
-<br>
-<br>
-###Division 8
-* 20 mins per half
-* 9 aside
+## Senior Boys Football / Division 2
+### Group 2A
 
-|Division 8A | Division 8B |
-|---------------|-----------------|
-|Co-ordination: Paddy Judge 0872924595|
-|A St. Patrick’s Newbridge |A Killina |
-|B Lackagh |B Cadamstown |
-|C Halverstown |C Ticknevin |
-|D Curragh Boys |D Kildare Educate Together |
+**Teams (4)**
+* Rathangan Boys School
+* Athy
+* Scoil Bhríde, Kilcullen
+* St. Conleths Senior
 
-<br>
-<br>
+**DRAFT Fixtures**
+| Round | Date | Fixture |
+| ----- | ---- | ------- |
+| | | None Set
 
-### Fixtures 2019 ###
-| Tues. April 9th | Tues. April 30th | Tuesday 7th May |
-|--------|-------|--------|
-| B vs. A | C vs. A | A vs. D |
-|D vs. C | D vs. B | C vs. B |
 
-### Semifinals: 20th-24th May###
-## Finals: 28th/29th May ##
+  
+
+## Senior Boys Football / Division 2
+### Group 2B
+
+**Teams (3)**
+* Scoil Bhríde Kill
+* Scoil Uí Riada
+* Prosperous
+
+**DRAFT Fixtures**
+| Round | Date | Fixture |
+| ----- | ---- | ------- |
+| | | None Set
+
+
+  
+
+
+## Senior Boys Football / Division 3
+### Group 3A
+
+**Teams (6)**
+* Scoil Mhuire Allenwood
+* Rathmore
+* St Josephs National School Kilcock
+* Scoil Bhríde Naas
+* Gaelscoil Ui Fhiach
+* Gaelscoil Chill Dara
+
+**DRAFT Fixtures**
+| Round | Date | Fixture |
+| ----- | ---- | ------- |
+| | | None Set
+
+
+  
+
+## Senior Boys Football / Division 3
+### Group 3B
+
+**Teams (6)**
+* St. Peter's NS Monasterevin
+* Patrician Primary School
+* Dunlavin
+* Scoil Diarmada Castledermot
+* St. Laurence`s N.S. Crookstown
+* Scoil Bhríde Milltown
+
+**DRAFT Fixtures**
+| Round | Date | Fixture |
+| ----- | ---- | ------- |
+| | | None Set
+
+
+  
+
+
+## Senior Boys Football / Division 4
+### Group 4A
+
+**Teams (6)**
+* Derrinturn
+* Straffan N.S.
+* Cappagh
+* Clocha Rince NS
+* Rathcoffey
+* Scoil Mochua
+
+**DRAFT Fixtures**
+| Round | Date | Fixture |
+| ----- | ---- | ------- |
+| | | None Set
+
+
+  
+
+## Senior Boys Football / Division 4
+### Group 4B
+
+**Teams (5)**
+* Two Mile House
+* Scoil na Naomh Uilig
+* Kilmeade
+* Scoil Bhríde Nurney
+* Scoil Mhuire Ballymore Eustace
+
+**DRAFT Fixtures**
+| Round | Date | Fixture |
+| ----- | ---- | ------- |
+| | | None Set
+
+
+  
+
+
+## Senior Boys Football / Division 5
+### Group 5A
+
+**Teams (1)**
+* Allen NS
+
+**DRAFT Fixtures**
+| Round | Date | Fixture |
+| ----- | ---- | ------- |
+| | | None Set
+
+
+  
+
+## Senior Boys Football / Division 5
+### Group 5B
+
+**Teams (0)**
+
+**DRAFT Fixtures**
+| Round | Date | Fixture |
+| ----- | ---- | ------- |
+| | | None Set
+
+
+  
+
+
+## Senior Boys Football / Division 6
+### Group 6A
+
+**Teams (4)**
+* Churchtown NS
+* St. Brigid's N.S. Ballsax
+* Kilberry N.S.
+* Grange
+
+**DRAFT Fixtures**
+| Round | Date | Fixture |
+| ----- | ---- | ------- |
+| | | None Set
+
+
+  
+
+## Senior Boys Football / Division 6
+### Group 6B
+
+**Teams (4)**
+* Scoil Mhichíl Naofa Athy
+* Suncroft NS
+* Kildangan National School
+* Kildare Town Educate Together NS
+
+**DRAFT Fixtures**
+| Round | Date | Fixture |
+| ----- | ---- | ------- |
+| | | None Set
+
+
+  
+
+
+## Senior Boys Football / Division 7
+### Group 7A
+
+**Teams (6)**
+* St. Patrick's N.S. Newbridge
+* Moone
+* Ballyshannon National School 
+* Scoil Bhride Lackagh
+* Gaelscoil Athy
+* Halverstown NS
+
+**DRAFT Fixtures**
+| Round | Date | Fixture |
+| ----- | ---- | ------- |
+| | | None Set
+
+
+  
+
+## Senior Boys Football / Division 7
+### Group 7B
+
+**Teams (5)**
+* Ticknevin
+* Killina N.S.
+* St. Patrick's Celbridge
+* Cadamstown National School
+* Broadford NS
+
+**DRAFT Fixtures**
+| Round | Date | Fixture |
+| ----- | ---- | ------- |
+| | | None Set
+
+
+  
+
 
