@@ -8,6 +8,9 @@ recaptchacontact:
 # Cumann na mBunscoil Cill Dara
 #### Spring 2019
 
+### Dates to remember: 
+* Semi-finals: week 20th-24th May
+* Finals: 28/29th May
 ## Senior Boys Football / Division 1
 ### 1A
 
