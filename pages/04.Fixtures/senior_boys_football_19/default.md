@@ -8,9 +8,6 @@ recaptchacontact:
 # Cumann na mBunscoil Cill Dara
 #### Spring 2019
 
-# Cumann na mBunscoil Cill Dara
-#### Spring 2019
-
 ## Senior Boys Football / Division 1
 ### 1A
 
