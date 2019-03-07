@@ -8,6 +8,9 @@ recaptchacontact:
 # Cumann na mBunscoil Cill Dara
 #### Spring 2019
 
+# Cumann na mBunscoil Cill Dara
+#### Spring 2019
+
 ## Senior Boys Football / Division 1
 ### 1A
 
@@ -15,17 +18,17 @@ recaptchacontact:
 * Caragh NS
 * Scoil Phádraig Clane
 * Scoil Na Mainistreach
-* St. May's BNS Maynooth
+* St. Mary's BNS Maynooth
 
-**DRAFT Fixtures**
+**Fixtures**
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
-|  | Tue, 9th Apr '19 | Scoil Phádraig Clane v Caragh NS |
-|  | Tue, 9th Apr '19 | St. May's BNS Maynooth v Scoil Na Mainistreach |
-|  | Tue, 30th Apr '19 | St. May's BNS Maynooth v Caragh NS |
-|  | Tue, 30th Apr '19 | Scoil Phádraig Clane v Scoil Na Mainistreach |
-|  | Tue, 7th May '19 | Caragh NS v Scoil Na Mainistreach |
-|  | Tue, 7th May '19 | St. May's BNS Maynooth v Scoil Phádraig Clane |
+| Round 1 | Tue, 9th Apr '19 | Scoil Phádraig Clane v Caragh NS |
+| Round 1 | " | St. Mary's BNS Maynooth v Scoil Na Mainistreach |
+| Round 2 | Tue, 30th Apr '19 | St. Mary's BNS Maynooth v Caragh NS |
+| Round 2 | " | Scoil Phádraig Clane v Scoil Na Mainistreach |
+| Round 3 | Tue, 7th May '19 | Caragh NS v Scoil Na Mainistreach |
+| Round 3 | " | St. Mary's BNS Maynooth v Scoil Phádraig Clane |
 
 
 
@@ -40,17 +43,23 @@ recaptchacontact:
 * St. Corban's BNS
 * Sallins
 
-**DRAFT Fixtures**
+**Fixtures**
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
-| | | None Set
+| Round 1 | Tue, 9th Apr '19 | St. Brigid's Kildare v Sallins |
+| Round 1 | " | Ballymany Senior v St. Corban's BNS |
+| Round 2 | Tue, 30th Apr '19 | St. Corban's BNS v St. Brigid's Kildare |
+| Round 2 | " | Ballymany Senior v Sallins |
+| Round 3 | Tue, 7th May '19 | St. Brigid's Kildare v Ballymany Senior |
+| Round 3 | " | St. Corban's BNS v Sallins |
+
 
 
   
 
 
 ## Senior Boys Football / Division 2
-### Group 2A
+### 2A
 
 **Teams (4)**
 * Rathangan Boys School
@@ -58,26 +67,35 @@ recaptchacontact:
 * Scoil Bhríde, Kilcullen
 * St. Conleths Senior
 
-**DRAFT Fixtures**
+**Fixtures**
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
-| | | None Set
+| Round 1 | Tue, 9th Apr '19 | Rathangan Boys School v Scoil Bhríde, Kilcullen |
+| Round 1 | " | St. Conleths Senior v Athy |
+| Round 2 | Tue, 30th Apr '19 | St. Conleths Senior v Rathangan Boys School |
+| Round 2 | " | Scoil Bhríde, Kilcullen v Athy |
+| Round 3 | Tue, 7th May '19 | Rathangan Boys School v Athy |
+| Round 3 | " | Scoil Bhríde, Kilcullen v St. Conleths Senior |
+
 
 
   
 
 ## Senior Boys Football / Division 2
-### Group 2B
+### 2B
 
 **Teams (3)**
 * Scoil Bhríde Kill
 * Scoil Uí Riada
 * Prosperous
 
-**DRAFT Fixtures**
+**Fixtures**
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
-| | | None Set
+| Round 1 | Tue, 9th Apr '19 | Scoil Uí Riada v Prosperous |
+| Round 2 | Tue, 30th Apr '19 | Prosperous v Scoil Bhríde Kill |
+| Round 3 | Tue, 7th May '19 | Scoil Bhríde Kill v Scoil Uí Riada |
+
 
 
   
@@ -94,10 +112,25 @@ recaptchacontact:
 * Gaelscoil Ui Fhiach
 * Gaelscoil Chill Dara
 
-**DRAFT Fixtures**
+**Fixtures**
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
-| | | None Set
+| Round 1 | Tue, 26th Mar '19 | Scoil Mhuire Allenwood v Rathmore |
+| Round 1 | " | St Josephs National School Kilcock v Gaelscoil Chill Dara |
+| Round 1 | " | Scoil Bhríde Naas v Gaelscoil Ui Fhiach |
+| Round 2 | Tue, 2nd Apr '19 | Gaelscoil Chill Dara v Scoil Mhuire Allenwood |
+| Round 2 | " | Gaelscoil Ui Fhiach v Rathmore |
+| Round 2 | " | Scoil Bhríde Naas v St Josephs National School Kilcock |
+| Round 3 | Tue, 9th Apr '19 | Scoil Mhuire Allenwood v Scoil Bhríde Naas |
+| Round 3 | " | Gaelscoil Ui Fhiach v St Josephs National School Kilcock |
+| Round 3 | " | Gaelscoil Chill Dara v Rathmore |
+| Round 4 | Tue, 30th Apr '19 | Gaelscoil Ui Fhiach v Scoil Mhuire Allenwood |
+| Round 4 | " | Scoil Bhríde Naas v Gaelscoil Chill Dara |
+| Round 4 | " | St Josephs National School Kilcock v Rathmore |
+| Round 5 | Tue, 7th May '19 | Scoil Mhuire Allenwood v St Josephs National School Kilcock |
+| Round 5 | " | Scoil Bhríde Naas v Rathmore |
+| Round 5 | " | Gaelscoil Ui Fhiach v Gaelscoil Chill Dara |
+
 
 
   
@@ -113,10 +146,25 @@ recaptchacontact:
 * St. Laurence`s N.S. Crookstown
 * Scoil Bhríde Milltown
 
-**DRAFT Fixtures**
+**Fixtures**
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
-| | | None Set
+| Round 1 | Tue, 26th Mar '19 | St. Peter's NS Monasterevin v Patrician Primary School |
+| Round 1 | " | Dunlavin v Scoil Bhríde Milltown |
+| Round 1 | " | Scoil Diarmada Castledermot v St. Laurence`s N.S. Crookstown |
+| Round 2 | Tue, 2nd Apr '19 | St. Laurence`s N.S. Crookstown v St. Peter's NS Monasterevin |
+| Round 2 | " | Scoil Diarmada Castledermot v Scoil Bhríde Milltown |
+| Round 2 | " | Dunlavin v Patrician Primary School |
+| Round 3 | Tue, 9th Apr '19 | St. Peter's NS Monasterevin v Scoil Diarmada Castledermot |
+| Round 3 | " | St. Laurence`s N.S. Crookstown v Dunlavin |
+| Round 3 | " | Scoil Bhríde Milltown v Patrician Primary School |
+| Round 4 | Tue, 30th Apr '19 | Scoil Bhríde Milltown v St. Peter's NS Monasterevin |
+| Round 4 | " | St. Laurence`s N.S. Crookstown v Patrician Primary School |
+| Round 4 | " | Scoil Diarmada Castledermot v Dunlavin |
+| Round 5 | Tue, 7th May '19 | St. Peter's NS Monasterevin v Dunlavin |
+| Round 5 | " | Scoil Diarmada Castledermot v Patrician Primary School |
+| Round 5 | " | St. Laurence`s N.S. Crookstown v Scoil Bhríde Milltown |
+
 
 
   
@@ -133,10 +181,25 @@ recaptchacontact:
 * Rathcoffey
 * Scoil Mochua
 
-**DRAFT Fixtures**
+**Fixtures**
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
-| | | None Set
+| Round 1 | Tue, 26th Mar '19 | Derrinturn v Scoil Mochua |
+| Round 1 | " | Straffan N.S. v Rathcoffey |
+| Round 1 | " | Cappagh v Clocha Rince NS |
+| Round 2 | Tue, 2nd Apr '19 | Rathcoffey v Derrinturn |
+| Round 2 | " | Clocha Rince NS v Scoil Mochua |
+| Round 2 | " | Cappagh v Straffan N.S. |
+| Round 3 | Tue, 9th Apr '19 | Derrinturn v Cappagh |
+| Round 3 | " | Clocha Rince NS v Straffan N.S. |
+| Round 3 | " | Rathcoffey v Scoil Mochua |
+| Round 4 | Tue, 30th Apr '19 | Clocha Rince NS v Derrinturn |
+| Round 4 | " | Cappagh v Rathcoffey |
+| Round 4 | " | Straffan N.S. v Scoil Mochua |
+| Round 5 | Tue, 7th May '19 | Derrinturn v Straffan N.S. |
+| Round 5 | " | Cappagh v Scoil Mochua |
+| Round 5 | " | Clocha Rince NS v Rathcoffey |
+
 
 
   
@@ -151,10 +214,20 @@ recaptchacontact:
 * Scoil Bhríde Nurney
 * Scoil Mhuire Ballymore Eustace
 
-**DRAFT Fixtures**
+**Fixtures**
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
-| | | None Set
+| Round 1 | Tue, 26th Mar '19 | Two Mile House v Scoil Mhuire Ballymore Eustace |
+| Round 1 | " | Scoil na Naomh Uilig v Kilmeade |
+| Round 2 | Tue, 2nd Apr '19 | Scoil na Naomh Uilig v Two Mile House |
+| Round 2 | " | Scoil Mhuire Ballymore Eustace v Scoil Bhríde Nurney |
+| Round 3 | Tue, 9th Apr '19 | Two Mile House v Kilmeade |
+| Round 3 | " | Scoil Bhríde Nurney v Scoil na Naomh Uilig |
+| Round 4 | Tue, 30th Apr '19 | Scoil Mhuire Ballymore Eustace v Scoil na Naomh Uilig |
+| Round 4 | " | Scoil Bhríde Nurney v Kilmeade |
+| Round 5 | Tue, 7th May '19 | Two Mile House v Scoil Bhríde Nurney |
+| Round 5 | " | Scoil Mhuire Ballymore Eustace v Kilmeade |
+
 
 
   
@@ -163,13 +236,22 @@ recaptchacontact:
 ## Senior Boys Football / Division 5
 ### Group 5A
 
-**Teams (1)**
+**Teams (4)**
 * Allen NS
+* Killashee MDNS
+* Robertstown National School
+* Scoil Bhríde Athgarvan
 
-**DRAFT Fixtures**
+**Fixtures**
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
-| | | None Set
+| Round 1 | Tue, 9th Apr '19 | Allen NS v Killashee MDNS |
+| Round 1 | " | Robertstown National School v Scoil Bhríde Athgarvan |
+| Round 2 | Tue, 30th Apr '19 | Robertstown National School v Allen NS |
+| Round 2 | " | Killashee MDNS v Scoil Bhríde Athgarvan |
+| Round 3 | Tue, 7th May '19 | Allen NS v Scoil Bhríde Athgarvan |
+| Round 3 | " | Killashee MDNS v Robertstown National School |
+
 
 
   
@@ -177,12 +259,22 @@ recaptchacontact:
 ## Senior Boys Football / Division 5
 ### Group 5B
 
-**Teams (0)**
+**Teams (4)**
+* Cooleragh
+* Kilshanroe
+* St. Patrick's NS Johnstownbridge
+* St. Anne's N.S. Ardclough
 
-**DRAFT Fixtures**
+**Fixtures**
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
-| | | None Set
+| Round 1 | Tue, 9th Apr '19 | Cooleragh v St. Anne's N.S. Ardclough |
+| Round 1 | " | Kilshanroe v St. Patrick's NS Johnstownbridge |
+| Round 2 | Tue, 30th Apr '19 | Kilshanroe v Cooleragh |
+| Round 2 | " | St. Anne's N.S. Ardclough v St. Patrick's NS Johnstownbridge |
+| Round 3 | Tue, 7th May '19 | Cooleragh v St. Patrick's NS Johnstownbridge |
+| Round 3 | " | St. Anne's N.S. Ardclough v Kilshanroe |
+
 
 
   
@@ -197,10 +289,16 @@ recaptchacontact:
 * Kilberry N.S.
 * Grange
 
-**DRAFT Fixtures**
+**Fixtures**
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
-| | | None Set
+| Round 1 | Tue, 9th Apr '19 | Churchtown NS v Kilberry N.S. |
+| Round 1 | " | Grange v St. Brigid's N.S. Ballsax |
+| Round 2 | Tue, 30th Apr '19 | Grange v Churchtown NS |
+| Round 2 | " | Kilberry N.S. v St. Brigid's N.S. Ballsax |
+| Round 3 | Tue, 7th May '19 | Churchtown NS v St. Brigid's N.S. Ballsax |
+| Round 3 | " | Kilberry N.S. v Grange |
+
 
 
   
@@ -214,10 +312,16 @@ recaptchacontact:
 * Kildangan National School
 * Kildare Town Educate Together NS
 
-**DRAFT Fixtures**
+**Fixtures**
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
-| | | None Set
+| Round 1 | Tue, 9th Apr '19 | Scoil Mhichíl Naofa Athy v Kildangan National School |
+| Round 1 | " | Kildare Town Educate Together NS v Suncroft NS |
+| Round 2 | Tue, 30th Apr '19 | Kildare Town Educate Together NS v Scoil Mhichíl Naofa Athy |
+| Round 2 | " | Kildangan National School v Suncroft NS |
+| Round 3 | Tue, 7th May '19 | Scoil Mhichíl Naofa Athy v Suncroft NS |
+| Round 3 | " | Kildangan National School v Kildare Town Educate Together NS |
+
 
 
   
@@ -234,10 +338,25 @@ recaptchacontact:
 * Gaelscoil Athy
 * Halverstown NS
 
-**DRAFT Fixtures**
+**Fixtures**
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
-| | | None Set
+| Round 1 | Tue, 26th Mar '19 | St. Patrick's N.S. Newbridge v Scoil Bhride Lackagh |
+| Round 1 | " | Gaelscoil Athy v Ballyshannon National School  |
+| Round 1 | " | Halverstown NS v Moone |
+| Round 2 | Tue, 2nd Apr '19 | Moone v St. Patrick's N.S. Newbridge |
+| Round 2 | " | Halverstown NS v Ballyshannon National School  |
+| Round 2 | " | Gaelscoil Athy v Scoil Bhride Lackagh |
+| Round 3 | Tue, 9th Apr '19 | St. Patrick's N.S. Newbridge v Gaelscoil Athy |
+| Round 3 | " | Halverstown NS v Scoil Bhride Lackagh |
+| Round 3 | " | Moone v Ballyshannon National School  |
+| Round 4 | Tue, 30th Apr '19 | Ballyshannon National School  v St. Patrick's N.S. Newbridge |
+| Round 4 | " | Moone v Scoil Bhride Lackagh |
+| Round 4 | " | Halverstown NS v Gaelscoil Athy |
+| Round 5 | Tue, 7th May '19 | St. Patrick's N.S. Newbridge v Halverstown NS |
+| Round 5 | " | Moone v Gaelscoil Athy |
+| Round 5 | " | Ballyshannon National School  v Scoil Bhride Lackagh |
+
 
 
   
@@ -252,12 +371,24 @@ recaptchacontact:
 * Cadamstown National School
 * Broadford NS
 
-**DRAFT Fixtures**
+**Fixtures**
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
-| | | None Set
+| Round 1 | Tue, 26th Mar '19 | Ticknevin v Killina N.S. |
+| Round 1 | " | Cadamstown National School v Broadford NS |
+| Round 2 | Tue, 2nd Apr '19 | Broadford NS v Killina N.S. |
+| Round 2 | " | Cadamstown National School v St. Patrick's Celbridge |
+| Round 3 | Tue, 9th Apr '19 | Ticknevin v Cadamstown National School |
+| Round 3 | " | Broadford NS v St. Patrick's Celbridge |
+| Round 4 | Tue, 30th Apr '19 | St. Patrick's Celbridge v Ticknevin |
+| Round 4 | " | Killina N.S. v Cadamstown National School |
+| Round 5 | Tue, 7th May '19 | Ticknevin v Broadford NS |
+| Round 5 | " | Killina N.S. v St. Patrick's Celbridge |
+
 
 
   
+
+
 
 
