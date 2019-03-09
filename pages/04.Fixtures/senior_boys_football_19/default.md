@@ -1,6 +1,6 @@
 ---
 title: Senior_Boys_Football_19
-published: false
+published: true
 recaptchacontact:
     enabled: false
 ---
