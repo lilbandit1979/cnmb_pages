@@ -13,7 +13,7 @@ recaptchacontact:
 * Finals: 28/29th May
 
 ## Senior Boys Football / Division 1
-### 1A
+### Group 1A
 
 **Teams (4)**
 * Caragh NS
@@ -22,6 +22,7 @@ recaptchacontact:
 * St. Mary's BNS Maynooth
 
 **Fixtures**
+
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Tue, 9th Apr '19 | Scoil Phádraig Clane v Caragh NS |
@@ -36,7 +37,7 @@ recaptchacontact:
   
 
 ## Senior Boys Football / Division 1
-### 1B
+### Group 1B
 
 **Teams (4)**
 * St. Brigid's Kildare
@@ -45,6 +46,7 @@ recaptchacontact:
 * Sallins
 
 **Fixtures**
+
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Tue, 9th Apr '19 | St. Brigid's Kildare v Sallins |
@@ -60,7 +62,7 @@ recaptchacontact:
 
 
 ## Senior Boys Football / Division 2
-### 2A
+### Group 2A
 
 **Teams (4)**
 * Rathangan Boys School
@@ -69,6 +71,7 @@ recaptchacontact:
 * St. Conleths Senior
 
 **Fixtures**
+
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Tue, 9th Apr '19 | Rathangan Boys School v Scoil Bhríde, Kilcullen |
@@ -83,7 +86,7 @@ recaptchacontact:
   
 
 ## Senior Boys Football / Division 2
-### 2B
+### Group 2B
 
 **Teams (3)**
 * Scoil Bhríde Kill
@@ -91,6 +94,7 @@ recaptchacontact:
 * Prosperous
 
 **Fixtures**
+
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Tue, 9th Apr '19 | Scoil Uí Riada v Prosperous |
@@ -114,6 +118,7 @@ recaptchacontact:
 * Gaelscoil Chill Dara
 
 **Fixtures**
+
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Tue, 26th Mar '19 | Scoil Mhuire Allenwood v Rathmore |
@@ -148,6 +153,7 @@ recaptchacontact:
 * Scoil Bhríde Milltown
 
 **Fixtures**
+
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Tue, 26th Mar '19 | St. Peter's NS Monasterevin v Patrician Primary School |
@@ -183,6 +189,7 @@ recaptchacontact:
 * Scoil Mochua
 
 **Fixtures**
+
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Tue, 26th Mar '19 | Derrinturn v Scoil Mochua |
@@ -216,6 +223,7 @@ recaptchacontact:
 * Scoil Mhuire Ballymore Eustace
 
 **Fixtures**
+
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Tue, 26th Mar '19 | Two Mile House v Scoil Mhuire Ballymore Eustace |
@@ -244,6 +252,7 @@ recaptchacontact:
 * Scoil Bhríde Athgarvan
 
 **Fixtures**
+
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Tue, 9th Apr '19 | Allen NS v Killashee MDNS |
@@ -267,6 +276,7 @@ recaptchacontact:
 * St. Anne's N.S. Ardclough
 
 **Fixtures**
+
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Tue, 9th Apr '19 | Cooleragh v St. Anne's N.S. Ardclough |
@@ -291,6 +301,7 @@ recaptchacontact:
 * Grange
 
 **Fixtures**
+
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Tue, 9th Apr '19 | Churchtown NS v Kilberry N.S. |
@@ -314,6 +325,7 @@ recaptchacontact:
 * Kildare Town Educate Together NS
 
 **Fixtures**
+
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Tue, 9th Apr '19 | Scoil Mhichíl Naofa Athy v Kildangan National School |
@@ -340,6 +352,7 @@ recaptchacontact:
 * Halverstown NS
 
 **Fixtures**
+
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Tue, 26th Mar '19 | St. Patrick's N.S. Newbridge v Scoil Bhride Lackagh |
@@ -373,6 +386,7 @@ recaptchacontact:
 * Broadford NS
 
 **Fixtures**
+
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Tue, 26th Mar '19 | Ticknevin v Killina N.S. |
