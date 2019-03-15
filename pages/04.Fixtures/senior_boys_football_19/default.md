@@ -215,28 +215,32 @@ recaptchacontact:
 ## Senior Boys Football / Division 4
 ### Group 4B
 
-**Teams (5)**
+**Teams (6)**
+* Newbridge Educate Together
 * Two Mile House
 * Scoil na Naomh Uilig
 * Kilmeade
 * Scoil Bhríde Nurney
 * Scoil Mhuire Ballymore Eustace
-* Newbridge Educate Together
 
 **Fixtures**
-
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
-| Round 1 | Tue, 26th Mar '19 | Two Mile House v Scoil Mhuire Ballymore Eustace |
-| Round 1 | " | Scoil na Naomh Uilig v Kilmeade |
-| Round 2 | Tue, 2nd Apr '19 | Scoil na Naomh Uilig v Two Mile House |
-| Round 2 | " | Scoil Mhuire Ballymore Eustace v Scoil Bhríde Nurney |
-| Round 3 | Tue, 9th Apr '19 | Two Mile House v Kilmeade |
-| Round 3 | " | Scoil Bhríde Nurney v Scoil na Naomh Uilig |
-| Round 4 | Tue, 30th Apr '19 | Scoil Mhuire Ballymore Eustace v Scoil na Naomh Uilig |
-| Round 4 | " | Scoil Bhríde Nurney v Kilmeade |
-| Round 5 | Tue, 7th May '19 | Two Mile House v Scoil Bhríde Nurney |
-| Round 5 | " | Kilmeade v Scoil Mhuire Ballymore Eustace |
+| Round 1 | Tue, 26th Mar '19 | Two Mile House v Newbridge Educate Together |
+| Round 1 | " | Scoil na Naomh Uilig v Scoil Mhuire Ballymore Eustace |
+| Round 1 | " | Kilmeade v Scoil Bhríde Nurney |
+| Round 2 | Tue, 2nd Apr '19 | Scoil Bhríde Nurney v Newbridge Educate Together |
+| Round 2 | " | Kilmeade v Scoil Mhuire Ballymore Eustace |
+| Round 2 | " | Scoil na Naomh Uilig v Two Mile House |
+| Round 3 | Tue, 9th Apr '19 | Newbridge Educate Together v Scoil na Naomh Uilig |
+| Round 3 | " | Kilmeade v Two Mile House |
+| Round 3 | " | Scoil Bhríde Nurney v Scoil Mhuire Ballymore Eustace |
+| Round 4 | Tue, 30th Apr '19 | Scoil Mhuire Ballymore Eustace v Newbridge Educate Together |
+| Round 4 | " | Two Mile House v Scoil Bhríde Nurney |
+| Round 4 | " | Scoil na Naomh Uilig v Kilmeade |
+| Round 5 | Tue, 7th May '19 | Newbridge Educate Together v Kilmeade |
+| Round 5 | " | Scoil Bhríde Nurney v Scoil na Naomh Uilig |
+| Round 5 | " | Scoil Mhuire Ballymore Eustace v Two Mile House |
 
 
 
