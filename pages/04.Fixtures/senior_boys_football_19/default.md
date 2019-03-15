@@ -14,7 +14,7 @@ recaptchacontact:
 
 ## Senior Boys Football / Division 1
 ### Group 1A
-
+### Co-ordinator: Paul Dunning Ballymany 0857040603
 **Teams (4)**
 * Caragh NS
 * Scoil Phádraig Clane
@@ -63,7 +63,7 @@ recaptchacontact:
 
 ## Senior Boys Football / Division 2
 ### Group 2A
-
+### Co-ordinator: Pat Gallagher, Kill 0879952729
 **Teams (4)**
 * Rathangan Boys School
 * Athy
@@ -108,7 +108,7 @@ recaptchacontact:
 
 ## Senior Boys Football / Division 3
 ### Group 3A
-
+### Co-ordinator: Robbie Jameson, Rathmore 0872273447
 **Teams (6)**
 * Scoil Mhuire Allenwood
 * Rathmore
@@ -179,7 +179,7 @@ recaptchacontact:
 
 ## Senior Boys Football / Division 4
 ### Group 4A
-
+### Co-ordinator:  Seán Corkery, Caragh 0872872174
 **Teams (6)**
 * Derrinturn
 * Straffan N.S.
@@ -221,6 +221,7 @@ recaptchacontact:
 * Kilmeade
 * Scoil Bhríde Nurney
 * Scoil Mhuire Ballymore Eustace
+* Newbridge Educate Together
 
 **Fixtures**
 
@@ -244,6 +245,7 @@ recaptchacontact:
 
 ## Senior Boys Football / Division 5
 ### Group 5A
+### Co-ordinator: Jim Hanifin, Allen 0863292118
 
 **Teams (4)**
 * Allen NS
@@ -293,10 +295,10 @@ recaptchacontact:
 
 ## Senior Boys Football / Division 6
 ### Group 6A
-
+### Co-ordinator: Stephen O Brien, St. Conleth and Marys Newbridge 0876479157
 **Teams (4)**
 * Churchtown NS
-* St. Brigid's N.S. Ballsax
+* St. Brigid's N.S. Ballysax
 * Kilberry N.S.
 * Grange
 
@@ -342,6 +344,7 @@ recaptchacontact:
 
 ## Senior Boys Football / Division 7
 ### Group 7A
+### Co-ordinator: Paddy Judge, Cadamstown 0872924595
 
 **Teams (6)**
 * St. Patrick's N.S. Newbridge
