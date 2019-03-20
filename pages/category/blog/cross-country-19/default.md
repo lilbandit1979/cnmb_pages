@@ -1,6 +1,6 @@
 ---
 title: 'Cross Country 19'
-published: false
+published: true
 recaptchacontact:
     enabled: false
 ---
