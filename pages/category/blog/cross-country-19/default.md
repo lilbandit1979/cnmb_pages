@@ -1,6 +1,9 @@
 ---
 title: 'Cross Country 19'
 published: true
+taxonomy:
+    category:
+        - Blog
 recaptchacontact:
     enabled: false
 ---
