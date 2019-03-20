@@ -17,8 +17,8 @@ recaptchacontact:
 * Strictly 2 teams per race.
 * **Registration closing date:** **Monday 1st April 6pm**.
 * Late entries not accepted. 
-## Boys Team Register online [here].(https://goo.gl/forms/NUl7KFjkxMFKVkR22)
-## Girls Team Register online [here].(https://goo.gl/forms/WIEDBbZkmKvcuk3z1)
+## Boys Team Register online [here](https://goo.gl/forms/NUl7KFjkxMFKVkR22).
+## Girls Team Register online [here](https://goo.gl/forms/WIEDBbZkmKvcuk3z1).
 * No postal registrations.
 
 * Race Rules:
