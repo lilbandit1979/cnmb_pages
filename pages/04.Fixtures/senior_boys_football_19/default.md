@@ -16,6 +16,7 @@ recaptchacontact:
 ### Group 1A
 ### Co-ordinator: Paul Dunning Ballymany 0857040603
 **Teams (4)**
+**Boys Senior Football Division 1: 25 mins per half, 15 aside.
 * Caragh NS
 * Scoil Phádraig Clane
 * Scoil Na Mainistreach
@@ -40,6 +41,8 @@ recaptchacontact:
 ### Group 1B
 
 **Teams (4)**
+**Boys Senior Football Division 1: 25 mins per half, 15 aside.
+
 * St. Brigid's Kildare
 * Ballymany Senior
 * St. Corban's BNS
@@ -65,6 +68,8 @@ recaptchacontact:
 ### Group 2A
 ### Co-ordinator: Pat Gallagher, Kill 0879952729
 **Teams (4)**
+**Boys Senior Football Division 2: 25 mins per half, 15 aside.
+
 * Rathangan Boys School
 * Athy
 * Scoil Bhríde, Kilcullen
@@ -89,6 +94,8 @@ recaptchacontact:
 ### Group 2B
 
 **Teams (3)**
+**Boys Senior Football Division 2: 25 mins per half, 15 aside.
+
 * Scoil Bhríde Kill
 * Scoil Uí Riada
 * Prosperous
@@ -110,6 +117,8 @@ recaptchacontact:
 ### Group 3A
 ### Co-ordinator: Robbie Jameson, Rathmore 0872273447
 **Teams (6)**
+**Boys Senior Football Division 3: 25 mins per half, 15 aside.
+
 * Scoil Mhuire Allenwood
 * Rathmore
 * St Josephs National School Kilcock
@@ -145,6 +154,8 @@ recaptchacontact:
 ### Group 3B
 
 **Teams (6)**
+**Boys Senior Football Division 3: 25 mins per half, 15 aside.
+
 * St. Peter's NS Monasterevin
 * Patrician Primary School
 * Dunlavin
@@ -180,7 +191,9 @@ recaptchacontact:
 ## Senior Boys Football / Division 4
 ### Group 4A
 ### Co-ordinator:  Seán Corkery, Caragh 0872872174
-**Teams (6)**
+** Teams (6)**
+** Boys Senior Football Division 4: 25 mins per half, 15 aside.**
+
 * Derrinturn
 * Straffan N.S.
 * Cappagh
@@ -216,6 +229,9 @@ recaptchacontact:
 ### Group 4B
 
 **Teams (6)**
+**Boys Senior Football Division 4: 25 mins per half, 15 aside.
+
+
 * Newbridge Educate Together
 * Two Mile House
 * Scoil na Naomh Uilig
@@ -252,6 +268,8 @@ recaptchacontact:
 ### Co-ordinator: Jim Hanifin, Allen 0863292118
 
 **Teams (4)**
+**Senior Boys Football Division 5: 20 mins per half, 13 aside.
+
 * Allen NS
 * Killashee MDNS
 * Robertstown National School
@@ -276,6 +294,8 @@ recaptchacontact:
 ### Group 5B
 
 **Teams (4)**
+**Senior Boys Football Division 5: 20 mins per half, 13 aside.
+
 * Cooleragh
 * Kilshanroe
 * St. Patrick's NS Johnstownbridge
@@ -301,6 +321,8 @@ recaptchacontact:
 ### Group 6A
 ### Co-ordinator: Stephen O Brien, St. Conleth and Marys Newbridge 0876479157
 **Teams (4)**
+**Senior Boys Football Division 6: 20 mins per half, 11 aside.
+
 * Churchtown NS
 * St. Brigid's N.S. Ballysax
 * Kilberry N.S.
@@ -325,6 +347,8 @@ recaptchacontact:
 ### Group 6B
 
 **Teams (4)**
+**Senior Boys Football Division 6: 20 mins per half, 11 aside.
+
 * Scoil Mhichíl Naofa Athy
 * Suncroft NS
 * Kildangan National School
@@ -351,6 +375,8 @@ recaptchacontact:
 ### Co-ordinator: Paddy Judge, Cadamstown 0872924595
 
 **Teams (6)**
+**Senior Boys Football Division 7: 20 mins per half, 11 aside.
+
 * St. Patrick's N.S. Newbridge
 * Moone
 * Ballyshannon National School 
@@ -386,6 +412,8 @@ recaptchacontact:
 ### Group 7B
 
 **Teams (5)**
+**Senior Boys Football Division 7: 20 mins per half, 11 aside.
+
 * Ticknevin
 * Killina N.S.
 * St. Patrick's Celbridge
