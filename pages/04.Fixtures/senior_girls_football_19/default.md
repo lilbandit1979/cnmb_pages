@@ -8,6 +8,7 @@ recaptchacontact:
 ###Division 1
 * 25 mins per half 
 * 15 aside
+* Co-ordinator: Stephanie Bergin, Ballymany: 0851452861
 * Semi-finals: 20th-24th May
 * Final: May 28th/29th
 
@@ -22,6 +23,12 @@ recaptchacontact:
 
 <br>
 <br>
+### Division 2
+* Co-ordinator: Edel Kearney, Crookstown: 0876203011
+* 20 mins per half 
+* 13 aside
+* Semi-finals: 20th-24th May
+* Final: May 28th/29th
 
 |Division 2A | Division 2B|
 |---------------|----------------|
@@ -34,6 +41,12 @@ recaptchacontact:
 
 <br>
 <br>
+### Division 3
+* Co-ordinator: Jim Hanifin, Allen ‭ 0863292118‬
+* 20 mins per half 
+* 13 aside
+* Semi-finals: 20th-24th May
+* Final: May 28th/29th
 
 |Division 3A | Division 3B|
 |---------------|----------------|
@@ -46,6 +59,12 @@ recaptchacontact:
 
 <br>
 <br>
+### Division 4
+* Co-ordinator: Seamus Hanifin, Kilcullen 0851262004
+* 20 mins per half 
+* 11 aside
+* Semi-finals: 20th-24th May
+* Final: May 28th/29th
 
 |Division 4A |Division 4B|
 |---------------|---------------|
@@ -58,6 +77,13 @@ recaptchacontact:
 
 <br>
 <br>
+### Division 5
+* Co-ordinator: Shane Power, Kilcullen 0861621047
+* 20 mins per half 
+* 11 aside
+* Semi-finals: 20th-24th May
+* Final: May 28th/29th
+
 
 |Division 5A|Division 5B|
 |---------------|---------------|
