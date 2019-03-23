@@ -45,7 +45,7 @@ Division 3 Co-ordinator: Eugene Riordan 087 2361789
 <br>
 <br>
 
-Division 4 Co-ordinator: Ann Marie Dunning
+Division 4 Co-ordinator: Ann Marie Dunning, Scoil Mhuire, Ballymany
 
 | Division 4A | Division 4B |
 |-------------|-------------|
@@ -57,7 +57,7 @@ Division 4 Co-ordinator: Ann Marie Dunning
 <br>
 <br>
 
-Division 5 Co-ordinator: Eoin Stakelum
+Division 5 Co-ordinator: Eoin Stakelum, Kildare 0872408993
 
 |Division 5 |
 |-----------|
