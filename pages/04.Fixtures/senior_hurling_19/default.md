@@ -267,7 +267,7 @@ recaptchacontact:
 </tr>
 <tr>
 <td>
-<p>E Bye</p>
+<p>E Suncroft</p>
 </td>
 <td>
 <p>E Scoil Naomh Uilig</p>
@@ -278,7 +278,7 @@ recaptchacontact:
 <p>F Bye</p>
 </td>
 <td>
-<p>F Suncroft</p>
+<p>F Bye</p>
 </td>
 </tr>
 </tbody>
