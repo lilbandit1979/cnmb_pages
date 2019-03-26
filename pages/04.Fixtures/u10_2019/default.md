@@ -19,7 +19,7 @@ recaptchacontact:
 
 | Division 1A  | Division 1B |
 |--------------|-------------|
-| Co-ord: Barry Dempsey | Co-ord: Cathal Carr|
+| Co-ord: Barry Dempsey 0851065070 | Co-ord: Cathal Carr 0863768267|
 |Ballymany    | Clane       |
 | Kildare      | Maynooth    |
 | Monasterevin | Naas        |
@@ -30,7 +30,7 @@ recaptchacontact:
 
 | Division 2A  | Division 2B |
 |--------------|-------------|
-|Co-ord: Shane Power | Co-ord: Seán Corkery | 
+|Co-ord: Shane Power  0861621047‬ | Co-ord: Seán Corkery 0872872174| 
 |Kilcullen    | Caragh      |
 | Sallins      | Conleths    |
 | Scoil Uí Riada | Patricians|
@@ -41,7 +41,7 @@ recaptchacontact:
 
 | Division 3A  | Division 3B |
 |--------------|-------------|
-| Co-ord: Robbie Jameson | Co-ord: Pat O'Sullivan|
+| Co-ord: Robbie Jameson 0872273447‬ | Co-ord: Pat O'Sullivan 0879206360|
 |Rathmore     | Prosperous  |
 | Milltown      | G.S. Cill Dara|
 | Crookstown | G.S. Uí Fhiach|
@@ -52,7 +52,7 @@ recaptchacontact:
 
 | Division 4A  | Division 4B |
 |--------------|-------------|
-|Co-ord: Eugene Riordan | Co-ord: Ciarán Costello|
+|Co-ord: Eugene Riordan 0872361789‬ | Co-ord: Ciarán Costello 0868849825|
 | Rathcoffey   | Scoil Mochua|
 | Straffan      | Ardclough    |
 | Allenwood | Ballymore        |
@@ -63,7 +63,7 @@ recaptchacontact:
 
 | Division 5A  | Division 5B |
 |--------------|-------------|
-| Co-ord: Seán O Dea | Co-ord: Ed Kirwin| 
+| Co-ord: Seán O Dea 0866077600| Co-ord: Ed Kirwin 0863014180|  
 | Allen| Kilmeade|
 | Clogherinkoe| Grange|
 | Derrinturn | Kilberry|
@@ -74,7 +74,7 @@ recaptchacontact:
 
 | Division 6A  | Division 6B |
 |--------------|-------------|
-| Co-ord: T.B.C. Robertstown   | Co-ord: T.B.C. Johnstownbridge|
+| Co-ord: T.B.C. Robertstown William O'Donoghue 0876616545  | Co-ord: Julie Derivan Johnstownbridge 0860702390|
 | Robertstown      | Johnstownbridge    |
 | Ballysax | Kilshanroe        |
 | Broadford| Killina    |
@@ -87,7 +87,7 @@ recaptchacontact:
 
 | Division 7A  | Division 7B |
 |--------------|-------------|
-| Co-ord: Kilcullen | Co-ord: Aoife O'Riordan(Ballymany)
+| Co-ord: Kilcullen | Co-ord: Aoife O'Riordan(Ballymany 0857173033)
 | Moone | Ballymany Jnr. |
 | Suncroft | Curragh Boys|
 | Ballyshannon | St. Pats. Newbridge |
