@@ -65,11 +65,13 @@ Division 5 Co-ordinator: Eoin Stakelum, Kildare 0872408993
 |B St. Patrick's Newbridge|
 |C Monasterevin|
 |D Kildare|
+|E Patricians Newbridge|
+|F Bye|
 
 <br>
 <br>
 
-## Fixtures 
+## Fixtures Division 1,2,3,4:
 
 |Date: 29th April | Date: 6th May | Date: 13th May|
 |-----------------|---------------|---------------|
@@ -78,7 +80,9 @@ Division 5 Co-ordinator: Eoin Stakelum, Kildare 0872408993
 
 
 ### Division 5 Fixtures:
-T.B.C.
+
 |Date: 8th April | Date: 29th May | Date: 6th May | Date:  13th May | Date: 20th May|
 | ----------------|---------------|---------------|--------------|----------------|
-|
+| A vs. B | C vs. A | E vs. C| D vs. B | F vs. A |
+| C vs. D | B vs. E | A vs. D | C vs. F | E vs. D |
+| E vs. F | D vs. F | F vs. B | A vs. E | B vs. C |
