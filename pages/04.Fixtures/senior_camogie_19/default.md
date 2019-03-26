@@ -23,6 +23,7 @@ Div 1 Co-ordinator: Sarah Losty 087 7954156
 <br>
 
 Division 2 Co-ordinator: Robbie Jameson 087 2273447
+
 | Division 2A | Division 2B |
 |--------------|-------------|
 |A Scoil Uí Riada |A Sallins|
