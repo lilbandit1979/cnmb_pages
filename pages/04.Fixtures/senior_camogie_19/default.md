@@ -76,4 +76,9 @@ Division 5 Co-ordinator: Eoin Stakelum, Kildare 0872408993
 | B vs. A | A vs. D | A vs. C |
 |D vs. C | C vs. B | B vs. D |
 
- 
+
+### Division 5 Fixtures:
+T.B.C.
+|Date: 8th April | Date: 29th May | Date: 6th May | Date:  13th May | Date: 20th May|
+| ----------------|---------------|---------------|--------------|----------------|
+|
