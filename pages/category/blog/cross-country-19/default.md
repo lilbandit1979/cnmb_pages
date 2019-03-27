@@ -17,6 +17,7 @@ recaptchacontact:
 ## Registration:
 
 * Open to all primary schools!
+* Registration is based on numbers of boys/girls 3rd-6th in your school.
 * Strictly 2 teams per race.
 * **Registration closing date:** **Monday 1st April 6pm**.
 * Late entries not accepted. 
