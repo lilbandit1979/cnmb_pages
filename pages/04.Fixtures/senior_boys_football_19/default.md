@@ -398,7 +398,7 @@ recaptchacontact:
 | Round 3 | " | Scoil Bhride Lackagh v Halverstown NS |
 | Round 3 | " | Moone v Ballyshannon National School  |
 | Round 4 | Tue, 30th Apr '19 | Ballyshannon National School  v St. Patrick's N.S. Newbridge |
-| Round 4 | " | Scoil Bhríde Lackagh v Moone |
+| Round 4 | " | Scoil Bhríde Lackagh v Moone (Fixture edited to correct number of home games for Lackagh) |
 | Round 4 | " | Halverstown NS v Gaelscoil Athy |
 | Round 5 | Tue, 7th May '19 | St. Patrick's N.S. Newbridge v Halverstown NS |
 | Round 5 | " | Moone v Gaelscoil Athy |
