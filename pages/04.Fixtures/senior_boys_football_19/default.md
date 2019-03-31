@@ -321,7 +321,7 @@ recaptchacontact:
 ### Group 6A
 ### Co-ordinator: Stephen O Brien, St. Conleth and Marys Newbridge 0876479157
 **Teams (4)**
-**Senior Boys Football Division 6: 20 mins per half, 9 aside.
+**Senior Boys Football Division 6: 20 mins per half, 11 aside.
 
 * Churchtown NS
 * St. Brigid's N.S. Ballysax
@@ -347,7 +347,7 @@ recaptchacontact:
 ### Group 6B
 
 **Teams (4)**
-**Senior Boys Football Division 6: 20 mins per half, 9 aside.
+**Senior Boys Football Division 6: 20 mins per half, 11 aside.
 
 * Scoil Mhichíl Naofa Athy
 * Suncroft NS
