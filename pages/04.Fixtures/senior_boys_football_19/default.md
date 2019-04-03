@@ -177,10 +177,10 @@ recaptchacontact:
 | Round 3 | " | St. Laurence`s N.S. Crookstown v Dunlavin |
 | Round 3 | " | Scoil Bhríde Milltown v Patrician Primary School |
 | Round 4 | Tue, 30th Apr '19 | Scoil Bhríde Milltown v St. Peter's NS Monasterevin |
-| Round 4 | " | St. Laurence`s N.S. Crookstown v Patrician Primary School |
+| Round 4 | " | Patrician Primary School v St. Laurence`s N.S. Crookstown |
 | Round 4 | " | Scoil Diarmada Castledermot v Dunlavin |
 | Round 5 | Tue, 7th May '19 | St. Peter's NS Monasterevin v Dunlavin |
-| Round 5 | " | Scoil Diarmada Castledermot v Patrician Primary School |
+| Round 5 | " | Patrician Primary School v Scoil Diarmada Castledermot |
 | Round 5 | " | St. Laurence`s N.S. Crookstown v Scoil Bhríde Milltown |
 
 
