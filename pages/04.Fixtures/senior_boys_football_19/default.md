@@ -14,7 +14,7 @@ recaptchacontact:
 
 ## Senior Boys Football / Division 1
 ### Group 1A
-### Co-ordinator: Paul Dunning Ballymany 0857040603
+### Co-ordinator: Victor Logan Ballymany 0879949978
 **Teams (4)**
 **Boys Senior Football Division 1: 25 mins per half, 15 aside.
 * Caragh NS
