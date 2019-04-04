@@ -8,7 +8,7 @@ recaptchacontact:
 ###Division 1
 * 25 mins per half 
 * 15 aside
-* Co-ordinator: Stephanie Bergin, Ballymany: 0851452861
+* Co-ordinator: Eileen O Keefe, Kilcullen: 0877528225
 * Semi-finals: 20th-24th May
 * Final: May 28th/29th
 
