@@ -1,5 +1,7 @@
 ---
 title: 'A Page with an Example Form'
+recaptchacontact:
+    enabled: true
 form:
     name: contact-form
     fields:
