@@ -2,6 +2,8 @@
 title: 'A Page with an Example Form'
 recaptchacontact:
     enabled: true
+    recipient: stephenobrien1979@gmail.com
+    subject: test1
 form:
     name: contact-form
     fields:
