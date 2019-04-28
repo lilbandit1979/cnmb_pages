@@ -1,7 +1,7 @@
 ---
 title: 'Senior Boys Results'
 media_order: 'share_sheet3.jpeg,share_sheet2.jpeg,share_sheet1.jpeg'
-published: false
+published: true
 recaptchacontact:
     enabled: false
 ---
