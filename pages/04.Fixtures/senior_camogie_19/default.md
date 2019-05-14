@@ -46,7 +46,7 @@ Division 3 Co-ordinator: Eugene Riordan 0872361789
 <br>
 <br>
 
-Division 4 Co-ordinator: Ann Marie Dunning, Scoil Mhuire, Ballymany
+Division 4 Co-ordinator: Ann Marie Dunning 0879341311, Scoil Mhuire, Ballymany
 
 | Division 4A | Division 4B |
 |-------------|-------------|
