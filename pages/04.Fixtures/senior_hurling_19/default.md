@@ -65,7 +65,7 @@ recaptchacontact:
 </tbody>
 </table>
 <p>Division 2: 25 mins per half. 15 players aside </p>
-<p>Co-ordinator: Shane Walsh 086 3927752</p>
+<p>Co-ordinator: Shane Walsh 0879737418</p>
 <table>
 <tbody>
 <tr>
