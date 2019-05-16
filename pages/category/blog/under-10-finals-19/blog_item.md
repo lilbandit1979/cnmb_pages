@@ -1,32 +1,28 @@
 ---
 title: 'Under 10 Finals 19'
-published: false
+published: true
 recaptchacontact:
     enabled: false
 ---
 
-# Under 10 Finals 19 #
+# Cumann na mBunscol Kildare Under 10 Finals 2019 #
 
-## Venue: Moorefield GAA
-## Date: 23rd May 19
+## Date: 23rd May
 
-### Fixtures:
-
+## Venue: Moorefield GAA Club
 
 # What to bring:#
 * 3 x team sheets with **names, matching jersey numbers** of children participating.
-* Names of children **must correspond** to registered players submitted during 2018 registration.
-* It is up to every school to ensure that players are the correct age. 
+* Names of children **must correspond** to registered players submitted during 2019 registration.
+* It is up to every school to ensure that players are the correct age. Please check this!
 * Jersey numbers **must match** team sheets for Cumann admin and media purposes.
 
-### Fixtures:
- Time | Pitch 1 | Pitch 2 | 
- --- | --- | --- |
- 2:00 | Div 2 Boys Kilcullen vs. Caragh~~/Monasterevin~~ | Div 2 Girls Mercy C. Naas/~~St. Conleths~~ vs. ~~Scoil Uí Riada/~~Milltown | Div 6 Boys N/Ed. Toget./~~St. Pats Celbridge~~ vs. ~~Ticknevin~~/St. Pats Newb. 
- 3:00 | Div. 1 Girls ~~Kilcullen~~/Caragh vs. Sallins~~/Athy/Kildare~~ | Div. 3 Boys Prosperous vs. ~~Sc. Bhríde/~~Milltown | Div. 4 Boys  Allenwood vs. Tmilehouse
-4:00 | Div. 1 Boys Sallins vs. Clane/~~Kildare~~ | Div. 5 Boys ~~Coill Dubh~~/Ballysax vs. Robertstown~~/Mhichil Naofa Athy~~ | Div. 3 Girls Cappagh~~/TMH~~ vs. ~~Dunlavin/Rathmore/~~Rathcoffey 
-5:00 | B final Naas vs. North Winners | Div. 4 Girls Ballysax/~~Allen~~ vs. ~~Robertstown/~~Newbridge. Ed. Toget. | Div. 5 Girls JTB/~~Moone~~ vs. Churchtown/Kilshanroe
-
-
+### Fixtures: Wednesday 17th October
+Time | Pitch 1 | Pitch 2 
+--- | --- | ---
+2:30pm | Div 1: Ballymany/Maynooth vs. Clane/Monasterevin | Div 2: Curragh/Sallins vs. Athgarvan 
+3:30pm | Div. 3: Castledermot/G.S. Uí Fhiach vs. Milltown/Scoil Bhríde Naas | Div. 4: Ardclough/Rathcoffey vs. Ballymore/Straffan 
+4:20pm | Div. 5: Winner A/Kilmead vs. Runnerup A/Grange | Div. 6: Cooleragh vs. Kilshanroe/Ballysax 
+5:00pm | N/A | Div. 7 Ballymany Jnr./Lackagh vs. Cadamstown/Ballyshannon
 
 #### Best of luck to all schools!
