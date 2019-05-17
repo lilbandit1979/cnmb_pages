@@ -23,7 +23,7 @@ recaptchacontact:
 ### Fixtures: Wednesday 17th October
 Time | Pitch 1 | Pitch 2 
 --- | --- | ---
-2:30pm | Div 1: Ballymany/Maynooth vs. Clane/Monasterevin | Div 2: Curragh/Sallins vs. Athgarvan 
+2:30pm | Div 1: Ballymany/Maynooth vs. Clane/Monasterevin | Div 2: Caragh/Sallins vs. Athgarvan 
 3:30pm | Div. 3: Castledermot/G.S. Uí Fhiach vs. Milltown/Scoil Bhríde Naas | Div. 4: Ardclough/Rathcoffey vs. Ballymore/Straffan 
 4:20pm | Div. 5: Winner A/Kilmead vs. Runnerup A/Grange | Div. 6: Cooleragh vs. Kilshanroe/Ballysax 
 5:00pm | N/A | Div. 7 Ballymany Jnr./Lackagh vs. Cadamstown/Ballyshannon
