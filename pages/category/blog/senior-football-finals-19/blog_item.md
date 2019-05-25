@@ -30,7 +30,7 @@ Time | Pitch 1 | Pitch 2
 ### Fixtures: Wednesday 29th May
 Time | Pitch 1 | Pitch 2 
 --- | --- | ---
-1:00om | Div. 2 Girls Football: Rathmore vs. Kill | N/A |
+1:00pm | Div. 2 Girls Football: Rathmore vs. Kill | N/A |
 2:00pm | Div. 4 Girls Football: Robertstown/St. Pats vs. Scoil Mochua/Newbridge Ed. Together | Div. 3 Boys Football: Scoil Bhríde Naas vs. Castledermot
 3:00pm | Div. 2 Boys Football: Kilcullen vs. St. Conleths/Scoil Uí Riada | Div. 3 Girls Football: Kilmead/Straffan vs. Twomilehouose/Rathcoffey 
 4:00pm | Div. 4 Boys Football: Rathcoffey/Kilmead vs. Nurney/Derrinturn | Div. 1 Boys Football: Maynooth/Naas vs. Clane/Ballymany
