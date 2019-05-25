@@ -24,7 +24,7 @@ Time | Pitch 1 | Pitch 2
 --- | --- | ---
 1:30pm: | B Final Naas vs. Winner North Group | N/A 
 2:30pm: | Div. 5 Boys Football: Kilashee vs. Cooleragh/Athgarvan | Div. 1 Girls Football: Sallins/Patricians vs. Kilcullen/Scoil Uí Fhiach/Caragh
-3:30pm: | Div. 6 Boys Football: Ballysax vs. Churchtown | Div. 2 Girls Football: Crookstown/Rathmore vs. Kill/Scoil Bhríde 
+3:30pm: | Div. 6 Boys Football: Ballysax vs. Churchtown | N/A |
 4:30pm: | Div. 7 Boys Football: St. Pats Newbridge/Ticknevin vs. St. Pats Celbridge/G.S. Athy | Div. 5 Girls Football: Ballymore/JTB vs. Kilshanroe/Moone
 
 ### Fixtures: Wednesday 29th May
