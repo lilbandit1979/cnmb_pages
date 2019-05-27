@@ -32,8 +32,8 @@ Time | Pitch 1 | Pitch 2
 --- | --- | ---
 1:00pm | Div. 2 Girls Football: Rathmore vs. Kill | N/A |
 2:00pm | Div. 4 Girls Football: Robertstown vs Newbridge Ed. Together | Div. 3 Boys Football: Scoil Bhríde Naas vs. Allenwood
-3:00pm | Div. 2 Boys Football: Kilcullen vs. St. Conleths | Div. 3 Girls Football: Kilmead/Straffan vs. Twomilehouose/Rathcoffey 
-4:00pm | Div. 4 Boys Football: Rathcoffey/Kilmead vs. Nurney | Div. 1 Boys Football: Naas vs. Clane
+3:00pm | Div. 2 Boys Football: Kilcullen vs. St. Conleths | Div. 3 Girls Football: Kilmead/Straffan vs. Rathcoffey 
+4:00pm | Div. 4 Boys Football: Rathcoffey vs. Nurney | Div. 1 Boys Football: Naas vs. Clane
 
 
 
