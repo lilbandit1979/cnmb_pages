@@ -22,7 +22,7 @@ recaptchacontact:
 ### Fixtures: Tuesday 28th May
 Time | Pitch 1 | Pitch 2 
 --- | --- | ---
-1:30pm: | B Final Naas vs. Winner North Group | N/A 
+1:30pm: | B Final Naas vs. Kildare
 2:30pm: | Div. 5 Boys Football: Kilashee vs. Cooleragh/Athgarvan | Div. 1 Girls Football: Sallins/Patricians vs. Kilcullen/Scoil Uí Fhiach/Caragh
 3:30pm: | Div. 6 Boys Football: Ballysax vs. Churchtown | N/A |
 4:30pm: | Div. 7 Boys Football: St. Pats Newbridge/Ticknevin vs. St. Pats Celbridge/G.S. Athy | Div. 5 Girls Football: Ballymore/JTB vs. Kilshanroe/Moone
@@ -31,9 +31,9 @@ Time | Pitch 1 | Pitch 2
 Time | Pitch 1 | Pitch 2 
 --- | --- | ---
 1:00pm | Div. 2 Girls Football: Rathmore vs. Kill | N/A |
-2:00pm | Div. 4 Girls Football: Robertstown/St. Pats vs. Scoil Mochua/Newbridge Ed. Together | Div. 3 Boys Football: Scoil Bhríde Naas vs. Castledermot
+2:00pm | Div. 4 Girls Football: Robertstown vs Newbridge Ed. Together | Div. 3 Boys Football: Scoil Bhríde Naas vs. Allenwood
 3:00pm | Div. 2 Boys Football: Kilcullen vs. St. Conleths/Scoil Uí Riada | Div. 3 Girls Football: Kilmead/Straffan vs. Twomilehouose/Rathcoffey 
-4:00pm | Div. 4 Boys Football: Rathcoffey/Kilmead vs. Nurney | Div. 1 Boys Football: Maynooth/Naas vs. Clane/Ballymany
+4:00pm | Div. 4 Boys Football: Rathcoffey/Kilmead vs. Nurney | Div. 1 Boys Football: Naas vs. Clane
 
 
 
