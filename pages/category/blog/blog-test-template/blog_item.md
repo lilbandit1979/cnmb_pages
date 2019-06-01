@@ -1,5 +1,6 @@
 ---
 title: 'Blog test template'
+published: false
 taxonomy:
     category:
         - Blog
