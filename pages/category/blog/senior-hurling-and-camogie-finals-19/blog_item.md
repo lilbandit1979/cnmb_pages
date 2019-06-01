@@ -14,7 +14,7 @@ recaptchacontact:
 
 ### Check: ###
 * 3 x teamsheets corressponding to jersey numbers for media and Cumann records.
-* Arrive 15 mins before your final to ensure smooth running of fixtures.
+* Please arrive 15 mins before your final to ensure smooth running of fixtures.
 
 ### Pitch 1:
 
