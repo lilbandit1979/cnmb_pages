@@ -23,18 +23,18 @@ Time | Fixture:
  1:00pm: | Division 1 Hurling Caragh vs. Naas 
  2:00pm: | Division 3 Camogie Rathcoffey vs. G.S. Nás
  3:00pm: | Division 2 Hurling G.S Nás/Scoil Uí Riada vs. G.S. Uí Fhiach/Twomilehouse 
- 4:00pm: | Division 3 Hurling Rathangan/G.S. Chill Dara vs. Kill/Dunlavin
+ 4:00pm: | Division 3 Hurling G.S. Chill Dara vs. Kill
 ### Pitch 2:
 
 Time | Fixture:
 --- | --- 
 2:00: | Division 1 Camogie Clane vs. Naas
-3:00: | Division 4 Camogie Kilcullen/Cappagh vs. Clogherinkoe/Kilmead
-4:00: | Division 5 Hurling Rathcoffey vs. Clogherinkoe/Kilmead
+3:00: | Division 4 Camogie Kilcullen vs. Kilmead
+4:00: | Division 5 Hurling Rathcoffey vs. Clogherinkoe
 ### Pitch 3:
 
 Time | Fixture:
 --- | --- 
-2:00: | Division 2 Camogie Sallins/ ___ vs. Rathmore/___
-3:00: | Division 4 Hurling Crookstown vs. Ballymany/Kildare
+2:00: | Division 2 Camogie Sallins/Scoil Ui Riada vs. Straffan
+3:00: | Division 4 Hurling Crookstown vs. Ballymany
 4:00: | Division 5 Camogie St. Pats Newbridge vs. Kildare/Paticians Newbridge
