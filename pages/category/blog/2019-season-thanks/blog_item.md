@@ -1,5 +1,8 @@
 ---
 title: '2019 Season Thanks'
+taxonomy:
+    category:
+        - Blog
 recaptchacontact:
     enabled: false
 ---
