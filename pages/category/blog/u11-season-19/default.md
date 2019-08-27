@@ -14,6 +14,6 @@ recaptchacontact:
 
 ### Useful Information: ###
 
-* Games begin on 11th September (Girls Football).
-* Fixtures available on our [Fixtures Page](http://www.cumannnambunscolchilldara.com/fixtures)
+* Fixtures will be available on our [Fixtures Page](http://www.cumannnambunscolchilldara.com/fixtures) next week.
+* Pleaser check back regularly over the coming weeks to stay up to date.
 * Please forward your result to divisional co-ordinators. 
