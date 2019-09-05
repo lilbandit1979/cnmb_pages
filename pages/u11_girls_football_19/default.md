@@ -52,8 +52,9 @@ recaptchacontact:
 
 <br>
 <br>
+
 |Division 5A| Division 5B|
-|---------------|---------------|
+|---------------|----------------|
 |Co-ord:|
 |A Cooleragh| A Kilashee|
 |B JTB | B Scoil Na Naomh Uilig Newbridge|
@@ -62,6 +63,7 @@ recaptchacontact:
 
 <br>
 <br>
+
 |Division 6A| Division 6B|
 |---------------|----------------|
 |Co-ord:|
