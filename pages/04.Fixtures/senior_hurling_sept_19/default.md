@@ -12,7 +12,8 @@ recaptchacontact:
 * Semi-Finalists: (Unless stated otherwise)
 	* Winner Group A plays Runner-up Group B
 	* Winner Group B plays Runner-up Group A
-* Finals:  
+* Semi-Finals:7th-11th October
+* Finals 15th/17th October  
 
 ###Division 1
 
