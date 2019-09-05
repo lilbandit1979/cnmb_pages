@@ -48,7 +48,7 @@ recaptchacontact:
 <div class="g-block box-blue size-33-3">
 <div class="g-content">
 <h3 class="g-title">Find a Qualified Referee</h3>
-<p><strong>Referees 2017</strong> Only use referees from our updated 2017 referees list.</p>
+<p><strong>Referees 2019</strong> Only use referees from our updated 2019 referees list.</p>
 <a class="button" href="http://www.cumannnambunscolchilldara.com/refereetest">Read More</a>
 </div>
 </div>
