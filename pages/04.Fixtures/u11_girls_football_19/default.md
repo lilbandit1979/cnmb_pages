@@ -5,6 +5,18 @@ recaptchacontact:
 ---
 
 ##U11 Girls Football 2019
+<p>Girls Under 11 Football 2019: </p>
+<p>Please note:</p>
+<p>A teacher must be present at all games.</p>
+<p>Use qualified referees from our 2019 booklet</p>
+<p>Contact divisional co-ordinators with all queries.</p>
+<p>Division 1 and 2: 20 mins per half, 15 players aside.</p>
+<p>Division 3 and 4: 20 mins per half, 13 players aside.</p>
+<p>Division 5: 15 mins per half, 11 players aside.</p>
+<p>Semi-Finals: 7th-11th October</p>
+<p>Finals: 15th/17th October 2019</p>
+<br>
+<br>
 ###Division 1
 * 25 mins per half 
 * 15 aside
