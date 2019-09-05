@@ -81,3 +81,42 @@ recaptchacontact:
 |B St. Pats Newbridge | B Castledermot |
 |C Ed. Together |C Ballymore |
 |D Robertstown |D Monasterevin |
+
+### Fixtures:
+<table>
+<tbody>
+<tr>
+<td>
+<p>12th September</p>
+</td>
+<td>
+<p>19th September</p>
+</td>
+<td>
+<p>26th September</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>B vs. A</p>
+</td>
+<td>
+<p>A vs. C</p>
+</td>
+<td>
+<p>A vs. D</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>D vs. C </p>
+</td>
+<td>
+<p>B vs. D </p>
+</td>
+<td>
+<p>C vs. B</p>
+</td>
+</tr>
+</tbody>
+</table>
