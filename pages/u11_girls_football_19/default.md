@@ -63,12 +63,15 @@ recaptchacontact:
 <br>
 <br>
 |Division 6A| Division 6B|
-|---------------|---------------|
+|---------------|----------------|
 |Co-ord:|
 |A St. Pats Newbridge | A Ballymore |
 |B Allen | B Moone |
 |C Robertstown |C Kilmead |
-|D G.S. Mhic Aodha| DBallyshannon|
+|D G.S. Mhic Aodha| D Ballyshannon|
+
+<br>
+<br>
 
 |Date: |Date: | Date: |
 |--------|--------|--------|
