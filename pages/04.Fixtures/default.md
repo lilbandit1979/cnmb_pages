@@ -42,7 +42,7 @@ recaptchacontact:
 <div class="g-content">
 <h3 class="g-title">Under 11 Girls Football</h3>
 <p><strong>Fixtures 2019</strong> 2019 Fixtures now online</p>
-<a class="button" href="http://www.cumannnambunscolchilldara.com/admin/preview/fixtures/u11_girls_football_19">Read More</a>
+<a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/u11_girls_football_19">Read More</a>
 </div>
 </div>
 <div class="g-block box-blue size-33-3">
@@ -73,7 +73,7 @@ recaptchacontact:
 <div class="g-content">
 <h3 class="g-title">Sen. Hurling Sept 19</h3>
 <p><strong>Fixtures 2019</strong> Only use referees from our updated 2019 referees list.</p>
-<a class="button" href="http://www.cumannnambunscolchilldara.com/admin/preview/fixtures/senior_hurling_sept_19">Read More</a>
+<a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/senior_hurling_sept_19">Read More</a>
 </div>
 </div>
 
