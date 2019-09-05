@@ -78,7 +78,7 @@ recaptchacontact:
 
 |Division 6A| Division 6B|
 |---------------|----------------|
-|Co-ord:|
+|Co-ord:| TBC |
 |A St. Pats Newbridge | A Ballymore |
 |B Allen | B Moone |
 |C Robertstown |C Kilmead |
