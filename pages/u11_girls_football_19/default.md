@@ -59,7 +59,7 @@ recaptchacontact:
 |A Cooleragh| A Kilashee |
 |B JTB | B Scoil Na Naomh Uilig Newbridge |
 |C Derrinturn | C Athgarvan |
-|D Broadford| |D Newbridge Ed. |
+|D Broadford | |D Newbridge Ed. |
 
 <br>
 <br>
