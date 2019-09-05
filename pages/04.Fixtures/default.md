@@ -41,8 +41,8 @@ recaptchacontact:
 <div class="g-block box-red size-33-3">
 <div class="g-content">
 <h3 class="g-title">Under 11 Girls Football</h3>
-<p><strong>Fixtures 2018</strong> 2018 Fixtures now online</p>
-<a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/under-11-girls-football-18">Read More</a>
+<p><strong>Fixtures 2019</strong> 2019 Fixtures now online</p>
+<a class="button" href="http://www.cumannnambunscolchilldara.com/admin/preview/u11_girls_football_19">Read More</a>
 </div>
 </div>
 <div class="g-block box-blue size-33-3">
