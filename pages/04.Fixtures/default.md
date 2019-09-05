@@ -20,7 +20,7 @@ recaptchacontact:
 <div class="g-block box1 size-33-3">
 <div class="g-content">
 <h3 class="g-title">Under 11 Boys Football</h3>
-<p><strong>Fixtures 2019 </strong>2019 Fixtures updated. See below..</p>
+<p><strong>Fixtures 2019 </strong>2019 Fixtures updated. See below for details.</p>
 <a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/u11-boys-football-19">Read More</a></div>
 </div>
 <div class="g-block box1 size-33-3">
