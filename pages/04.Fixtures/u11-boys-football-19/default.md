@@ -19,6 +19,7 @@ Victor Logan (+353 87 994 9978)
 * Kill
 
 **Fixtures**
+
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Wed, 11th Sep '19 | Kill v Scoil Mhuire Senior |
@@ -35,6 +36,7 @@ Pat  Gallagher (+353 87 995 2729)
 
 
 **Teams (4)**
+
 * Rathangan
 * Kilcullen
 * St. Conleths Senior
@@ -67,6 +69,7 @@ Pat  Gallagher (+353 87 995 2729)
 * Caragh
 
 **Fixtures**
+
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Wed, 11th Sep '19 | Scoil Bhríde v Gaelscoil Uí Fhiaich |
@@ -94,6 +97,7 @@ Conor Dooley (+353 87 991 2272)
 * St. Peters BNS
 
 **Fixtures**
+
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Wed, 11th Sep '19 | Scoil Diarmada Castledermot v Scoil Bhríde Milltown |
@@ -120,6 +124,7 @@ Conor Dooley (+353 87 991 2272)
 * Rathmore
 
 **Fixtures**
+
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Wed, 11th Sep '19 | Gaelscoil Chill Dara v Gaelscoil Nás na Ríogh |
@@ -147,6 +152,7 @@ Stephen O Brien (+353 87 647 9157)
 * Scoil Mhuire Allenwood
 
 **Fixtures**
+
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Wed, 11th Sep '19 | Two Mile House v Scoil Nioclais Naofa |
@@ -173,6 +179,7 @@ Stephen O Brien (+353 87 647 9157)
 * Tiermohan NS Cappagh
 
 **Fixtures**
+
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Wed, 11th Sep '19 | St Josephs National School Kilcock v Tiermohan NS Cappagh |
@@ -200,6 +207,7 @@ John Merrins (+353 85 100 2281)
 * Scoil Bhríde Nurney
 
 **Fixtures**
+
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Wed, 11th Sep '19 | Scoil Íde Naofa v Scoil Bhríde Nurney |
@@ -226,6 +234,7 @@ John Merrins (+353 85 100 2281)
 * Straffan N.S.
 
 **Fixtures**
+
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Wed, 11th Sep '19 | Robertstown National School v St. Conleths NS |
@@ -253,6 +262,7 @@ Denis O Sullivan (+353 87 989 4439)
 * Allen NS
 
 **Fixtures**
+
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Wed, 11th Sep '19 | Scoil na Naomh Uilig v Allen NS |
@@ -278,6 +288,7 @@ Denis O Sullivan (+353 87 989 4439)
 * Cooleragh Scoil Naomh Mhuire Staplestown
 
 **Fixtures**
+
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Wed, 11th Sep '19 | Scoil San Treasa v St. Patrick's NS Johnstownbridge |
@@ -302,6 +313,7 @@ Róisín Byrne (+353 85 121 1457)
 * Suncroft NS
 
 **Fixtures**
+
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Wed, 11th Sep '19 | Newbridge Educate Together NS v Scoil Mhichíl Naofa |
@@ -328,6 +340,7 @@ Róisín Byrne (+353 85 121 1457)
 * Grange Scoil Naomh Lorcain 
 
 **Fixtures**
+
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Wed, 11th Sep '19 | SN Colmcill Naofa v Grange Scoil Naomh Lorcain  |
@@ -355,6 +368,7 @@ Stephen O Brien (+353 87 647 9157)
 * GS Mhic Aodha Kildare Town
 
 **Fixtures**
+
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Wed, 11th Sep '19 | St. Patrick's N.S. Newbridge v Kildare Town Educate Together NS |
@@ -381,6 +395,7 @@ Stephen O Brien (+353 87 647 9157)
 * Ticknevin
 
 **Fixtures**
+
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Wed, 11th Sep '19 | Killina N.S. v Broadford NS |
@@ -408,6 +423,7 @@ Victor Logan (+353 87 994 9978)
 * Clane
 
 **Fixtures**
+
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Wed, 11th Sep '19 | Maynooth BNS v Celbridge |
