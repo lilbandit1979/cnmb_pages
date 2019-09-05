@@ -23,7 +23,7 @@ recaptchacontact:
 
 | Division 1A  | Division 1B |
 |--------------|-------------|
-|Co-ord: |
+|Co-ord: | TBC |
 |A Caragh |A Scoil Ui Riada |
 |B Monasterevin| B Clane |
 |C Ballymany | C Kill |
@@ -34,7 +34,7 @@ recaptchacontact:
 
 |Division 2A | Division 2B |
 |---------------|----------------|
-|Co-ord: |
+|Co-ord: | TBC |
 |A St. Brigids Kildare | A Sallins |
 |B Patricians Newbridge | B Rathmore |
 |C Mhichil Naofa Athy |C Kilcock |
@@ -45,7 +45,7 @@ recaptchacontact:
 
 |Division 3A| Division 3B|
 |---------------|---------------|
-|Co-ord: |
+|Co-ord: | TBC| 
 |A Ballysax |A Milltown ||
 |B Scoil Phaidraig Athy |B Rathangan ||
 |C Crookstown|C St. Conleth and Marys Newbridge |
@@ -56,7 +56,7 @@ recaptchacontact:
 
 |Division 4A| Division 4B|
 |---------------|---------------|
-|Co-ord:|
+|Co-ord:| TBC|
 |A Ardclough |A Ballycane|
 |B Scoil Mochua | B G.S. Chill Dara |
 |C Straffan |C G.S. Nás |
@@ -67,7 +67,7 @@ recaptchacontact:
 
 |Division 5A | Division 5B |
 |---------------|----------------|
-|Co-ord:|
+|Co-ord:| TBC|
 |A Cooleragh| A Kilashee |
 |B JTB | B Scoil Na Naomh Uilig Newbridge |
 |C Derrinturn | C Athgarvan |
