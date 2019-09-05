@@ -47,18 +47,18 @@ Victor Logan (+353 87 994 9978)
 * Scoil Mhuire Senior
 * St Corban's BNS Naas
 * St Brigid's Primary School Kildare Town
-* Kill
+* Caragh
 
 **Fixtures**
 
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
-| Round 1 | Wed, 11th Sep '19 | Kill v Scoil Mhuire Senior |
+| Round 1 | Wed, 11th Sep '19 | Caragh v Scoil Mhuire Senior |
 | Round 1 | " | St Corban's BNS Naas v St Brigid's Primary School Kildare Town |
 | Round 2 | Wed, 18th Sep '19 | Scoil Mhuire Senior v St Brigid's Primary School Kildare Town |
-| Round 2 | " | St Corban's BNS Naas v Kill |
+| Round 2 | " | St Corban's BNS Naas v Caragh |
 | Round 3 | Wed, 25th Sep '19 | St Corban's BNS Naas v Scoil Mhuire Senior |
-| Round 3 | " | St Brigid's Primary School Kildare Town v Kill |
+| Round 3 | " | St Brigid's Primary School Kildare Town v Caragh |
 
 ## U11 Boys Football 19 / Division 2
 ### 2A
@@ -98,18 +98,18 @@ Pat  Gallagher (+353 87 995 2729)
 * Scoil Bhríde
 * Scoil Uí Riada
 * Gaelscoil Uí Fhiaich
-* Caragh
+* Kill
 
 **Fixtures**
 
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Wed, 11th Sep '19 | Scoil Bhríde v Gaelscoil Uí Fhiaich |
-| Round 1 | " | Caragh v Scoil Uí Riada |
-| Round 2 | Wed, 18th Sep '19 | Caragh v Scoil Bhríde |
+| Round 1 | " | Kill v Scoil Uí Riada |
+| Round 2 | Wed, 18th Sep '19 | Kill v Scoil Bhríde |
 | Round 2 | " | Scoil Uí Riada v Gaelscoil Uí Fhiaich |
 | Round 3 | Wed, 25th Sep '19 | Scoil Bhríde v Scoil Uí Riada |
-| Round 3 | " | Gaelscoil Uí Fhiaich v Caragh |
+| Round 3 | " | Gaelscoil Uí Fhiaich v Kill |
 
 
 
@@ -451,5 +451,6 @@ Stephen O Brien (+353 87 647 9157)
 
 
   
+
 
 
