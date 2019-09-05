@@ -75,7 +75,7 @@ recaptchacontact:
 <br>
 <br>
 
-|Date: |Date: | Date: |
+|Date:10th Sept. |Date: 17th Sept. | Date: 24th Sept. |
 |--------|--------|--------|
 |A vs. B | A vs. C| D vs A |
 |C vs. D | B vs. D | C vs. B |
