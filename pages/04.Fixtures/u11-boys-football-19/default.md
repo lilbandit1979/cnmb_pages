@@ -17,7 +17,6 @@ recaptchacontact:
 
 ## U11 Boys Football 19 / Division 1
 
-## U11 Boys Football 19 / Division 1
 ### 1A
 #### Coordinator:
 Victor Logan (+353 87 994 9978)
