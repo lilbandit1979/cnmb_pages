@@ -43,6 +43,7 @@ Pat  Gallagher (+353 87 995 2729)
 * Paidraig Naofa Athy
 
 **Fixtures**
+
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Wed, 11th Sep '19 | Rathangan v Kilcullen |
@@ -409,29 +410,6 @@ Stephen O Brien (+353 87 647 9157)
 
   
 
-
-## U11 Boys Football 19 / Division 1
-### 1A
-#### Coordinator:
-Victor Logan (+353 87 994 9978)
-
-
-**Teams (4)**
-* Maynooth BNS
-* Sallins
-* Celbridge
-* Clane
-
-**Fixtures**
-
-| Round | Date | Fixture |
-| ----- | ---- | ------- |
-| Round 1 | Wed, 11th Sep '19 | Maynooth BNS v Celbridge |
-| Round 1 | " | Clane v Sallins |
-| Round 2 | Wed, 18th Sep '19 | Clane v Maynooth BNS |
-| Round 2 | " | Celbridge v Sallins |
-| Round 3 | Wed, 25th Sep '19 | Sallins v Maynooth BNS |
-| Round 3 | " | Celbridge v Clane |
 
 
 
