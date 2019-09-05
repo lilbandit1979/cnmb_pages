@@ -53,11 +53,11 @@ recaptchacontact:
 <br>
 <br>
 
-|Division 5A| Division 5B|
+|Division 5A | Division 5B |
 |---------------|----------------|
 |Co-ord:|
-|A Cooleragh| A Kilashee|
-|B JTB | B Scoil Na Naomh Uilig Newbridge|
+|A Cooleragh| A Kilashee |
+|B JTB | B Scoil Na Naomh Uilig Newbridge |
 |C Derrinturn | C Athgarvan |
 |D Broadford| |D Newbridge Ed.|
 
