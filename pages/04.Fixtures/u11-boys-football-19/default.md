@@ -7,91 +7,77 @@ recaptchacontact:
 # Cumann na mBunscoil Cill Dara
 #### Autumn 2019
 
-<p>Remember: </p>
-<p>A teacher must be present at all games</p>
-<p>Div. 1-4: 13 aside </p>
-<p>Div. 5-6: 11 aside </p>
-<p>Div. 7-8: 9 aside </p>
-<p>Semi-Finals: 7th-11th October 2019</p>
-<p>Finals: 15th/17th October 2019 </p>
-
-## U11 Boys Football 19 / Division 1
-
+## U11 Boys 19 / Division 1
 ### 1A
 #### Coordinator:
 Victor Logan (+353 87 994 9978)
 
 
 **Teams (4)**
+* Scoil Phádraig
+* Scoil Na Mainistreach
 * Maynooth BNS
-* Sallins
-* Celbridge
-* Clane
+* St. Laurence's NS
 
 **Fixtures**
-
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
-| Round 1 | Wed, 11th Sep '19 | Maynooth BNS v Celbridge |
-| Round 1 | " | Clane v Sallins |
-| Round 2 | Wed, 18th Sep '19 | Clane v Maynooth BNS |
-| Round 2 | " | Celbridge v Sallins |
-| Round 3 | Wed, 25th Sep '19 | Sallins v Maynooth BNS |
-| Round 3 | " | Celbridge v Clane |
-
-### 1B
-#### Coordinator:
-Victor Logan (+353 87 994 9978)
-
-**Teams (4)**
-* Scoil Mhuire Senior
-* St Corban's BNS Naas
-* St Brigid's Primary School Kildare Town
-* Caragh
-
-**Fixtures**
-
-| Round | Date | Fixture |
-| ----- | ---- | ------- |
-| Round 1 | Wed, 11th Sep '19 | Caragh v Scoil Mhuire Senior |
-| Round 1 | " | St Corban's BNS Naas v St Brigid's Primary School Kildare Town |
-| Round 2 | Wed, 18th Sep '19 | Scoil Mhuire Senior v St Brigid's Primary School Kildare Town |
-| Round 2 | " | St Corban's BNS Naas v Caragh |
-| Round 3 | Wed, 25th Sep '19 | St Corban's BNS Naas v Scoil Mhuire Senior |
-| Round 3 | " | St Brigid's Primary School Kildare Town v Caragh |
-
-## U11 Boys Football 19 / Division 2
-### 2A
-#### Coordinator:
-Pat  Gallagher (+353 87 995 2729)
-
-
-**Teams (4)**
-
-* Rathangan
-* Kilcullen
-* St. Conleths Senior
-* Paidraig Naofa Athy
-
-**Fixtures**
-
-| Round | Date | Fixture |
-| ----- | ---- | ------- |
-| Round 1 | Wed, 11th Sep '19 | Rathangan v Kilcullen |
-| Round 1 | " | St. Conleths Senior v Paidraig Naofa Athy |
-| Round 2 | Wed, 18th Sep '19 | St. Conleths Senior v Rathangan |
-| Round 2 | " | Paidraig Naofa Athy v Kilcullen |
-| Round 3 | Wed, 25th Sep '19 | Rathangan v Paidraig Naofa Athy |
-| Round 3 | " | Kilcullen v St. Conleths Senior |
+| Round 1 | Wed, 11th Sep '19 | Scoil Phádraig v Scoil Na Mainistreach |
+| Round 1 | " | St. Laurence's NS v Maynooth BNS |
+| Round 2 | Wed, 18th Sep '19 | Scoil Phádraig v Maynooth BNS |
+| Round 2 | " | Scoil Na Mainistreach v St. Laurence's NS |
+| Round 3 | Wed, 25th Sep '19 | Scoil Phádraig v St. Laurence's NS |
+| Round 3 | " | Maynooth BNS v Scoil Na Mainistreach |
 
 
 
   
 
-## U11 Boys Football 19 / Division 2
+## U11 Boys 19 / Division 1
+### 1B
+#### Coordinator:
+Victor Logan (+353 87 994 9978)
+
+
+**Teams (4)**
+* Scoil Mhuire Senior
+* St Corban's BNS Naas
+* Caragh NS
+* St Brigid's Primary School Kildare Town
+
+**Fixtures**
+| Round | Date | Fixture |
+| ----- | ---- | ------- |
+
+
+
+  
+
+
+## U11 Boys 19 / Division 2
+### 2A
+#### Coordinator:
+Pat Gallagher (+353 87 995 2729)
+
+
+**Teams (4)**
+* Rathangan Boys
+* Kilcullen
+* St. Conleths Senior
+* Scoil Naomh Pádraig Athy
+
+**Fixtures**
+| Round | Date | Fixture |
+| ----- | ---- | ------- |
+
+
+
+  
+
+## U11 Boys 19 / Division 2
 ### 2B
 #### Coordinator:
-Pat  Gallagher (+353 87 995 2729)
+Pat Gallagher (+353 87 995 2729)
 
 
 **Teams (4)**
@@ -101,80 +87,88 @@ Pat  Gallagher (+353 87 995 2729)
 * Kill
 
 **Fixtures**
-
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Wed, 11th Sep '19 | Scoil Bhríde v Gaelscoil Uí Fhiaich |
 | Round 1 | " | Kill v Scoil Uí Riada |
-| Round 2 | Wed, 18th Sep '19 | Kill v Scoil Bhríde |
-| Round 2 | " | Scoil Uí Riada v Gaelscoil Uí Fhiaich |
-| Round 3 | Wed, 25th Sep '19 | Scoil Bhríde v Scoil Uí Riada |
-| Round 3 | " | Gaelscoil Uí Fhiaich v Kill |
+| Round 2 | Wed, 18th Sep '19 | Scoil Bhríde v Scoil Uí Riada |
+| Round 2 | " | Gaelscoil Uí Fhiaich v Kill |
+| Round 3 | Wed, 25th Sep '19 | Kill v Scoil Bhríde |
+| Round 3 | " | Scoil Uí Riada v Gaelscoil Uí Fhiaich |
 
 
 
   
 
 
-## U11 Boys Football 19 / Division 3
+## U11 Boys 19 / Division 3
 ### 3A
 #### Coordinator:
 Conor Dooley (+353 87 991 2272)
 
 
-**Teams (4)**
+**Teams (3)**
 * Scoil Diarmada Castledermot
 * St. Laurence`s N.S. Crookstown
-* Scoil Bhríde Milltown
 * St. Peters BNS
 
 **Fixtures**
-
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
-| Round 1 | Wed, 11th Sep '19 | Scoil Diarmada Castledermot v Scoil Bhríde Milltown |
-| Round 1 | " | St. Laurence`s N.S. Crookstown v St. Peters BNS |
-| Round 2 | Wed, 18th Sep '19 | St. Peters BNS v Scoil Diarmada Castledermot |
-| Round 2 | " | Scoil Bhríde Milltown v St. Laurence`s N.S. Crookstown |
-| Round 3 | Wed, 25th Sep '19 | Scoil Diarmada Castledermot v St. Laurence`s N.S. Crookstown |
-| Round 3 | " | Scoil Bhríde Milltown v St. Peters BNS |
 
 
 
   
 
-## U11 Boys Football 19 / Division 3
+## U11 Boys 19 / Division 3
 ### 3B
 #### Coordinator:
 Conor Dooley (+353 87 991 2272)
 
 
-**Teams (4)**
+**Teams (3)**
 * Gaelscoil Chill Dara
+* Scoil Bhríde Milltown
+* Patrician Primary School
+
+**Fixtures**
+| Round | Date | Fixture |
+| ----- | ---- | ------- |
+| Round 1 | Wed, 11th Sep '19 | Gaelscoil Chill Dara v Patrician Primary School |
+| Round 2 | Wed, 18th Sep '19 | Scoil Bhríde Milltown v Gaelscoil Chill Dara |
+| Round 3 | Wed, 25th Sep '19 | Patrician Primary School v Scoil Bhríde Milltown |
+
+
+
+  
+
+## U11 Boys 19 / Division 3
+### 3C
+#### Coordinator:
+Conor Dooley (+353 87 991 2272)
+
+
+**Teams (3)**
 * Scoil an Linbh Iosa
 * Gaelscoil Nás na Ríogh
 * Rathmore
 
 **Fixtures**
-
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
-| Round 1 | Wed, 11th Sep '19 | Gaelscoil Chill Dara v Gaelscoil Nás na Ríogh |
-| Round 1 | " | Rathmore v Scoil an Linbh Iosa |
-| Round 2 | Wed, 18th Sep '19 | Scoil an Linbh Iosa v Gaelscoil Chill Dara |
-| Round 2 | " | Rathmore v Gaelscoil Nás na Ríogh |
-| Round 3 | Wed, 25th Sep '19 | Gaelscoil Chill Dara v Rathmore |
-| Round 3 | " | Scoil an Linbh Iosa v Gaelscoil Nás na Ríogh |
+| Round 1 | Wed, 11th Sep '19 | Scoil an Linbh Iosa v Gaelscoil Nás na Ríogh |
+| Round 2 | Wed, 18th Sep '19 | Rathmore v Gaelscoil Nás na Ríogh |
+| Round 3 | Wed, 25th Sep '19 | Scoil an Linbh Iosa v Rathmore |
 
 
 
   
 
 
-## U11 Boys Football 19 / Division 4
+## U11 Boys 19 / Division 4
 ### 4A
 #### Coordinator:
-Stephen O Brien (+353 87 647 9157)
+Stephen  O Brien (+353 86 104 1922)
 
 
 **Teams (4)**
@@ -184,49 +178,47 @@ Stephen O Brien (+353 87 647 9157)
 * Scoil Mhuire Allenwood
 
 **Fixtures**
-
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
-| Round 1 | Wed, 11th Sep '19 | Two Mile House v Scoil Nioclais Naofa |
-| Round 1 | " | Kilberry N.S. v Scoil Mhuire Allenwood |
+| Round 1 | Wed, 11th Sep '19 | Two Mile House v Kilberry N.S. |
+| Round 1 | " | Scoil Mhuire Allenwood v Scoil Nioclais Naofa |
 | Round 2 | Wed, 18th Sep '19 | Scoil Mhuire Allenwood v Two Mile House |
 | Round 2 | " | Scoil Nioclais Naofa v Kilberry N.S. |
-| Round 3 | Wed, 25th Sep '19 | Two Mile House v Kilberry N.S. |
-| Round 3 | " | Scoil Mhuire Allenwood v Scoil Nioclais Naofa |
+| Round 3 | Wed, 25th Sep '19 | Two Mile House v Scoil Nioclais Naofa |
+| Round 3 | " | Kilberry N.S. v Scoil Mhuire Allenwood |
 
 
 
   
 
-## U11 Boys Football 19 / Division 4
+## U11 Boys 19 / Division 4
 ### 4B
 #### Coordinator:
-Stephen O Brien (+353 87 647 9157)
+Stephen  O Brien (+353 86 104 1922)
 
 
 **Teams (4)**
 * St Josephs National School Kilcock
 * Rathcoffey
-* Scoil Mochua
-* Tiermohan NS Cappagh
+* Tiermohan NS (we play under name of CAPPAGH as we amalgamate with Newtown NS)
+* ScoilMochua
 
 **Fixtures**
-
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
-| Round 1 | Wed, 11th Sep '19 | St Josephs National School Kilcock v Tiermohan NS Cappagh |
-| Round 1 | " | Rathcoffey v Scoil Mochua |
-| Round 2 | Wed, 18th Sep '19 | Rathcoffey v St Josephs National School Kilcock |
-| Round 2 | " | Tiermohan NS Cappagh v Scoil Mochua |
-| Round 3 | Wed, 25th Sep '19 | Scoil Mochua v St Josephs National School Kilcock |
-| Round 3 | " | Tiermohan NS Cappagh v Rathcoffey |
+| Round 1 | Wed, 11th Sep '19 | Rathcoffey v St Josephs National School Kilcock |
+| Round 1 | " | Tiermohan NS (we play under name of CAPPAGH as we amalgamate with Newtown NS) v ScoilMochua |
+| Round 2 | Wed, 18th Sep '19 | St Josephs National School Kilcock v Tiermohan NS (we play under name of CAPPAGH as we amalgamate with Newtown NS) |
+| Round 2 | " | Rathcoffey v ScoilMochua |
+| Round 3 | Wed, 25th Sep '19 | ScoilMochua v St Josephs National School Kilcock |
+| Round 3 | " | Tiermohan NS (we play under name of CAPPAGH as we amalgamate with Newtown NS) v Rathcoffey |
 
 
 
   
 
 
-## U11 Boys Football 19 / Division 5
+## U11 Boys 19 / Division 5
 ### 5A
 #### Coordinator:
 John Merrins (+353 85 100 2281)
@@ -234,12 +226,11 @@ John Merrins (+353 85 100 2281)
 
 **Teams (4)**
 * Scoil Íde Naofa
+* Scoil Bhríde Nurney
 * Scoil Bhríde Athgarvan
 * St. Brigid's N.S. Ballysax
-* Scoil Bhríde Nurney
 
 **Fixtures**
-
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Wed, 11th Sep '19 | Scoil Íde Naofa v Scoil Bhríde Nurney |
@@ -253,7 +244,7 @@ John Merrins (+353 85 100 2281)
 
   
 
-## U11 Boys Football 19 / Division 5
+## U11 Boys 19 / Division 5
 ### 5B
 #### Coordinator:
 John Merrins (+353 85 100 2281)
@@ -266,22 +257,21 @@ John Merrins (+353 85 100 2281)
 * Straffan N.S.
 
 **Fixtures**
-
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
-| Round 1 | Wed, 11th Sep '19 | Robertstown National School v St. Conleths NS |
-| Round 1 | " | St. Anne's N.S. Ardclough v Straffan N.S. |
-| Round 2 | Wed, 18th Sep '19 | Straffan N.S. v Robertstown National School |
-| Round 2 | " | St. Conleths NS v St. Anne's N.S. Ardclough |
-| Round 3 | Wed, 25th Sep '19 | Robertstown National School v St. Anne's N.S. Ardclough |
-| Round 3 | " | St. Conleths NS v Straffan N.S. |
+| Round 1 | Wed, 11th Sep '19 | Robertstown National School v St. Anne's N.S. Ardclough |
+| Round 1 | " | St. Conleths NS v Straffan N.S. |
+| Round 2 | Wed, 18th Sep '19 | Robertstown National School v St. Conleths NS |
+| Round 2 | " | St. Anne's N.S. Ardclough v Straffan N.S. |
+| Round 3 | Wed, 25th Sep '19 | Straffan N.S. v Robertstown National School |
+| Round 3 | " | St. Conleths NS v St. Anne's N.S. Ardclough |
 
 
 
   
 
 
-## U11 Boys Football 19 / Division 6
+## U11 Boys 19 / Division 6
 ### 6A
 #### Coordinator:
 Denis O Sullivan (+353 87 989 4439)
@@ -294,13 +284,12 @@ Denis O Sullivan (+353 87 989 4439)
 * Allen NS
 
 **Fixtures**
-
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
-| Round 1 | Wed, 11th Sep '19 | Scoil na Naomh Uilig v Allen NS |
-| Round 1 | " | Churchtown NS v Scoil Mhuire Ballymore Eustace |
-| Round 2 | Wed, 18th Sep '19 | Churchtown NS v Scoil na Naomh Uilig |
-| Round 2 | " | Scoil Mhuire Ballymore Eustace v Allen NS |
+| Round 1 | Wed, 11th Sep '19 | Churchtown NS v Scoil na Naomh Uilig |
+| Round 1 | " | Scoil Mhuire Ballymore Eustace v Allen NS |
+| Round 2 | Wed, 18th Sep '19 | Scoil na Naomh Uilig v Allen NS |
+| Round 2 | " | Churchtown NS v Scoil Mhuire Ballymore Eustace |
 | Round 3 | Wed, 25th Sep '19 | Scoil na Naomh Uilig v Scoil Mhuire Ballymore Eustace |
 | Round 3 | " | Allen NS v Churchtown NS |
 
@@ -308,149 +297,142 @@ Denis O Sullivan (+353 87 989 4439)
 
   
 
-## U11 Boys Football 19 / Division 6
+## U11 Boys 19 / Division 6
 ### 6B
 #### Coordinator:
 Denis O Sullivan (+353 87 989 4439)
 
 
-**Teams (3)**
+**Teams (4)**
+* Clocha Rince NS
 * Scoil San Treasa
 * St. Patrick's NS Johnstownbridge
-* Cooleragh Scoil Naomh Mhuire Staplestown
+* Cooleragh
 
 **Fixtures**
-
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
-| Round 1 | Wed, 11th Sep '19 | Scoil San Treasa v St. Patrick's NS Johnstownbridge |
-| Round 2 | Wed, 18th Sep '19 | Cooleragh Scoil Naomh Mhuire Staplestown v St. Patrick's NS Johnstownbridge |
-| Round 3 | Wed, 25th Sep '19 | Scoil San Treasa v Cooleragh Scoil Naomh Mhuire Staplestown |
+| Round 1 | Wed, 11th Sep '19 | Clocha Rince NS v St. Patrick's NS Johnstownbridge |
+| Round 1 | " | Cooleragh v Scoil San Treasa |
+| Round 2 | Wed, 18th Sep '19 | Scoil San Treasa v Clocha Rince NS |
+| Round 2 | " | St. Patrick's NS Johnstownbridge v Cooleragh |
+| Round 3 | Wed, 25th Sep '19 | Clocha Rince NS v Cooleragh |
+| Round 3 | " | Scoil San Treasa v St. Patrick's NS Johnstownbridge |
 
 
 
   
 
 
-## U11 Boys Football 19 / Division 7
+## U11 Boys 19 / Division 7
 ### 7A
 #### Coordinator:
-Róisín Byrne (+353 85 121 1457)
+Róisín  Byrne (+353 85 121 1457)
 
 
-**Teams (4)**
+**Teams (3)**
 * Scoil Mhichíl Naofa
-* Scoil Naomh Pádraig
 * Newbridge Educate Together NS
 * Suncroft NS
 
 **Fixtures**
-
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
-| Round 1 | Wed, 11th Sep '19 | Newbridge Educate Together NS v Scoil Mhichíl Naofa |
-| Round 1 | " | Suncroft NS v Scoil Naomh Pádraig |
-| Round 2 | Wed, 18th Sep '19 | Scoil Naomh Pádraig v Scoil Mhichíl Naofa |
-| Round 2 | " | Suncroft NS v Newbridge Educate Together NS |
+| Round 1 | Wed, 11th Sep '19 | Newbridge Educate Together NS v Suncroft NS |
+| Round 2 | Wed, 18th Sep '19 | Newbridge Educate Together NS v Scoil Mhichíl Naofa |
 | Round 3 | Wed, 25th Sep '19 | Scoil Mhichíl Naofa v Suncroft NS |
-| Round 3 | " | Scoil Naomh Pádraig v Newbridge Educate Together NS |
 
 
 
   
 
-## U11 Boys Football 19 / Division 7
+## U11 Boys 19 / Division 7
 ### 7B
 #### Coordinator:
-Róisín Byrne (+353 85 121 1457)
+Róisín  Byrne (+353 85 121 1457)
 
 
 **Teams (4)**
-* SN Colmcill Naofa
 * Ballyshannon National School
 * Scoil Bhride Lackagh
-* Grange Scoil Naomh Lorcain 
+* Scoil Naomh Lorcain/Grange
+* Moone
 
 **Fixtures**
-
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
-| Round 1 | Wed, 11th Sep '19 | SN Colmcill Naofa v Grange Scoil Naomh Lorcain  |
-| Round 1 | " | Ballyshannon National School v Scoil Bhride Lackagh |
-| Round 2 | Wed, 18th Sep '19 | Ballyshannon National School v SN Colmcill Naofa |
-| Round 2 | " | Grange Scoil Naomh Lorcain  v Scoil Bhride Lackagh |
-| Round 3 | Wed, 25th Sep '19 | Scoil Bhride Lackagh v SN Colmcill Naofa |
-| Round 3 | " | Grange Scoil Naomh Lorcain  v Ballyshannon National School |
+| Round 1 | Wed, 11th Sep '19 | Ballyshannon National School v Scoil Bhride Lackagh |
+| Round 1 | " | Moone v Scoil Naomh Lorcain/Grange |
+| Round 2 | Wed, 18th Sep '19 | Scoil Naomh Lorcain/Grange v Ballyshannon National School |
+| Round 2 | " | Scoil Bhride Lackagh v Moone |
+| Round 3 | Wed, 25th Sep '19 | Ballyshannon National School v Moone |
+| Round 3 | " | Scoil Naomh Lorcain/Grange v Scoil Bhride Lackagh |
 
 
 
   
 
 
-## U11 Boys Football 19 / Division 8
+## U11 Boys 19 / Division 8
 ### 8A
 #### Coordinator:
-Stephen O Brien (+353 87 647 9157)
+Stephen  O Brien (+353 86 104 1922)
 
 
-**Teams (4)**
+**Teams (5)**
 * St. Patrick's N.S. Newbridge
 * Killashee MDNS
 * Kildare Town Educate Together NS
-* GS Mhic Aodha Kildare Town
+* Scoil Naomh Pádraig
+* G.S. Mhic Aodha Kildare
 
 **Fixtures**
-
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Wed, 11th Sep '19 | St. Patrick's N.S. Newbridge v Kildare Town Educate Together NS |
-| Round 1 | " | GS Mhic Aodha Kildare Town v Killashee MDNS |
-| Round 2 | Wed, 18th Sep '19 | GS Mhic Aodha Kildare Town v St. Patrick's N.S. Newbridge |
-| Round 2 | " | Killashee MDNS v Kildare Town Educate Together NS |
-| Round 3 | Wed, 25th Sep '19 | St. Patrick's N.S. Newbridge v Killashee MDNS |
-| Round 3 | " | Kildare Town Educate Together NS v GS Mhic Aodha Kildare Town |
+| Round 1 | " | Scoil Naomh Pádraig v Killashee MDNS |
+| Round 2 | Wed, 18th Sep '19 | G.S. Mhic Aodha Kildare v Killashee MDNS |
+| Round 2 | " | Scoil Naomh Pádraig v Kildare Town Educate Together NS |
+| Round 3 | Wed, 25th Sep '19 | Killashee MDNS v St. Patrick's N.S. Newbridge |
+| Round 3 | " | Scoil Naomh Pádraig v G.S. Mhic Aodha Kildare |
+| Round 4 | Wed, 2nd Oct '19 | Scoil Naomh Pádraig v St. Patrick's N.S. Newbridge |
+| Round 4 | " | Kildare Town Educate Together NS v G.S. Mhic Aodha Kildare |
+| Round 5 | Thu, 3rd Oct '19 | St. Patrick's N.S. Newbridge v G.S. Mhic Aodha Kildare |
+| Round 5 | " | Killashee MDNS v Kildare Town Educate Together NS |
 
 
 
   
 
-## U11 Boys Football 19 / Division 8
+## U11 Boys 19 / Division 8
 ### 8B
 #### Coordinator:
-Stephen O Brien (+353 87 647 9157)
+Stephen  O Brien (+353 86 104 1922)
 
 
-**Teams (4)**
+**Teams (5)**
 * Killina N.S.
+* St. Patrick's Celbridge
 * Cadamstown National School
 * Broadford NS
 * Ticknevin
 
 **Fixtures**
-
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
-| Round 1 | Wed, 11th Sep '19 | Killina N.S. v Broadford NS |
-| Round 1 | " | Cadamstown National School v Ticknevin |
-| Round 2 | Wed, 18th Sep '19 | Ticknevin v Killina N.S. |
-| Round 2 | " | Broadford NS v Cadamstown National School |
-| Round 3 | Wed, 25th Sep '19 | Killina N.S. v Cadamstown National School |
-| Round 3 | " | Broadford NS v Ticknevin |
+| Round 1 | Wed, 11th Sep '19 | Killina N.S. v Ticknevin |
+| Round 1 | " | St. Patrick's Celbridge v Cadamstown National School |
+| Round 2 | Wed, 18th Sep '19 | Cadamstown National School v Killina N.S. |
+| Round 2 | " | St. Patrick's Celbridge v Broadford NS |
+| Round 3 | Wed, 25th Sep '19 | St. Patrick's Celbridge v Ticknevin |
+| Round 3 | " | Cadamstown National School v Broadford NS |
+| Round 4 | Wed, 2nd Oct '19 | Broadford NS v Killina N.S. |
+| Round 4 | " | Ticknevin v Cadamstown National School |
+| Round 5 | Thu, 3rd Oct '19 | Killina N.S. v St. Patrick's Celbridge |
+| Round 5 | " | Broadford NS v Ticknevin |
 
 
 
   
-
-
-
-
-  
-
-
-
-
-
-  
-
 
 
