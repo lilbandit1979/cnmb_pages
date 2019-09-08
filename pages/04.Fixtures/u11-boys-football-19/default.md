@@ -48,6 +48,12 @@ Victor Logan (+353 87 994 9978)
 **Fixtures**
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
+| Round 1 | Wed, 11th Sep '19 | Scoil Mhuire Senior v St Brigid's Primary School Kildare Town |
+| Round 1 | " | St Corban's BNS Naas v Caragh NS |
+| Round 2 | Wed, 18th Sep '19 | St Corban's BNS Naas v Scoil Mhuire Senior |
+| Round 2 | " | Caragh NS v St Brigid's Primary School Kildare Town |
+| Round 3 | Wed, 25th Sep '19 | Scoil Mhuire Senior v Caragh NS |
+| Round 3 | " | St Corban's BNS Naas v St Brigid's Primary School Kildare Town |
 
 
 
@@ -69,6 +75,12 @@ Pat Gallagher (+353 87 995 2729)
 **Fixtures**
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
+| Round 1 | Wed, 11th Sep '19 | Rathangan Boys v Scoil Naomh Pádraig Athy |
+| Round 1 | " | Kilcullen v St. Conleths Senior |
+| Round 2 | Wed, 18th Sep '19 | Kilcullen v Rathangan Boys |
+| Round 2 | " | Scoil Naomh Pádraig Athy v St. Conleths Senior |
+| Round 3 | Wed, 25th Sep '19 | St. Conleths Senior v Rathangan Boys |
+| Round 3 | " | Scoil Naomh Pádraig Athy v Kilcullen |
 
 
 
@@ -115,6 +127,9 @@ Conor Dooley (+353 87 991 2272)
 **Fixtures**
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
+| Round 1 | Wed, 11th Sep '19 | Scoil Diarmada Castledermot v St. Laurence`s N.S. Crookstown |
+| Round 2 | Wed, 18th Sep '19 | St. Peters BNS v St. Laurence`s N.S. Crookstown |
+| Round 3 | Wed, 25th Sep '19 | Scoil Diarmada Castledermot v St. Peters BNS |
 
 
 
