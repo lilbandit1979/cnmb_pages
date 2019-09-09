@@ -6,6 +6,13 @@ recaptchacontact:
 
 # Cumann na mBunscoil Cill Dara
 #### Autumn 2019
+<p>Remember: </p>
+<p>A teacher must be present at all games</p>
+<p>Div. 1-4: 13 aside </p>
+<p>Div. 5-6: 11 aside </p>
+<p>Div. 7-8: 9 aside </p>
+<p>Semi-Finals: 8th-12th October 2018</p>
+<p>Finals: 17th/18th October 2018 </p>
 
 ## U11 Boys 19 / Division 1
 ### 1A
