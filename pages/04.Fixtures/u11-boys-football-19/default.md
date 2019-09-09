@@ -230,7 +230,7 @@ Stephen  O Brien (+353 86 104 1922)
 **Teams (4)**
 * St Josephs National School Kilcock
 * Rathcoffey
-* Tiermohan NS (we play under name of CAPPAGH as we amalgamate with Newtown NS)
+* Cappagh
 * ScoilMochua
 
 **Fixtures**
@@ -238,11 +238,11 @@ Stephen  O Brien (+353 86 104 1922)
 | Round | Date | Fixture |
 | ----- | ---- | ------- |
 | Round 1 | Wed, 11th Sep '19 | Rathcoffey v St Josephs National School Kilcock |
-| Round 1 | " | Tiermohan NS (we play under name of CAPPAGH as we amalgamate with Newtown NS) v ScoilMochua |
-| Round 2 | Wed, 18th Sep '19 | St Josephs National School Kilcock v Tiermohan NS (we play under name of CAPPAGH as we amalgamate with Newtown NS) |
-| Round 2 | " | Rathcoffey v ScoilMochua |
+| Round 1 | " | Cappagh v ScoilMochua |
+| Round 2 | Wed, 18th Sep '19 | St Josephs National School Kilcock v Cappagh
+| Round 2 | " | Rathcoffey v Scoil Mochua |
 | Round 3 | Wed, 25th Sep '19 | ScoilMochua v St Josephs National School Kilcock |
-| Round 3 | " | Tiermohan NS (we play under name of CAPPAGH as we amalgamate with Newtown NS) v Rathcoffey |
+| Round 3 | " | Cappagh v Rathcoffey |
 
 
 
