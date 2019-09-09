@@ -300,7 +300,7 @@ John Merrins (+353 85 100 2281)
 ## U11 Boys 19 / Division 6
 ### 6A
 #### Coordinator:
-Denis O Sullivan (+353 87 989 4439)
+Denis O Sullivan (+353 89 489 9263)
 
 
 **Teams (4)**
