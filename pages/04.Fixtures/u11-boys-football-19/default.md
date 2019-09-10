@@ -128,7 +128,7 @@ Pat Gallagher (+353 87 995 2729)
 ### 3A
 #### Coordinator:
 Conor Dooley (+353 87 991 2272)
-### Semi-Finals: Draw made on 10/9/19: 2 teams from group B progress to semi-final. 1 team from group A and C.
+### Semi-Finals: Draw made on 10/9/19: 2 teams from group B progress to semi-final. 1 team from group A and 1 from group C.
 
 
 **Teams (3)**
