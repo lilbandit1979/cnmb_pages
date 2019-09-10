@@ -23,7 +23,7 @@ recaptchacontact:
 
 | Division 1A  | Division 1B |
 |--------------|-------------|
-|Co-ord: | TBC |
+|Co-ord: | Eileen O Keefe, Kilcullen|
 |A Caragh |A Scoil Ui Riada |
 |B Monasterevin| B Clane |
 |C Ballymany | C Kill |
@@ -34,7 +34,7 @@ recaptchacontact:
 
 |Division 2A | Division 2B |
 |---------------|----------------|
-|Co-ord: | TBC |
+|Co-ord: | Sean Corkery, Caragh 045 903091 |
 |A St. Brigids Kildare | A Sallins |
 |B Patricians Newbridge | B Rathmore |
 |C Mhichil Naofa Athy |C Kilcock |
@@ -45,7 +45,7 @@ recaptchacontact:
 
 |Division 3A| Division 3B|
 |---------------|---------------|
-|Co-ord: | TBC| 
+|Co-ord: | Robbie Jameson, Rathmore 087 2273447| 
 |A Ballysax |A Milltown ||
 |B Scoil Phaidraig Athy |B Rathangan ||
 |C Crookstown|C St. Conleth and Marys Newbridge |
@@ -56,7 +56,7 @@ recaptchacontact:
 
 |Division 4A| Division 4B|
 |---------------|---------------|
-|Co-ord:| TBC|
+|Co-ord:| Eugene Riordan, Rathcoffey 087 2361789|
 |A Ardclough |A Ballycane|
 |B Scoil Mochua | B G.S. Chill Dara |
 |C Straffan |C G.S. Nás |
@@ -67,7 +67,7 @@ recaptchacontact:
 
 |Division 5A | Division 5B |
 |---------------|----------------|
-|Co-ord:| TBC|
+|Co-ord:| Jim Hanifin 0863292118|
 |A Cooleragh| A Kilashee |
 |B JTB | B Scoil Na Naomh Uilig Newbridge |
 |C Derrinturn | C Athgarvan |
@@ -78,7 +78,7 @@ recaptchacontact:
 
 |Division 6A| Division 6B|
 |---------------|----------------|
-|Co-ord:| TBC |
+|Co-ord:| Ed Kirwin, Kilmead 08630141180 |
 |A St. Pats Newbridge | A Ballymore |
 |B Allen | B Moone |
 |C Robertstown |C Kilmead |
