@@ -45,7 +45,7 @@ recaptchacontact:
 
 |Division 3A| Division 3B|
 |---------------|---------------|
-|Co-ord: | Robbie Jameson, Rathmore 087 2273447| 
+|Co-ord: | Bryan Lynch, St. Conleth and Mary's Newbridge ‭(087) 965 7218‬| 
 |A Ballysax |A Milltown ||
 |B Scoil Phaidraig Athy |B Rathangan ||
 |C Crookstown|C St. Conleth and Marys Newbridge |
