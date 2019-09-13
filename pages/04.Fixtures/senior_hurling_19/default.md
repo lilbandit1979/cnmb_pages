@@ -112,7 +112,7 @@ recaptchacontact:
 </table>
 <p><br /><br /></p>
 <p>Division 3: 25 mins per half. 15 players aside. </p>
-<p>Co-ordinator: William Carroll 086 8638282</p>
+<p>Co-ordinator: Ciaran Costello 0868849825</p>
 <table>
 <tbody>
 <tr>
