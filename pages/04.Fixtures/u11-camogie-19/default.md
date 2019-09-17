@@ -8,7 +8,7 @@ recaptchacontact:
 ## Dates: Host venues to contact schools for suitable dates. ##
 ### Venues and Groups below: ###
 
-Venue: TBC
+Venue: Kill
 Co-ordinator: TBC 
 Date: TBC
 * Ardclough
@@ -37,9 +37,9 @@ Date: TBC
 * Scoil Phádraig Athy
 * Scoil Íde Naofa, Kilmead
 
-Venue: GS Uí Fhiach, Maynooth ( 5 Teams)
+Venue: Scoil Mochua, Celbridge ( 5 Teams)
 Time: TBC
-Co-ordinator: Sinéad 086 8970069
+Co-ordinator: Ciarán Costello ‭086884 9825‬
 Date: TBC
 * St. Patricks, Enfield
 * G.S. Uí Fhiach
@@ -49,8 +49,8 @@ Date: TBC
 * Scoil Mochua
 * Scoil Uí Riada
 
-Venue: TBC
-Date: TBC
+Venue: Kill
+Date: Karen
 Time: TBC
 * Caragh
 * St. Laurence, Sallins
