@@ -9,13 +9,22 @@ recaptchacontact:
 ### Venues and Groups below: ###
 
 Venue: Kill
-Co-ordinator: TBC 
+Co-ordinator: 0868935910
 Date: TBC
 * Ardclough
 * Straffan
 * Mercy Convent Naas
 * Scoil Bhríde Kill
 * Rathcoffey
+
+Venue: Kill
+Date: Karen 0868935910
+Time: TBC
+* Caragh
+* St. Laurence, Sallins
+* Scoil Bhríde Naas
+* Allenwood
+* Ballymore
 
 Venue: Newbridge (7 Teams)
 Co-ordinator: Fionnuala 0879449200
@@ -50,7 +59,7 @@ Date: TBC
 * Scoil Uí Riada
 
 Venue: Kill
-Date: Karen
+Date: Karen 0868935910
 Time: TBC
 * Caragh
 * St. Laurence, Sallins
