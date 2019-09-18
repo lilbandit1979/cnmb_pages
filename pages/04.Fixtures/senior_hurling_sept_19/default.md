@@ -67,7 +67,7 @@ recaptchacontact:
 |A Kildare |A Ballymany|
 |B Dunlavin |B Patricians|
 |C Kilcullen|C Rathangan|
-|D Scoil Paidraig Naofa Athy|D Scoil Mhichil Naofa|
+|D Clocha Rince|D Scoil Mhichil Naofa|
 
 <br>
 <br>
