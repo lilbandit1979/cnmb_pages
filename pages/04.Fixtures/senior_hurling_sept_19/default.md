@@ -81,7 +81,7 @@ recaptchacontact:
 |A Naomh Uilig |A Moone|
 |B St. Pats Newbridge | B Castledermot |
 |C Ed. Together |C Ballymore |
-|D Robertstown |D Monasterevin |
+|D Rathcoffey |D Monasterevin |
 
 ### Fixtures:
 <table>
