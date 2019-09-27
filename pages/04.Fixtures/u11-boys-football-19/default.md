@@ -198,7 +198,7 @@ Conor Dooley (+353 87 991 2272)
 ## U11 Boys 19 / Division 4
 ### 4A
 #### Coordinator:
-Stephen  O Brien (+353876479157)
+Stephen  O Brien 0876479157
 
 
 **Teams (4)**
@@ -225,7 +225,7 @@ Stephen  O Brien (+353876479157)
 ## U11 Boys 19 / Division 4
 ### 4B
 #### Coordinator:
-Stephen  O Brien (+353 86 104 1922)
+Stephen  O Brien  0876479157
 
 
 **Teams (4)**
@@ -414,7 +414,7 @@ Róisín  Byrne (+353 85 121 1457)
 ## U11 Boys 19 / Division 8
 ### 8A
 #### Coordinator:
-Stephen  O Brien (+353 86 104 1922)
+Stephen  O Brien 0876479157
 
 
 **Teams (5)**
@@ -446,7 +446,7 @@ Stephen  O Brien (+353 86 104 1922)
 ## U11 Boys 19 / Division 8
 ### 8B
 #### Coordinator:
-Stephen  O Brien (+353 86 104 1922)
+Stephen  O Brien 0876479157
 
 
 **Teams (5)**
