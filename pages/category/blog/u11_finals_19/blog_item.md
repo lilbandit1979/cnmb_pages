@@ -21,7 +21,7 @@ recaptchacontact:
 
 **Pitch 2:**
 
-* 1:00: Div. 2 Boys Football: G.S. Ui Fhiach vs. Kilcullen/Scoil Bhride Naas.
+* 1:00: Div. 2 Boys Football: Rathangan/G.S. Ui Fhiach vs. Kilcullen/Scoil Bhride Naas.
 * 2:00: Div. 3 Girls Football: Rathangan/Athy vs. Crookstown/Milltown.
 * 3:00: Div. 4 Boys Football: Rathcoffey/TMH vs. Dunlavin/Kilcock
 * 4:00: Div. 5 Girls Football: Cooleragh/Athgarvan vs. Naomh Uilig Newbridge/Derrinturn
