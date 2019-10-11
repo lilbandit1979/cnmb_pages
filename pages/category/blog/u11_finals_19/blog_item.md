@@ -44,7 +44,7 @@ recaptchacontact:
 * 1:00: Div. 2 Hurling: G.S. Ui Fhiach vs. Kill/Rathmore
 * 2:00: Div. 8 Boys Football: Kilashee/Broadford vs. Cadamstown/G.S. Mhic Aodha Kildare
 * 3:00: Div. 4 Hurling: Kildare vs. Dunlavin
-* 4:00: Div. 7 Boys Football: Lackagh/Suncroft vs. Ballyshannon/Newb. E.T./Scoil Mhichil Naofa Athy
+* 4:00: Div. 7 Boys Football: Lackagh vs. Ballyshannon/Newb. E.T./Scoil Mhichil Naofa Athy
 
 **Pitch 3 (nearest to railway line)**
  
