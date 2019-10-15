@@ -15,21 +15,21 @@ recaptchacontact:
 **Pitch 1:**
 
 * 1:00: Div. 1 Boys Football: Naas vs. Clane
-* 2:00: Div. 2 Girls Football: Scoil Bhride Naas/TBC vs. G.S. Ui Fhiach/Patricians/Brigids Kildare
-* 3:00: Div. 3 Boys Football: Patricians/Rathmore vs. Castledermot/Milltown.
+* 2:00: Div. 2 Girls Football: Scoil Bhride Naas vs. G.S. Ui Fhiach
+* 3:00: Div. 3 Boys Football: Rathmore vs. Milltown.
 * 4:00: Div. 4 Girls Football: G.S. Naas vs. Twomilehouse
 
 **Pitch 2:**
 
-* 1:00: Div. 2 Boys Football: Rathangan/G.S. Ui Fhiach vs. Scoil Bhride Naas.
-* 2:00: Div. 3 Girls Football: Rathangan/Athy vs. Crookstown.
-* 3:00: Div. 4 Boys Football: Rathcoffey/TMH vs. Dunlavin/Kilcock
+* 1:00: Div. 2 Boys Football: G.S. Ui Fhiach vs. Scoil Bhride Naas.
+* 2:00: Div. 3 Girls Football: Rathangan vs. Crookstown.
+* 3:00: Div. 4 Boys Football: TMH vs. Dunlavin/Kilcock
 * 4:00: Div. 5 Girls Football: Cooleragh vs. Naomh Uilig Newbridge
 
 **Pitch 3 (nearest to railway line)**
  
-* 3:00: Div. 5 Boys Football: Ballysax/Ardclough vs. Athgarvan.
-* 4:00: Div. 6 Girls Football: Allen/Moone vs. Robertstown/Kilmead
+* 3:00: Div. 5 Boys Football: Ballysax vs. Athgarvan.
+* 4:00: Div. 6 Girls Football: Moone vs. Kilmead
 
 ##Thursday 17th:##
 **Pitch 1:**
