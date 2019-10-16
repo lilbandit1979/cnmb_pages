@@ -40,19 +40,19 @@ recaptchacontact:
 ##Thursday 17th:##
 **Pitch 1:**
 
-* 1:00: Div. 1 Hurling: Naas vs. Clane/Maynooth
+* 1:00: Div. 1 Hurling: Naas vs. Clane
 * 2:00: Div. 1 Girls Football: Kill vs. Caragh
 * 3:00: Div. 3 Hurling: G.S. Nas vs Ardclough
 * 4:00: Div. 6 Boys Football: Ballymore vs. Cooleragh/Allen
 
 **Pitch 2:**
 
-* 1:00: Div. 2 Hurling: G.S. Ui Fhiach vs. Kill/Rathmore
-* 2:00: Div. 8 Boys Football: Kilashee/Broadford vs. Cadamstown/G.S. Mhic Aodha Kildare
+* 1:00: Div. 2 Hurling: G.S. Ui Fhiach vs. Kill
+* 2:00: Div. 8 Boys Football: Kilashee vs. Broadford
 * 3:00: Div. 4 Hurling: Kildare vs. Dunlavin
 * 4:00: Div. 7 Boys Football: Lackagh vs. Ballyshannon/Newb. E.T./Scoil Mhichil Naofa Athy
 
 **Pitch 3 (nearest to railway line)**
  
-* 3:00: Div. 5 Hurling: Rathcoffey vs. Castledermot/Naomh Uilig Newbridge
+* 3:00: Div. 5 Hurling: Rathcoffey vs. Castledermot
 * 4:00:  N/A
