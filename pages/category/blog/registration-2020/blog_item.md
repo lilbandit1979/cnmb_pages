@@ -1,5 +1,8 @@
 ---
 title: 'Registration 2020'
+taxonomy:
+    category:
+        - Blog
 recaptchacontact:
     enabled: false
 ---
