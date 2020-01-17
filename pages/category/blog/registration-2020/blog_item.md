@@ -11,7 +11,7 @@ recaptchacontact:
 ##2019 Registration: 
 * Opens Jan. 6th 2020
 * Closes: 21st Jan. 2020
-* Register online **[here](https://forms.gle/KzLCKkHesXWESzVD7)** No postal or word of mouth entries accepted.
+* Register online **[here](https://docs.google.com/forms/d/e/1FAIpQLSdfXtpaVOvJv2Fkq9Y4TKDonuv69V67wo8X1JfDmiChc4-qhA/viewform?usp=sf_link)** No postal or word of mouth entries accepted.
 * All schools **must provide a complete list of participating children with respective dates of birth in order to participate in 2020 games and events.**
 * Player lists can be in spreadsheet/pdf/word format from computerised roll systems. 
 * GDPR consent is included in 2020 Application registration form.
