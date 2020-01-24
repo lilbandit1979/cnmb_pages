@@ -7,7 +7,11 @@ recaptchacontact:
     enabled: false
 ---
 
-# Cumann na mBunscol Kildare 2020 Season Registration 
+# Cumann na mBunscol Kildare 2020 Season Registration/Regrading
+
+## Regrading 2020 ##
+* If you wish to request a higher/lower division for your school in our games you can submit a regrding request.
+* All requests should be sent to: cumannkildare@gmail.com
 ##2019 Registration: 
 * Opens Jan. 6th 2020
 * Closes: 21st Jan. 2020
@@ -16,5 +20,4 @@ recaptchacontact:
 * Player lists can be in spreadsheet/pdf/word format from computerised roll systems. 
 * GDPR consent is included in 2020 Application registration form.
 * Please note that schools who do not supply player lists will **not** be assigned to a division in 2020.
-
 
