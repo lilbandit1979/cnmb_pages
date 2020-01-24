@@ -12,6 +12,7 @@ recaptchacontact:
 ## Regrading 2020 ##
 * If you wish to request a higher/lower division for your school in our games you can submit a regrding request.
 * All requests should be sent to: cumannkildare@gmail.com
+* Pls note: no regrading meeting as all requests to be submitted by email.
 ##2019 Registration: 
 * Opens Jan. 6th 2020
 * Closes: 21st Jan. 2020
