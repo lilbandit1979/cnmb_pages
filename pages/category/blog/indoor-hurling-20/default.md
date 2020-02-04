@@ -1,5 +1,8 @@
 ---
 title: 'Indoor Hurling 20'
+taxonomy:
+    category:
+        - Blog
 recaptchacontact:
     enabled: false
 ---
