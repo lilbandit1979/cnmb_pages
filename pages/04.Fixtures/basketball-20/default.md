@@ -3,6 +3,7 @@ title: Basketball20
 media_order: 'Bball 2020 2021.doc'
 published: true
 routable: true
+visible: true
 recaptchacontact:
     enabled: false
 ---
