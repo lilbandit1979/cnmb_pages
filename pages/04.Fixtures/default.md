@@ -89,7 +89,7 @@ recaptchacontact:
 <div class="g-content">
 <h3 class="g-title">Basketball 2020/21</h3>
 <p><strong>Fixtures 2020/21</strong> Basketball information 2020/21</p>
-<a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/basketball-20">Read More</a>
+<a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/Basketball-20">Read More</a>
 </div>
 </div>
 
