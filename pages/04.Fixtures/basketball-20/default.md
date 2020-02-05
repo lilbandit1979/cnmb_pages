@@ -7,5 +7,5 @@ recaptchacontact:
 ---
 
 # Cumann na mBunscol Kildare 2020 Basketball #
-## Pleasue download link below for details ##
+## Please use download link below for details ##
 
