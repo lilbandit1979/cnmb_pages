@@ -8,7 +8,7 @@ recaptchacontact:
 
 <div class="center g-title-large">
 <h2 class="g-title">2020 Games TBC.</h2>
-<h3 class="g-title">U11 Games updated and available below.</h3>
+<h3 class="g-title">Please check back over next few weeks for 2020 fixtures. </h3>
 </div>
 <div class="g-grid">
 <div class="g-block box1 size-33-3">
