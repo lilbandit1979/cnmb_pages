@@ -4,10 +4,6 @@ recaptchacontact:
     enabled: false
 ---
 
-U12 Hurling - Summer
-
-Division 1
-
 <p><strong>U12 Hurling - Summer</strong></p>
 <p><strong>Division 1</strong></p>
 <table>
@@ -42,58 +38,34 @@ Division 1
 </tr>
 <tr>
 <td>
-<p><strong>A</strong></p>
+<p>A St Corban&rsquo;s BNS</p>
 </td>
 <td>
-<p>St Corban&rsquo;s BNS</p>
-</td>
-<td>
-<p><strong>A</strong></p>
-</td>
-<td>
-<p>Maynooth</p>
+<p>A Maynooth</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>B</strong></p>
+<p>B Carragh</p>
 </td>
 <td>
-<p>Carragh</p>
-</td>
-<td>
-<p><strong>B</strong></p>
-</td>
-<td>
-<p>Celbridge</p>
+<p>B Celbridge</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>C</strong></p>
+<p>C Clane</p>
 </td>
 <td>
-<p>Clane</p>
-</td>
-<td>
-<p><strong>C</strong></p>
-</td>
-<td>
-<p>GS U&iacute; Fhiach</p>
+<p>C GS U&iacute; Fhiach</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>D</strong></p>
+<p>D Gaelscoil N&aacute;s na R&iacute;ogh</p>
 </td>
 <td>
-<p>Gaelscoil N&aacute;s na R&iacute;ogh</p>
-</td>
-<td>
-<p><strong>D</strong></p>
-</td>
-<td>
-<p>BYE</p>
+<p>D BYE</p>
 </td>
 </tr>
 </tbody>
@@ -114,50 +86,32 @@ Division 1
 </tr>
 <tr>
 <td>
-<p><strong>A</strong></p>
-</td>
-<td>
-<p>Kill</p>
+<p>A Kill</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>B</strong></p>
-</td>
-<td>
-<p>Rathmore</p>
+<p>B Rathmore</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>C</strong></p>
-</td>
-<td>
-<p>Scoil U&iacute; Riada</p>
+<p>C Scoil U&iacute; Riada</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>D</strong></p>
-</td>
-<td>
-<p>Two Mile House</p>
+<p>D Two Mile House</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>E</strong></p>
-</td>
-<td>
-<p>Sallins</p>
+<p>E Sallins</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>F</strong></p>
-</td>
-<td>
-<p>BYE</p>
+<p>F BYE</p>
 </td>
 </tr>
 </tbody>
@@ -196,58 +150,34 @@ Division 1
 </tr>
 <tr>
 <td>
-<p><strong>A</strong></p>
+<p>A Kilcock</p>
 </td>
 <td>
-<p>Kilcock</p>
-</td>
-<td>
-<p><strong>A</strong></p>
-</td>
-<td>
-<p>Ardclough</p>
+<p>A Ardclough</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>B</strong></p>
+<p>B Cappagh</p>
 </td>
 <td>
-<p>Cappagh</p>
-</td>
-<td>
-<p><strong>B</strong></p>
-</td>
-<td>
-<p>Straffan</p>
+<p>A Straffan</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>C</strong></p>
+<p>C Cooleragh</p>
 </td>
 <td>
-<p>Cooleragh</p>
-</td>
-<td>
-<p><strong>C</strong></p>
-</td>
-<td>
-<p>Scoil Mochua</p>
+<p>C Scoil Mochua</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>D</strong></p>
+<p>D BYE</p>
 </td>
 <td>
-<p>BYE</p>
-</td>
-<td>
-<p><strong>D</strong></p>
-</td>
-<td>
-<p>BYE</p>
+<p>D BYE</p>
 </td>
 </tr>
 </tbody>
@@ -268,50 +198,32 @@ Division 1
 </tr>
 <tr>
 <td>
-<p><strong>A</strong></p>
-</td>
-<td>
-<p>Dunlavin</p>
+<p>A Dunlavin</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>B</strong></p>
-</td>
-<td>
-<p>Patricians</p>
+<p>B Patricians</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>C</strong></p>
-</td>
-<td>
-<p>Ballymany</p>
+<p>C Ballymany</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>D</strong></p>
-</td>
-<td>
-<p>St Brigid&rsquo;s Kildare Town</p>
+<p>D St Brigid&rsquo;s Kildare Town</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>E</strong></p>
-</td>
-<td>
-<p>Gaelscoil Chill Dara</p>
+<p>E Gaelscoil Chill Dara</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>F</strong></p>
-</td>
-<td>
-<p>BYE</p>
+<p>F BYE</p>
 </td>
 </tr>
 </tbody>
@@ -350,60 +262,36 @@ Division 1
 </tr>
 <tr>
 <td>
-<p><strong>A</strong></p>
+<p>A St Patricks NS</p>
 </td>
 <td>
-<p>St Patricks NS</p>
-</td>
-<td>
-<p><strong>A</strong></p>
-</td>
-<td>
-<p>Kilmeade</p>
+<p>A Kilmeade</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>B</strong></p>
+<p>B Scoil na Naomh Uilig</p>
 </td>
 <td>
-<p>Scoil na Naomh Uilig</p>
-</td>
-<td>
-<p><strong>B</strong></p>
-</td>
-<td>
-<p>Kilcullen</p>
+<p>B Kilcullen</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>C</strong></p>
+<p>C Clocha Rince NS</p>
 </td>
 <td>
-<p>Clocha Rince NS</p>
-</td>
-<td>
-<p><strong>C</strong></p>
-</td>
-<td>
-<p>Scoil Diarmada Castledermot</p>
+<p>C Scoil Diarmada Castledermot</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>D</strong></p>
+<p>D BYE</p>
 </td>
 <td>
-<p>BYE</p>
-</td>
-<td>
-<p><strong>D</strong></p>
-</td>
-<td>
-<p>BYE</p>
+<p>D BYE</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Make sure you use the <a href="https://html-css-js.com/">best HTML CSS JavaScript tools</a> to get the perfect code.</p>
+
