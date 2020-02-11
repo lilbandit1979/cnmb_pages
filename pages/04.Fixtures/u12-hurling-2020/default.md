@@ -1,5 +1,6 @@
 ---
 title: 'U12 Hurling 2020'
+published: false
 recaptchacontact:
     enabled: false
 ---
