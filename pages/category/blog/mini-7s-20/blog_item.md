@@ -1,5 +1,9 @@
 ---
 title: Mini-7s-20
+published: true
+taxonomy:
+    category:
+        - Blog
 recaptchacontact:
     enabled: false
 ---
