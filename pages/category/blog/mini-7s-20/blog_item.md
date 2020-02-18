@@ -22,3 +22,39 @@ recaptchacontact:
 <p>Coordinator: Mark Murphy (Kilcullen)<br />Phone Number: 0863604192<br />A Kilmeade<br />B Scoil Diarmada Castledermot<br />C Scoil Bhr&iacute;de Kilcullen<br />D St Colmcille&rsquo;s NS Moone</p>
 <p>Group 5</p>
 <p>Coordinator: Cian Forde (St Joseph&rsquo;s Kilcock)<br />Phone Number: 0851647824<br />A Scoil U&iacute; Riada<br />B St Patricks Johnstownbridge<br />C Clocha Rince NS<br />D Kilcock</p>
+
+## Mini 7s Camogie 20 ##
+
+<table cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<p>1 Scoil Bhr&iacute;de Kilcullen&nbsp;</p>
+<p>2 Monasterevan&nbsp;</p>
+<p>3 Gaelscoil Chill Dara, An Currach</p>
+</td>
+<td>
+<p>1 Mercy Convent P.S. Naas</p>
+<p>2 Rathcoffey N.S, Donadea, Naas&nbsp;</p>
+<p>3 Scoil Ch&eacute;ile Chr&iacute;ost Rathmore N.S.&nbsp;</p>
+<p>4 Scoil Bhr&iacute;de, Kill</p>
+<p>5 Straffan NS Straffan</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1 Scoil &Iacute;de Naofa Kilmead</p>
+<p>2 Scoil Diarmada, Castledermot</p>
+<p>3 St. Laurence`s N.S. Crookstown, Ballitore</p>
+<p>4 St. Colmcille's NS Moone, Athy&nbsp;</p>
+</td>
+<td>
+<p>1 Clocha Rince NS Clogherinkoe&nbsp;</p>
+<p>2 St. Patrick's NS, Johnstownbridge&nbsp;</p>
+<p>3 Scoil Ch&oacute;ca Naofa Kilcock, Co Kildare&nbsp;</p>
+<p>4 Scoil U&iacute; Riada An Bhan&oacute;g, Cill Choca&nbsp;</p>
+<p>5 Gaelscoil U&iacute;Fhiaich Chill Droichid Maigh Nuad&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
