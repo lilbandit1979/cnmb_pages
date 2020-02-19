@@ -1,6 +1,6 @@
 ---
 title: Mini-7s-20
-media_order: 'BoysMini 7s_2020.pdf'
+media_order: 'BoysMini 7s_2020.pdf,Girls Mini 7s.docx'
 published: true
 taxonomy:
     category:
