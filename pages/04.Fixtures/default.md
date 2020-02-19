@@ -71,9 +71,9 @@ recaptchacontact:
 
 <div class="g-block box-orange size-33-3">
 <div class="g-content">
-<h3 class="g-title">Sen. Hurling Sept 19</h3>
-<p><strong>Fixtures 2019</strong> Only use referees from our updated 2019 referees list.</p>
-<a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/senior_hurling_sept_19">Read More</a>
+<h3 class="g-title">U12 Hurling 2020</h3>
+<p><strong>Fixtures 2020</strong> Only use referees from our updated 2019 referees list.</p>
+<a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/u12-hurling-2020">Read More</a>
 </div>
 </div>
 
