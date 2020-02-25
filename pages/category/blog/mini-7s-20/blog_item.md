@@ -38,6 +38,7 @@ recaptchacontact:
 <p>3 Gaelscoil Chill Dara, An Currach</p>
 </td>
 <td>
+<p> Host: Kill, Karen 0868935910
 <p>1 Mercy Convent P.S. Naas</p>
 <p>2 Rathcoffey N.S, Donadea, Naas&nbsp;</p>
 <p>3 Scoil Ch&eacute;ile Chr&iacute;ost Rathmore N.S.&nbsp;</p>
@@ -47,6 +48,7 @@ recaptchacontact:
 </tr>
 <tr>
 <td>
+<p> Host: St. Laurences Crookstown, Edel Kearney 0857591759
 <p>1 Scoil &Iacute;de Naofa Kilmead</p>
 <p>2 Scoil Diarmada, Castledermot</p>
 <p>3 St. Laurence`s N.S. Crookstown, Ballitore</p>
