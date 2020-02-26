@@ -76,7 +76,7 @@ recaptchacontact:
 <a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/u12-hurling-2020">Read More</a>
 </div>
 </div>
-
+<!--
 <div class="g-block box-orange size-33-3">
 <div class="g-content">
 <h3 class="g-title">Under 11 Hurling 2018</h3>
@@ -84,7 +84,7 @@ recaptchacontact:
 <a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/under-11-hurling-18">Read More</a>
 </div>
 </div>
-
+-->
 <div class="g-block box-grey size-33-3">
 <div class="g-content">
 <h3 class="g-title">Basketball 2020/21</h3>
