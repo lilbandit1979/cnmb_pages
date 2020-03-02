@@ -10,5 +10,6 @@ The 2020 Allianz Cumann na mBunscol quiz will take place on Friday, 20th March i
 	If any school not already registered in January would like to enter please contact Paul Dunning 0857040603. 
 Best of luck to all schools
 The Committee.
- 
+
+ ## Schools Registered to Date: ##
  [Registered Schools Quiz 2020.pdf](Quiz%2020_Website.pdf)
