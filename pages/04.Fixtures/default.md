@@ -57,7 +57,7 @@ recaptchacontact:
 <div class="g-content">
 <h3 class="g-title">Senior Camogie 2020</h3>
 <p><strong>Fixtures 2020</strong> Only use referees from our updated 2020 referees list.</p>
-<a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/Senior_Camogie_20">Read More</a>
+<a class="button" href="http://www.cumannnambunscolchilldara.com/fixtures/senior_camogie_20">Read More</a>
 </div>
 </div>
 
