@@ -1,5 +1,5 @@
 ---
-title: Quiz_2020
+title: 'Quiz 2020'
 media_order: 'Quiz 20_Website.pdf'
 taxonomy:
     category:
