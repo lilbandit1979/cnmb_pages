@@ -1,6 +1,9 @@
 ---
 title: Quiz_2020
 media_order: 'Quiz 20_Website.pdf'
+taxonomy:
+    category:
+        - Blog
 recaptchacontact:
     enabled: false
 ---
