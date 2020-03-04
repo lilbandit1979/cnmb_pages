@@ -60,30 +60,35 @@ recaptchacontact:
 </tr>
 <tr>
 <td>
-<p>A Scoil Ui Riada, Kilcock A. St. Laurence&rsquo;s, Sallins</p>
+<p>A Scoil Ui Riada, Kilcock </p>
+</td>
+<td>
+<p>A St. Laurences Sallins</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>B Straffan B. Rathmore</p>
+<p>B Straffan Rathmore</p>
+</td>
+<td>
+<p>B Rathmore</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>C Scoil Bhride, Kill C. G.S. Chill Dara</p>
+<p>C Scoil Bhride, Kill </p>
+</td>
+<td>
+<p>C Bye</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>D St. Patrick&rsquo;s Johnstownbridge D Scoil Mhichil Naofa, Athy</p>
+<p>D St. Patrick&rsquo;s Johnstownbridge </p>
 </td>
-</tr>
-<tr>
 <td>
-<p> </p>
+<p>D Mhichil Naofa, Athy</p>
 </td>
-</tr>
-<tr>
 </tr>
 </tbody>
 </table>
@@ -98,22 +103,34 @@ recaptchacontact:
 </tr>
 <tr>
 <td>
-<p>A G.S. N&aacute;s na R&iacute;ogh A Kilmead</p>
+<p>A G.S. N&aacute;s na R&iacute;ogh </p>
+</td>
+<td>
+<p>A Kilmead</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>B Scoil Mochua, Celbridge B St. Laurence&rsquo;s, Crookstown</p>
+<p>B Scoil Mochua, Celbridge . Laurence&rsquo;s, Crookstown</p>
+</td>
+<td>
+<p>B Crookstown</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>C Rathcoffey</p>
+<p>C Rathcoffey </p>
+</td>
+<td>
+<p>CBye</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>D&nbsp;</p>
+<p>D Bye </p>
+</td>
+<td>
+<p>D Bye</p>
 </td>
 </tr>
 <tr>
@@ -160,7 +177,7 @@ recaptchacontact:
 </tr>
 <tr>
 <td>
-<p>D Bye</p>
+<p>D G.S. Chill Dara</p>
 </td>
 <td>
 <p>D Bye</p>
@@ -287,3 +304,4 @@ recaptchacontact:
 </tr>
 </tbody>
 </table>
+<p><br /><br /></p>
