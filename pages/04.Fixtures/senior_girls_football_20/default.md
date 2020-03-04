@@ -13,7 +13,6 @@ recaptchacontact:
 <p>All other divisions: 20 mins per half, 13 players aside.</p>
 <p>Semi-Finals: 15th-19th May.</p>
 <p>Finals: 24th/25th May.</p>
-<p><br /><br /><br /><br /><br /></p>
 <p>Girls Senior Football Division 1: 25 mins per half, 15 aside.&nbsp;</p>
 <p>Co-ordinator: Eileen O&rsquo;Donnell, Kilcullen: 087-7528225</p>
 <table>
@@ -115,26 +114,10 @@ recaptchacontact:
 </tr>
 <tr>
 <td>
-<p>D Bye</p>
+<p>D Rathmore</p>
 </td>
 <td>
-<p>D Bye</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>E Rathmore</p>
-</td>
-<td>
-<p>E Milltown *Want down</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>F Bye</p>
-</td>
-<td>
-<p>F G. S. Chill Dara</p>
+<p>D G.S. Chill Dara</p>
 </td>
 </tr>
 </tbody>
@@ -189,7 +172,7 @@ recaptchacontact:
 <p>E Scoil Ch&oacute;ca Naofa</p>
 </td>
 <td>
-<p>E Bye</p>
+<p>E Milltown</p>
 </td>
 </tr>
 <tr>
@@ -409,4 +392,42 @@ recaptchacontact:
 </tr>
 </tbody>
 </table>
-
+<p>Fixtures Division 2:</p>
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>22nd April</strong></p>
+</td>
+<td>
+<p><strong>29th April</strong></p>
+</td>
+<td>
+<p><strong>6th May</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>B vs. A</p>
+</td>
+<td>
+<p>C vs. A</p>
+</td>
+<td>
+<p>A vs. D</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>D vs. C</p>
+</td>
+<td>
+<p>D vs. B</p>
+</td>
+<td>
+<p>C vs. B</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The free <a href="https://html-cleaner.com/css/" target="_blank">online CSS tidy</a> lets you beautify stylesheets. Check it out now!</p>
