@@ -1,6 +1,6 @@
 ---
 title: Mini-7s-20
-media_order: 'BoysMini 7s_2020.pdf,Girls Mini 7s.docx'
+media_order: 'Girls Mini 7s.docx,BoysMini 72020.pdf'
 published: true
 taxonomy:
     category:
@@ -10,7 +10,7 @@ recaptchacontact:
 ---
 
 # Boys Football Mini 7s 2020 #
-[Click here to view boys mini 7s 2020](BoysMini%207s_2020.pdf)
+[Click here to view boys mini 7s 2020](BoysMini%2072020.pdf)
 
 # Girls Football Mini 7s 2020 #
 [Click here to view girls mini 7s2020](Girls%20Mini%207s.docx)
