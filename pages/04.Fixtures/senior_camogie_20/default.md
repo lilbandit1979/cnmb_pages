@@ -177,7 +177,7 @@ recaptchacontact:
 </tr>
 <tr>
 <td>
-<p>D G.S. Chill Dara</p>
+<p>D Bye</p>
 </td>
 <td>
 <p>D Bye</p>
