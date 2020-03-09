@@ -180,7 +180,7 @@ recaptchacontact:
 <p>D Bye</p>
 </td>
 <td>
-<p>D St. Josephs, Kilcock</p>
+<p>D St. Josephs, Celbridge</p>
 </td>
 </tr>
 </tbody>
