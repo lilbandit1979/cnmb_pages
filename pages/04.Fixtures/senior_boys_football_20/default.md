@@ -814,7 +814,7 @@ recaptchacontact:
 </tbody>
 </table>
 <p><br /><br /></p>
-<p>Senior Boys Football Division 7: 15 mins per half, 9 aside&nbsp;</p>
+<p>Senior Boys Football Division 8: 15 mins per half, 9 aside&nbsp;</p>
 <p>Co-ordinator: Victor Logan, Ballymany, 0879949978</p>
 <table>
 <tbody>
