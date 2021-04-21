@@ -12,7 +12,7 @@ Dear Cumann na mBunscol Coordinator,
 
    Cumann na  mBunscol started in Kildare in 1990. President of Cumann na mBunscol Chill Dara, Maurice Musgrave is putting together our contribution to the book. To this end he  is seeking photographs of former Cumann na mBunscol  players from schools around the county who have gone on to “ star” in various roles in society be it sport , politics, entertainment, business etc.  Any photographs can be forwarded to: 
    <br>
-  <jimhanafin4@gmail.com>]
+  <jimhanafin4@gmail.com>
   <br>
 If these photographs could be forwarded by May bank holiday weekend it would a great help to Maurice. Thanking you in advance
 
