@@ -1,5 +1,8 @@
 ---
 title: 'CNmB 50 Years Commeration'
+taxonomy:
+    category:
+        - Blog
 recaptchacontact:
     enabled: false
 ---
